@@ -1,0 +1,50 @@
+3.3.1.1	adenosylhomocysteinase	44000	-	4 * 44000, SDS-PAGE	Thermotoga maritima	-	731159	
+3.3.1.1	adenosylhomocysteinase	46000	-	x * 46000, calculated from sequence	Sulfolobus solfataricus	P50252	679985	
+3.3.1.1	adenosylhomocysteinase	47000	-	4 * 47000, SDS-PAGE; 4 * 47000, SDS-PAGE	Pyrococcus furiosus	-	670838	
+3.3.1.1	adenosylhomocysteinase	47000	-	4 * 47000, SDS-PAGE; 4 * 47000, SDS-PAGE	Pyrococcus furiosus	P50251	670838	
+3.3.1.1	adenosylhomocysteinase	47800	-	by Western blot analysis	Branchiostoma belcheri tsingtauense	-	696860	
+3.3.1.1	adenosylhomocysteinase	47800	-	by Western blot analysis	Branchiostoma belcheri tsingtauense	Q6WN55	696860	
+3.3.1.1	adenosylhomocysteinase	48000	-	4 * 48000, SDS-PAGE	Mesocricetus auratus	-	137129	
+3.3.1.1	adenosylhomocysteinase	48000	-	4 * 48000, SDS-PAGE	Trypanosoma cruzi	-	655512	
+3.3.1.1	adenosylhomocysteinase	48000	-	4 * 48000, SDS-PAGE	Trypanosoma cruzi	Q7YUF0	655512	
+3.3.1.1	adenosylhomocysteinase	48000	-	6 * 48000, SDS-PAGE	Alcaligenes faecalis	-	137127	
+3.3.1.1	adenosylhomocysteinase	49500	-	x * 49500, SDS-PAGE	Cryphonectria parasitica	-	731824	
+3.3.1.1	adenosylhomocysteinase	52000	-	4 * 52000, SDS-PAGE, 4 * 52425, calculated	Corynebacterium glutamicum	-	681504	
+3.3.1.1	adenosylhomocysteinase	52000	-	x * 52000, SDS-PAGE	Leishmania donovani	D3K115	732224	
+3.3.1.1	adenosylhomocysteinase	52425	-	4 * 52000, SDS-PAGE, 4 * 52425, calculated	Corynebacterium glutamicum	-	681504	
+3.3.1.1	adenosylhomocysteinase	52776	-	4 * 52776, calculated	Corynebacterium efficiens	-	678906	
+3.3.1.1	adenosylhomocysteinase	52776	-	4 * 52776, calculated	Corynebacterium efficiens	Q8FRJ4	678906	
+3.3.1.1	adenosylhomocysteinase	53170	-	x * 53170, calculated from amino acid sequence	Populus tomentosa	-	731552	
+3.3.1.1	adenosylhomocysteinase	53170	-	x * 53170, calculated from amino acid sequence	Populus tomentosa	A0A075TMT0	731552	
+3.3.1.1	adenosylhomocysteinase	53170	-	x * 53170, calculated from amino acid sequence	Populus tomentosa	L0AUI8	731552	
+3.3.1.1	adenosylhomocysteinase	53360	-	x * 53360, calculated from amino acid sequence	Populus tomentosa	-	731552	
+3.3.1.1	adenosylhomocysteinase	53360	-	x * 53360, calculated from amino acid sequence	Populus tomentosa	A0A075TMT0	731552	
+3.3.1.1	adenosylhomocysteinase	53360	-	x * 53360, calculated from amino acid sequence	Populus tomentosa	L0AUI8	731552	
+3.3.1.1	adenosylhomocysteinase	54000	-	4 * 55600, calculated, 4 * 54000, SDS-PAGE	Cryptosporidium parvum	-	679912	
+3.3.1.1	adenosylhomocysteinase	54000	-	4 * 55600, calculated, 4 * 54000, SDS-PAGE	Cryptosporidium parvum	Q6YBX8	679912	
+3.3.1.1	adenosylhomocysteinase	55000	-	2 * 55000, SDS-PAGE	Lupinus luteus	-	731047	
+3.3.1.1	adenosylhomocysteinase	55000	-	SDS-PAGE	Lupinus luteus	-	137122, 137134	
+3.3.1.1	adenosylhomocysteinase	55000	-	SDS-PAGE	Lupinus luteus	Q9SP37	695351	
+3.3.1.1	adenosylhomocysteinase	55600	-	4 * 55600, calculated, 4 * 54000, SDS-PAGE	Cryptosporidium parvum	-	679912	
+3.3.1.1	adenosylhomocysteinase	55600	-	4 * 55600, calculated, 4 * 54000, SDS-PAGE	Cryptosporidium parvum	Q6YBX8	679912	
+3.3.1.1	adenosylhomocysteinase	60000	-	4 * 60000, SDS-PAGE	Bos taurus	-	137133	
+3.3.1.1	adenosylhomocysteinase	110000	-	gel filtration	Lupinus luteus	-	137122, 137134, 731047	
+3.3.1.1	adenosylhomocysteinase	165000	-	pore gradient gel electrophoresis	Lupinus luteus	-	137122	
+3.3.1.1	adenosylhomocysteinase	180000	-	gel filtration	Thermotoga maritima	-	731159	
+3.3.1.1	adenosylhomocysteinase	190000	-	gel filtration; gel filtration	Pyrococcus furiosus	-	670838	
+3.3.1.1	adenosylhomocysteinase	190000	-	gel filtration; gel filtration	Pyrococcus furiosus	P50251	670838	
+3.3.1.1	adenosylhomocysteinase	200000	-	gel filtration	Trypanosoma cruzi	-	655512	
+3.3.1.1	adenosylhomocysteinase	200000	-	gel filtration	Trypanosoma cruzi	Q7YUF0	655512	
+3.3.1.1	adenosylhomocysteinase	200000	-	gradient gel electrophoresis	Mesocricetus auratus	-	137129	
+3.3.1.1	adenosylhomocysteinase	200000	-	pore gradient gel electrophoresis	Lupinus luteus	-	137122	
+3.3.1.1	adenosylhomocysteinase	210000	-	gel filtration	Corynebacterium efficiens	-	678906	
+3.3.1.1	adenosylhomocysteinase	210000	-	gel filtration	Corynebacterium efficiens	Q8FRJ4	678906	
+3.3.1.1	adenosylhomocysteinase	210000	-	gel filtration	Corynebacterium glutamicum	-	681504	
+3.3.1.1	adenosylhomocysteinase	210000	-	native PAGE	Bos taurus	-	137133	
+3.3.1.1	adenosylhomocysteinase	220000	-	analytical ultracentrifugation	Bos taurus	-	137133	
+3.3.1.1	adenosylhomocysteinase	237000	-	gradient gel electrophoresis	Bos taurus	-	137133	
+3.3.1.1	adenosylhomocysteinase	244000	-	gel filtration	Cryptosporidium parvum	-	679912	
+3.3.1.1	adenosylhomocysteinase	244000	-	gel filtration	Cryptosporidium parvum	Q6YBX8	679912	
+3.3.1.1	adenosylhomocysteinase	280000	-	sedimentation equilibrium	Alcaligenes faecalis	-	137127	
+3.3.1.1	adenosylhomocysteinase	290000	-	gel filtration	Alcaligenes faecalis	-	137127	
+3.3.1.1	adenosylhomocysteinase	310000	-	native PAGE	Alcaligenes faecalis	-	137127	
