@@ -1,0 +1,81 @@
+2.7.1.1	hexokinase	30000	33000	gel filtration	Aeropyrum pernix	-	641061	
+2.7.1.1	hexokinase	31000	-	4 * 31000, recombinant enzyme, SDS-PAGE, 4 * 31426, sequence calculation	Thermus caldophilus	Q5RLG0	660912	
+2.7.1.1	hexokinase	31426	-	4 * 31000, recombinant enzyme, SDS-PAGE, 4 * 31426, sequence calculation	Thermus caldophilus	Q5RLG0	660912	
+2.7.1.1	hexokinase	32000	-	2 * 32000, SDS-PAGE	Sulfolobus tokodaii	-	674266	
+2.7.1.1	hexokinase	32100	-	2 * 32100, calculated from sequence	Sulfolobus tokodaii	-	674266	
+2.7.1.1	hexokinase	32543	-	1 * 32543, calculated from the amino acid sequence, x * 33000, SDS-PAGE	Thermoproteus tenax	-	640255	
+2.7.1.1	hexokinase	32543	-	1 * 32543, calculated from the amino acid sequence, x * 33000, SDS-PAGE	Thermoproteus tenax	Q7ZAH1	640255	
+2.7.1.1	hexokinase	33000	-	1 * 32543, calculated from the amino acid sequence, x * 33000, SDS-PAGE	Thermoproteus tenax	-	640255	
+2.7.1.1	hexokinase	33000	-	1 * 32543, calculated from the amino acid sequence, x * 33000, SDS-PAGE	Thermoproteus tenax	Q7ZAH1	640255	
+2.7.1.1	hexokinase	33000	-	x * 33000, SDS-PAGE	Lysinibacillus sphaericus	A0SZU9	671492	
+2.7.1.1	hexokinase	36000	-	1 * 36000, SDS-PAGE	Aeropyrum pernix	-	641061	
+2.7.1.1	hexokinase	40000	-	gel filtration	Thermoproteus tenax	-	640255	
+2.7.1.1	hexokinase	40000	-	gel filtration	Thermoproteus tenax	Q7ZAH1	640255	
+2.7.1.1	hexokinase	40000	50000	gel filtration	 Hex A, Hex B and Hex C	Drosophila melanogaster	-	640226
+2.7.1.1	hexokinase	40000	50000	Hex A, Hex B and Hex C	Drosophila melanogaster	-	640208	
+2.7.1.1	hexokinase	42000	-	Hex C2, gel filtration	 isoenzyme Hex C2, gel filtration	Drosophila melanogaster	-	640226
+2.7.1.1	hexokinase	47000	-	Hex A, gel filtration	 isoenzyme Hex A, gel filtration	Drosophila melanogaster	-	640226
+2.7.1.1	hexokinase	47000	-	isozymes HKI and HKII, gel filtration	Brassica rapa subsp. campestris	-	663035	
+2.7.1.1	hexokinase	47500	-	2 * 47500, SDS-PAGE	Schizosaccharomyces pombe	-	287006	
+2.7.1.1	hexokinase	48000	-	Hex B2, gel filtration	 isoenzyme Hex B2, gel filtration	Drosophila melanogaster	-	640226
+2.7.1.1	hexokinase	49000	-	2 * 49000, at high ionic strength the enzyme exists as dimer, SDS-PAGE	 4 * 52000, predominant form, enzyme exists in several aggregation states, calculated from the amino acid sequence, 4 * 49000, SDS-PAGE	Trypanosoma cruzi	Q8ST54	640265
+2.7.1.1	hexokinase	50000	-	2 * 50000, SDS-PAGE	Aspergillus niger	-	640242	
+2.7.1.1	hexokinase	50000	-	gel filtration	Schizosaccharomyces pombe	P50521	640257	
+2.7.1.1	hexokinase	50000	-	gel filtration	Schizosaccharomyces pombe	Q09756	640257	
+2.7.1.1	hexokinase	50000	-	x * 50000, SDS-PAGE	Canis lupus familiaris	-	661740	
+2.7.1.1	hexokinase	50000	-	x * 50000, SDS-PAGE	Trypanosoma brucei	-	2572	
+2.7.1.1	hexokinase	50400	-	x * 55000, calculated from the amino acid sequence, x * 50400, 52 kDa with His-tag at the N-terminus, SDS-PAGE	Schistosoma mansoni	-	640253	
+2.7.1.1	hexokinase	51000	-	x * 51000, SDS-PAGE, x * 51465, calculated from the amino acid sequence	Toxoplasma gondii	-	640260	
+2.7.1.1	hexokinase	51000	-	x * 51000, SDS-PAGE, x * 51465, calculated from the amino acid sequence	Toxoplasma gondii	Q969A8	640260	
+2.7.1.1	hexokinase	51465	-	x * 51000, SDS-PAGE, x * 51465, calculated from the amino acid sequence	Toxoplasma gondii	-	640260	
+2.7.1.1	hexokinase	51465	-	x * 51000, SDS-PAGE, x * 51465, calculated from the amino acid sequence	Toxoplasma gondii	Q969A8	640260	
+2.7.1.1	hexokinase	51600	-	calculated from amino acid sequence	Ogataea angusta	-	641066	
+2.7.1.1	hexokinase	52000	-	4 * 52000, predominant form, enzyme exists in several aggregation states, calculated from the amino acid sequence, 4 * 49000, SDS-PAGE	Trypanosoma cruzi	Q8ST54	640265	
+2.7.1.1	hexokinase	52600	-	predicted from cDNA	Helianthus annuus	-	723049	
+2.7.1.1	hexokinase	52600	-	predicted from cDNA	Helianthus annuus	B8K2W7	723049	
+2.7.1.1	hexokinase	53000	-	gel filtration	Schizosaccharomyces pombe	P50521	640257	
+2.7.1.1	hexokinase	53000	-	gel filtration	Schizosaccharomyces pombe	Q09756	640257	
+2.7.1.1	hexokinase	53400	-	x * 53400, calculated from the DNA sequence	Schwanniomyces occidentalis	-	640250	
+2.7.1.1	hexokinase	53476	-	1 * 54000, recombinant enzyme, SDS-PAGE and sedimentation equilibrium, 1 * 53476, recombinant enzyme, mass spectrometry and sedimentation equilibrium	 2 * 54000, recombinant enzyme, SDS-PAGE and sedimentation equilibrium, 2 * 53476, recombinant enzyme, mass spectrometry and sedimentation equilibrium	Kluyveromyces lactis	P33284	662159
+2.7.1.1	hexokinase	54000	-	1 * 54000, both isoenzymes PI and PII, SDS-PAGE	Saccharomyces cerevisiae	-	640218	
+2.7.1.1	hexokinase	54000	-	1 * 54000, recombinant enzyme, SDS-PAGE and sedimentation equilibrium, 1 * 53476, recombinant enzyme, mass spectrometry and sedimentation equilibrium	 2 * 54000, recombinant enzyme, SDS-PAGE and sedimentation equilibrium, 2 * 53476, recombinant enzyme, mass spectrometry and sedimentation equilibrium	Kluyveromyces lactis	P33284	662159
+2.7.1.1	hexokinase	54000	-	x * 54000, about, amino acid sequence calculation	Nicotiana tabacum	-	661772	
+2.7.1.1	hexokinase	54000	-	x * 54000, about, amino acid sequence calculation	Nicotiana tabacum	Q6Q8A5	661772	
+2.7.1.1	hexokinase	54000	-	x * 54000, catalytically active recombinant carboxyl-domain of hexokinase type III, SDS-PAGE	Homo sapiens	-	640261	
+2.7.1.1	hexokinase	54200	-	x * 54200, about, sequence calculation	Ogataea angusta	-	661535	
+2.7.1.1	hexokinase	54200	-	x * 54200, about, sequence calculation	Ogataea angusta	Q96VP5	661535	
+2.7.1.1	hexokinase	55000	-	x * 55000, calculated from the amino acid sequence, x * 50400, 52 kDa with His-tag at the N-terminus, SDS-PAGE	Schistosoma mansoni	-	640253	
+2.7.1.1	hexokinase	55000	60000	both isoenzymes PI and PII, FPLC gel filtration	Saccharomyces cerevisiae	-	640218	
+2.7.1.1	hexokinase	56000	-	x * 111000, recombinant full length enzyme, SDS-PAGE, x * 56000, recombinant catalytic C-terminal domain, SDS-PAGE	Bos taurus	Q5W5U3	662842	
+2.7.1.1	hexokinase	64000	-	gel filtration	Sulfolobus tokodaii	-	674266	
+2.7.1.1	hexokinase	72000	-	4 * 72000, SDS-PAGE	Brugia malayi	-	689319	
+2.7.1.1	hexokinase	72000	-	4 * 72000, SDS-PAGE	Brugia malayi	Q56VN6	689319	
+2.7.1.1	hexokinase	88000	-	gel filtration	Schizosaccharomyces pombe	-	287006	
+2.7.1.1	hexokinase	96000	-	Hex II, gel filtration	Candida maltosa	-	640232	
+2.7.1.1	hexokinase	97000	-	hexokinases B and C, gel filtration	Rattus norvegicus	-	640233	
+2.7.1.1	hexokinase	97000	100000	gel filtration	Ascaris suum	-	640209	
+2.7.1.1	hexokinase	98000	-	1 * 98000, hexokinase B, SDS-PAGE	Rattus norvegicus	-	640233	
+2.7.1.1	hexokinase	98000	-	sucrose density gradient sedimentation	Oryctolagus cuniculus	-	640214	
+2.7.1.1	hexokinase	100000	-	gel filtration	Aspergillus niger	-	640242	
+2.7.1.1	hexokinase	100000	-	gel filtration	 hexokinases II and III	Sus scrofa	-	640240
+2.7.1.1	hexokinase	100000	-	hexokinase II	Rattus norvegicus	-	640252	
+2.7.1.1	hexokinase	100000	-	hexokinases Ia, Ib and Ic	 sucrose density gradient sedimentation	Homo sapiens	-	640230
+2.7.1.1	hexokinase	100000	-	HK I	Rattus norvegicus	-	640211	
+2.7.1.1	hexokinase	100000	-	isozymes type I-III	Mammalia	-	662531	
+2.7.1.1	hexokinase	100000	-	natural hexokinase, dimer, at high ionic strength, enzyme exists in several aggregation states	Trypanosoma cruzi	Q8ST54	640265	
+2.7.1.1	hexokinase	100000	-	SDS-PAGE	Rana sylvatica	-	722079	
+2.7.1.1	hexokinase	100000	-	sedimentation equilibrium	Rattus norvegicus	-	640207	
+2.7.1.1	hexokinase	101000	-	1 * 101000, hexokinase C, SDS-PAGE	Rattus norvegicus	-	640233	
+2.7.1.1	hexokinase	103000	-	1 * 103000 or 1 * 112000, 2 subtypes of hexokinase type I, SDS-PAGE	Homo sapiens	-	640237	
+2.7.1.1	hexokinase	104000	-	1 * 104000, reticulocyte hexokinase Ia and Ib, SDS-PAGE	Oryctolagus cuniculus	-	640228	
+2.7.1.1	hexokinase	105000	-	reticulocyte hexokinase Ia and Ib, gel filtration, sucrose density gradient sedimentation	Oryctolagus cuniculus	-	640228	
+2.7.1.1	hexokinase	106000	-	gel filtration	Rattus norvegicus	-	640207	
+2.7.1.1	hexokinase	108000	-	1 * 108000, SDS-PAGE	Rattus norvegicus	-	640207	
+2.7.1.1	hexokinase	110000	-	gel filtration	 Hex I	Candida maltosa	-	640232
+2.7.1.1	hexokinase	111000	-	x * 111000, recombinant full length enzyme, SDS-PAGE, x * 56000, recombinant catalytic C-terminal domain, SDS-PAGE	Bos taurus	Q5W5U3	662842	
+2.7.1.1	hexokinase	112000	-	1 * 103000 or 1 * 112000, 2 subtypes of hexokinase type I, SDS-PAGE	Homo sapiens	-	640237	
+2.7.1.1	hexokinase	118000	-	both subtypes of hexokinase type I, gel filtration	Homo sapiens	-	640237	
+2.7.1.1	hexokinase	120000	-	recombinant enzyme, gel filtration	Thermus caldophilus	Q5RLG0	660912	
+2.7.1.1	hexokinase	180000	-	recombinant hexokinase expressed in Escherichia coli XL-1 Blue, at low ionic strength, gel filtration	Trypanosoma cruzi	Q8ST54	640265	
+2.7.1.1	hexokinase	200000	-	gel filtration	 natural hexokinase, tetramer, at low ionic strength, enzyme exists in several aggregation states	Trypanosoma cruzi	Q8ST54	640265
+2.7.1.1	hexokinase	200000	-	gel filtration	 tendency of 100 kDa hexokinases to aggregate	Bubalus bubalis	-	640251
