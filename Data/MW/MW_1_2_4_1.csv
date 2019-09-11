@@ -1,0 +1,21 @@
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	36000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	 alpha2,beta2, 2 * 41000 + 2 * 36000	Bos taurus	-	348910
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	37000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	38000	-	alpha2,beta2, 2 * 42000 + 2 * 38000, SDS-PAGE	Ascaris sp.	-	348926	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	41000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	 alpha2,beta2, 2 * 41000 + 2 * 36000	Bos taurus	-	348910
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	41000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	42000	-	alpha2,beta2, 2 * 42000 + 2 * 38000, SDS-PAGE	Ascaris sp.	-	348926	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	43000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	50000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	52000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	55000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	60000	-	4 * 60000, SDS-PAGE	Zymomonas mobilis	-	663808	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	63000	-	x * 63000, SDS-PAGE	Zymobacter palmae	-	664698	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	92500	-	x * 92500, SDS-PAGE	Pseudomonas aeruginosa	-	348962	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	93000	-	2 * 93000, SDS-PAGE, 2 * 98082, calculated	Pseudomonas putida	O33468	736649	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	98082	-	2 * 93000, SDS-PAGE, 2 * 98082, calculated	Pseudomonas putida	O33468	736649	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	99470	-	pyruvate dehydrogenase multienzyme complex component E1	Escherichia coli	P0AFG8	654647	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	100000	-	2 * 100000, SDS-PAGE	Escherichia coli	-	348960	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	100000	-	2 * 100000, SDS-PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	348948	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	100000	-	x * 100000, SDS-PAGE	Thermus thermophilus	-	348986	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	185000	-	gel filtration	Pseudomonas putida	O33468	736649	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	240000	-	gel filtration, recombinant protein from Escherichia coli and from Haloferax volcanii	Zymomonas mobilis	-	663808	
