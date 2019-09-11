@@ -1,0 +1,36 @@
+4.2.1.20	tryptophan synthase	additional information	-	determination of Stoke's radii of native, stable intermediates and unfolded conformers of the purified recombinant alpha-subunit dependent on urea concentrations	649871	
+4.2.1.20	tryptophan synthase	20800	-	2 * 20800 + 2 * 67400, heterotetramer from subunits TrpA and TrpB1, SDS-PAGE	727489	
+4.2.1.20	tryptophan synthase	25500	-	2 * 25500 + 2 * 41750, gel filtration	678168	
+4.2.1.20	tryptophan synthase	26200	-	recombinant TrpA monomer, sedimentation equilibrium	652353	
+4.2.1.20	tryptophan synthase	27500	-	alpha-subunit monomer, ultracentrifugation sedimentation equilibrium	652506	
+4.2.1.20	tryptophan synthase	27700	-	2 * 27700 + 2 * 42600, heterotetramer from subunits TrpA and TrpB1, calculated from amino acid sequence; 2 * 27700 (subunit TrpA) + 2 * 42600 (subunit TrpB1), calculated from sequence, tryptophan synthase is composed of subunit TrpA and subunit TrpB. Thermococcus kodakarensis possess two paralogs of subunit B, TrpB1 and TrpB2. TrpB2 catalyzes the TrpB reaction but does not interact with TrpA as in the case of TrpB1; 2 * 27700 (subunit TrpA) + 2 * 49300 (subunit TrpB2), calculated from sequence, tryptophan synthase is composed of subunit TrpA and subunit TrpB. Thermococcus kodakarensis possess two paralogs of subunit B, TrpB1 and TrpB2. TrpB2 catalyzes the TrpB reaction but does not interact with TrpA as in the case of TrpB1	727489	
+4.2.1.20	tryptophan synthase	28800	-	alpha subunit, x * 28800, calculation from amino acid sequence, x * 31000, SDS-PAGE	33302	
+4.2.1.20	tryptophan synthase	29000	-	1 * 29000, alpha-subunit, SDS-PAGE	653803	
+4.2.1.20	tryptophan synthase	29000	-	SDS-PAGE	682732	
+4.2.1.20	tryptophan synthase	31000	-	alpha subunit, x * 28800, calculation from amino acid sequence, x * 31000, SDS-PAGE	33302	
+4.2.1.20	tryptophan synthase	33000	-	x * 33000 (alpha) + x * 51000 (beta), SDS-PAGE	5571	
+4.2.1.20	tryptophan synthase	41750	-	2 * 25500 + 2 * 41750, gel filtration	678168	
+4.2.1.20	tryptophan synthase	42500	-	2 * 275000 + 2 * 42500, recombinant alpha2beta2 enzyme complex, SDS-PAGE; 2 * 42500, recombinant beta-subunit, SDS-PAGE	652506	
+4.2.1.20	tryptophan synthase	42600	-	2 * 27700 + 2 * 42600, heterotetramer from subunits TrpA and TrpB1, calculated from amino acid sequence; 2 * 27700 (subunit TrpA) + 2 * 42600 (subunit TrpB1), calculated from sequence, tryptophan synthase is composed of subunit TrpA and subunit TrpB. Thermococcus kodakarensis possess two paralogs of subunit B, TrpB1 and TrpB2. TrpB2 catalyzes the TrpB reaction but does not interact with TrpA as in the case of TrpB1	727489	
+4.2.1.20	tryptophan synthase	43000	-	89000, B2 subunit, polyacrylamide gel electrophoresis, 2 * 43000, B subunit, SDS-PAGE	5556	
+4.2.1.20	tryptophan synthase	43530	-	calculated from amino acid sequence	714514	
+4.2.1.20	tryptophan synthase	49300	-	2 * 27700 (subunit TrpA) + 2 * 49300 (subunit TrpB2), calculated from sequence, tryptophan synthase is composed of subunit TrpA and subunit TrpB. Thermococcus kodakarensis possess two paralogs of subunit B, TrpB1 and TrpB2. TrpB2 catalyzes the TrpB reaction but does not interact with TrpA as in the case of TrpB1	727489	
+4.2.1.20	tryptophan synthase	50000	-	SDS-PAGE, recombinant protein	701445	
+4.2.1.20	tryptophan synthase	50220	-	mass spectroscopy	701445	
+4.2.1.20	tryptophan synthase	51000	-	x * 33000 (alpha) + x * 51000 (beta), SDS-PAGE	5571	
+4.2.1.20	tryptophan synthase	67400	-	2 * 20800 + 2 * 67400, heterotetramer from subunits TrpA and TrpB1, SDS-PAGE	727489	
+4.2.1.20	tryptophan synthase	74000	-	2 * 74000, SDS-PAGE	5554	
+4.2.1.20	tryptophan synthase	74000	-	74000, SDS-PAGE	5561	
+4.2.1.20	tryptophan synthase	77000	-	2 * 77000, sedimentation equilibrium in 6 M guanidine hydrochloride	5555	
+4.2.1.20	tryptophan synthase	82000	-	2 * 39700-41000, beta subunit, 1 * 82000, beta2 subunit, ultracentrifugation, SDS-PAGE	5564	
+4.2.1.20	tryptophan synthase	84000	88000	beta-subunit dimer, ultracentrifugation sedimentation equilibrium	652506	
+4.2.1.20	tryptophan synthase	89000	-	89000, B2 subunit, polyacrylamide gel electrophoresis, 2 * 43000, B subunit, SDS-PAGE	5556	
+4.2.1.20	tryptophan synthase	91000	-	recombinant TrpB1 dimer, sedimentation equilibrium	652353	
+4.2.1.20	tryptophan synthase	98000	-	recombinant TrpB2 dimer, sedimentation equilibrium	652353	
+4.2.1.20	tryptophan synthase	107800	116500	different TrpA-TrpB2i complexes, gel filtration	714182	
+4.2.1.20	tryptophan synthase	134500	-	gel filtration	678168	
+4.2.1.20	tryptophan synthase	140000	-	enzyme complex alpha2beta2, ultracentrifugation sedimentation equilibrium	652506	
+4.2.1.20	tryptophan synthase	140000	-	recombinant alphabetabetaalpha complex of TRpA and TrpB1, sedimentation equilibrium	652353	
+4.2.1.20	tryptophan synthase	140600	-	heterotetramer from subunits TrpA and TrpB1, calculated from amino acid sequence	727489	
+4.2.1.20	tryptophan synthase	153000	-	sedimentation equilibrium centrifugation	5555	
+4.2.1.20	tryptophan synthase	275000	-	2 * 275000 + 2 * 42500, recombinant alpha2beta2 enzyme complex, SDS-PAGE	652506	
