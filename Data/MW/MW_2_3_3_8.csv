@@ -1,0 +1,30 @@
+2.3.3.8	ATP citrate synthase	40000	-	x * 43675 + y * 65535, calculated, x * 40000 + x * 65000, SDS-PAGE	Chlorobium limicola	Q9AQH6	658601	
+2.3.3.8	ATP citrate synthase	43000	-	6 * 43000, SDS-PAGE	Hydrogenobacter thermophilus	-	488211	
+2.3.3.8	ATP citrate synthase	43675	-	x * 43675 + y * 65535, calculated, x * 40000 + x * 65000, SDS-PAGE	Chlorobium limicola	Q9AQH6	658601	
+2.3.3.8	ATP citrate synthase	45000	-	4 * 45000 + 4 * 65000, SDS-PAGE	Arabidopsis sp.	-	488222	
+2.3.3.8	ATP citrate synthase	55000	-	3 * 70000 + 3 * 55000	Aspergillus nidulans	Q5BAJ4 and Q5BAJ5	719383	
+2.3.3.8	ATP citrate synthase	55000	-	x * 55000 + x * 70000, may have hexameric structure, SDS-PAGE	Aspergillus nidulans	-	488216	
+2.3.3.8	ATP citrate synthase	65000	-	4 * 45000 + 4 * 65000, SDS-PAGE	Arabidopsis sp.	-	488222	
+2.3.3.8	ATP citrate synthase	65000	-	x * 43675 + y * 65535, calculated, x * 40000 + x * 65000, SDS-PAGE	Chlorobium limicola	Q9AQH6	658601	
+2.3.3.8	ATP citrate synthase	65535	-	x * 43675 + y * 65535, calculated, x * 40000 + x * 65000, SDS-PAGE	Chlorobium limicola	Q9AQH6	658601	
+2.3.3.8	ATP citrate synthase	66000	-	x * 66000, SDS-PAGE	Cyanophora paradoxa	-	659954	
+2.3.3.8	ATP citrate synthase	66000	-	x * 66000, SDS-PAGE	Cyanophora paradoxa	Q9XGL5	659954	
+2.3.3.8	ATP citrate synthase	70000	-	3 * 70000 + 3 * 55000	Aspergillus nidulans	Q5BAJ4 and Q5BAJ5	719383	
+2.3.3.8	ATP citrate synthase	70000	-	x * 55000 + x * 70000, may have hexameric structure, SDS-PAGE	Aspergillus nidulans	-	488216	
+2.3.3.8	ATP citrate synthase	120000	-	4 * 120000, MALDI TOF mass spectrometry	Phaffia rhodozyma	A0A0K0NLA0	736127	
+2.3.3.8	ATP citrate synthase	120000	-	4 * 120000, the two minor proteins 51000 Da and 49000 Da can be the result of proteolytic cleavage of ATP:citrate lyase by an endogenous trypsin-like proteinase	Rhodotorula toruloides	-	488217	
+2.3.3.8	ATP citrate synthase	120000	-	x * 120000, SDS-PAGE	Brassica napus	-	488224	
+2.3.3.8	ATP citrate synthase	120000	-	x * 120000, SDS-PAGE	Spinacia oleracea	-	488224	
+2.3.3.8	ATP citrate synthase	120100	-	4 * 120100, calculated from amino acid sequence	Phaffia rhodozyma	A0A0K0NLA0	736127	
+2.3.3.8	ATP citrate synthase	135000	-	4 * 135000, SDS-PAGE	Chlorobaculum tepidum	-	488209	
+2.3.3.8	ATP citrate synthase	200000	-	above, gel filtration	Talaromyces trachyspermus	-	488203	
+2.3.3.8	ATP citrate synthase	260000	-	gel filtration	Hydrogenobacter thermophilus	-	488211	
+2.3.3.8	ATP citrate synthase	380000	385000	equilibrium sedimentation	Aspergillus nidulans	-	488216	
+2.3.3.8	ATP citrate synthase	400000	-	gel filtration	Ricinus communis	-	488198	
+2.3.3.8	ATP citrate synthase	480000	-	gel filtration	Rhodotorula toruloides	-	488183	
+2.3.3.8	ATP citrate synthase	480000	-	more than 480000 Da, gel filtration	Aspergillus nidulans	-	488216	
+2.3.3.8	ATP citrate synthase	500000	-	gel filtration	Arabidopsis sp.	-	488222	
+2.3.3.8	ATP citrate synthase	510000	-	gel filtration	Lipomyces starkeyi	-	488187	
+2.3.3.8	ATP citrate synthase	520000	-	gel filtration	Rhodotorula toruloides	-	488217	
+2.3.3.8	ATP citrate synthase	532000	557000	gel filtration	Chlorobium limicola	Q9AQH6	658601	
+2.3.3.8	ATP citrate synthase	550000	-	gel filtration	Chlorobaculum tepidum	-	488209	
