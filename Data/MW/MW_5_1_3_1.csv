@@ -1,0 +1,11 @@
+5.1.3.1	ribulose-phosphate 3-epimerase	22500	-	2 * 22500, SDS-PAGE	Bos taurus	-	738147	
+5.1.3.1	ribulose-phosphate 3-epimerase	23000	-	2 * 23000, SDS-PAGE	Homo sapiens	-	2231	
+5.1.3.1	ribulose-phosphate 3-epimerase	24300	-	2 * 24300, cyt-RPEase, calculation from nucleotide sequence	Oryza sativa	-	651988	
+5.1.3.1	ribulose-phosphate 3-epimerase	25000	-	8 * 25000, SDS-PAGE	Spinacia oleracea	-	653499	
+5.1.3.1	ribulose-phosphate 3-epimerase	25966	-	x * 25966, calculation from nucleotide sequence	Saccharomyces cerevisiae	-	2241	
+5.1.3.1	ribulose-phosphate 3-epimerase	26000	-	2 * 26000, SDS-PAGE	Saccharomyces cerevisiae	-	2236	
+5.1.3.1	ribulose-phosphate 3-epimerase	43000	-	gel filtration	Bos taurus	-	738147	
+5.1.3.1	ribulose-phosphate 3-epimerase	45000	-	gel filtration	Homo sapiens	-	2231	
+5.1.3.1	ribulose-phosphate 3-epimerase	50000	-	sedimentation equilibrium experiments	Saccharomyces cerevisiae	-	2236	
+5.1.3.1	ribulose-phosphate 3-epimerase	55000	-	cyt-RPEase, gel filtration	Oryza sativa	-	651988	
+5.1.3.1	ribulose-phosphate 3-epimerase	200000	-	gel filtration	Spinacia oleracea	-	653499	
