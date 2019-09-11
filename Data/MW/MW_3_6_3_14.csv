@@ -1,0 +1,27 @@
+3.6.3.14	H+-transporting two-sector ATPase	9700	-	x * 70000 (subunit A) + x * 55000 (subunit B), + x * 37000 (subunit C) + x * 12000 (subunit E) + x * 9700 (subunit c), SDS-PAGE	Haloferax volcanii	-	727822
+3.6.3.14	H+-transporting two-sector ATPase	12000	-	alpha3,beta3,tau1,delta1,epsilon1, 3 * 66000 + 3 * 60200 + 1 * 36300 + 1 * 15000 + 1 * 12000, F1 subunit, SDS-PAGE	Gallus gallus	-	210241
+3.6.3.14	H+-transporting two-sector ATPase	12000	-	x * 70000 (subunit A) + x * 55000 (subunit B), + x * 37000 (subunit C) + x * 12000 (subunit E) + x * 9700 (subunit c), SDS-PAGE	Haloferax volcanii	-	727822
+3.6.3.14	H+-transporting two-sector ATPase	14722	-	x * 51305, beta subunit, plus x * 14722, epsilon subunit, calculated, plus x * alpha and gamma subunits	Bacillus megaterium	-	677903
+3.6.3.14	H+-transporting two-sector ATPase	15000	-	alpha3,beta3,tau1,delta1,epsilon1, 3 * 66000 + 3 * 60200 + 1 * 36300 + 1 * 15000 + 1 * 12000, F1 subunit, SDS-PAGE	Gallus gallus	-	210241
+3.6.3.14	H+-transporting two-sector ATPase	21000	-	alpha3,beta3,gamma1,delta1,epsilon1, 1 * 60000 + 3 * 53000 + 1 * 31000 + 1 * 25000 + 1 * 21000, SDS-PAGE	Phycomyces blakesleeanus	-	210261
+3.6.3.14	H+-transporting two-sector ATPase	22880	-	calculated from sequence	Pyrococcus horikoshii	O57724	721176
+3.6.3.14	H+-transporting two-sector ATPase	25000	-	alpha3,beta3,gamma1,delta1,epsilon1, 1 * 60000 + 3 * 53000 + 1 * 31000 + 1 * 25000 + 1 * 21000, SDS-PAGE	Phycomyces blakesleeanus	-	210261
+3.6.3.14	H+-transporting two-sector ATPase	31000	-	alpha3,beta3,gamma1,delta1,epsilon1, 1 * 60000 + 3 * 53000 + 1 * 31000 + 1 * 25000 + 1 * 21000, SDS-PAGE	Phycomyces blakesleeanus	-	210261
+3.6.3.14	H+-transporting two-sector ATPase	36300	-	alpha3,beta3,tau1,delta1,epsilon1, 3 * 66000 + 3 * 60200 + 1 * 36300 + 1 * 15000 + 1 * 12000, F1 subunit, SDS-PAGE	Gallus gallus	-	210241
+3.6.3.14	H+-transporting two-sector ATPase	37000	-	x * 70000 (subunit A) + x * 55000 (subunit B), + x * 37000 (subunit C) + x * 12000 (subunit E) + x * 9700 (subunit c), SDS-PAGE	Haloferax volcanii	-	727822
+3.6.3.14	H+-transporting two-sector ATPase	51305	-	x * 51305, beta subunit, plus x * 14722, epsilon subunit, calculated, plus x * alpha and gamma subunits	Bacillus megaterium	-	677903
+3.6.3.14	H+-transporting two-sector ATPase	51526	-	x * 51526, calculated for beta subunit	Sulfolobus acidocaldarius	-	680590
+3.6.3.14	H+-transporting two-sector ATPase	53000	-	alpha3,beta3,gamma1,delta1,epsilon1, 1 * 60000 + 3 * 53000 + 1 * 31000 + 1 * 25000 + 1 * 21000, SDS-PAGE	Phycomyces blakesleeanus	-	210261
+3.6.3.14	H+-transporting two-sector ATPase	55000	-	x * 70000 (subunit A) + x * 55000 (subunit B), + x * 37000 (subunit C) + x * 12000 (subunit E) + x * 9700 (subunit c), SDS-PAGE	Haloferax volcanii	-	727822
+3.6.3.14	H+-transporting two-sector ATPase	60000	-	alpha3,beta3,gamma1,delta1,epsilon1, 1 * 60000 + 3 * 53000 + 1 * 31000 + 1 * 25000 + 1 * 21000, SDS-PAGE	Phycomyces blakesleeanus	-	210261
+3.6.3.14	H+-transporting two-sector ATPase	60200	-	alpha3,beta3,tau1,delta1,epsilon1, 3 * 66000 + 3 * 60200 + 1 * 36300 + 1 * 15000 + 1 * 12000, F1 subunit, SDS-PAGE	Gallus gallus	-	210241
+3.6.3.14	H+-transporting two-sector ATPase	62800	-	x * 62800, recombinant His3-tagged subunit A of V1VO ATPase, SDS-PAGE	Aedes albopictus	-	689859
+3.6.3.14	H+-transporting two-sector ATPase	66000	-	alpha3,beta3,tau1,delta1,epsilon1, 3 * 66000 + 3 * 60200 + 1 * 36300 + 1 * 15000 + 1 * 12000, F1 subunit, SDS-PAGE	Gallus gallus	-	210241
+3.6.3.14	H+-transporting two-sector ATPase	66009	-	x * 66009, calculated for alpha subunit	Sulfolobus acidocaldarius	-	680591
+3.6.3.14	H+-transporting two-sector ATPase	66009	-	x * 66009, calculated for alpha subunit	Sulfolobus acidocaldarius	Q971B7	680591
+3.6.3.14	H+-transporting two-sector ATPase	70000	-	x * 70000 (subunit A) + x * 55000 (subunit B), + x * 37000 (subunit C) + x * 12000 (subunit E) + x * 9700 (subunit c), SDS-PAGE	Haloferax volcanii	-	727822
+3.6.3.14	H+-transporting two-sector ATPase	280000	-	equilibrium sedimentation	Geobacillus stearothermophilus	-	210238
+3.6.3.14	H+-transporting two-sector ATPase	300000	-	gel filtration	Alcaligenes faecalis	-	210238
+3.6.3.14	H+-transporting two-sector ATPase	300000	-	gel filtration	Rhodobacter sphaeroides	-	210238
+3.6.3.14	H+-transporting two-sector ATPase	379000	-	strain KM, sedimentation equilibrium centrifugation	Bacillus megaterium	-	210238
+3.6.3.14	H+-transporting two-sector ATPase	390000	-	gel filtration	Phycomyces blakesleeanus	-	210261
