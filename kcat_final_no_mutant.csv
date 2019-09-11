@@ -1,0 +1,905 @@
+EC	modelRxn	kcat_1/sec	KeggID		Commentary	Organism	LigandStructureID	literature	EC_KeggID	tax_dist
+1.1.1.85	3IPMDH_h	0.622	C04411	cpd:C04411   (2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	wild-type, pH not specified in the publication, temperature not specified in the publication	Arabidopsis thaliana	856	725437	1.1.1.85C04411	0
+1.1.1.85		4.57	C04411	cpd:C04411   (2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	wild type enzyme, at pH 7.5 and 25&degC	Arabidopsis thaliana	856	738685	1.1.1.85C04411	0
+1.1.1.85		6.22	C04411	cpd:C04411   (2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	wild-type, pH not specified in the publication, temperature not specified in the publication	Arabidopsis thaliana	856	725437	1.1.1.85C04411	0
+1.1.1.85		9.05	C04411	cpd:C04411   (2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	wild-type, pH not specified in the publication, temperature not specified in the publication	Arabidopsis thaliana	856	725437	1.1.1.85C04411	0
+2.1.2.1		15.8	C00101 	cpd:C00101   Tetrahydrofolate; 5,6,7,8-Tetrahydrofolate; Tetrahydrofolic acid; THF; (6S)-Tetrahydrofolate; (6S)-Tetrahydrofolic acid; (6S)-THFA	pH 8.5, temperature not specified in the publication, recombinant AtSHMT3	Arabidopsis thaliana	184	718775	2.1.2.1C00101 	0
+2.7.2.4		8.4	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	monofunctional AK3	Arabidopsis thaliana	7	679764	2.7.2.4C00002	0
+2.7.2.4		14.5	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	monofunctional AK2	Arabidopsis thaliana	7	679764	2.7.2.4C00002	0
+2.7.2.4		23.4	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	monofunctional AK1	Arabidopsis thaliana	7	679764	2.7.2.4C00002	0
+2.6.1.19		15.4	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	with 4-oxobutanoate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&degC	Arabidopsis thaliana	97	704874	2.6.1.19C00041	0
+2.6.1.45		2.86	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	at 10 mM glyoxylate	Arabidopsis thaliana	97	684122	2.6.1.45C00041	0
+2.6.1.1		176	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	isozyme AAT5, pH 8.0, 25&degC	Arabidopsis thaliana	32	639876	2.6.1.1C00026	0
+2.6.1.1		205	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	isozyme AAT1, pH 8.0, 25&degC	Arabidopsis thaliana	32	639876	2.6.1.1C00026	0
+2.6.1.1		217	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	isozyme AAT2, pH 8.0, 25&degC	Arabidopsis thaliana	32	639876	2.6.1.1C00026	0
+6.3.1.2		2.96	C00014 	cpd:C00014   Ammonia; NH3	isoenzyme GLN1,4	Arabidopsis thaliana	16	663076	6.3.1.2C00014 	0
+6.3.1.2		7.1	C00014 	cpd:C00014   Ammonia; NH3	isoenzyme GLN1,3	Arabidopsis thaliana	16	663076	6.3.1.2C00014 	0
+1.3.1.78		37.3	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	pH 7.5, 25&degC, TyrAAT2	Arabidopsis thaliana	696	655440	1.3.1.78C00826  	0
+1.3.1.78		84.2	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	pH 7.5, 25&degC, TyrAAT1	Arabidopsis thaliana	696	655440	1.3.1.78C00826  	0
+4.2.1.91		0.5	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+4.2.1.91		1.1	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+4.2.1.91		3.2	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+4.2.1.91		4	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+4.2.1.91		4.9	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+4.2.1.91		6.1	C00826  	cpd:C00826   L-Arogenate; L-Arogenic acid; Pretyrosine	37&degC	Arabidopsis thaliana	696	680833	4.2.1.91C00826  	0
+1.2.1.11		15.6	C03082	cpd:C03082   4-Phospho-L-aspartate; L-4-Aspartyl phosphate	37&degC	Arabidopsis thaliana	31742	390203	1.2.1.11C03082	0
+4.2.1.1		0.32	C00011	cpd:C00011   CO2; Carbon dioxide		Arabidopsis thaliana	17	649466	4.2.1.1C00011	0
+4.2.1.1		0.32	C00011	cpd:C00011   CO2; Carbon dioxide		Arabidopsis thaliana	17	649466	4.2.1.1C00011	0
+1.3.5.2		8.2	C00337	cpd:C00337   (S)-Dihydroorotate; (S)-4,5-Dihydroorotate; L-Dihydroorotate; L-Dihydroorotic acid; Dihydro-L-orotic acid	pH 8.0, 30&degC, wild-type	Arabidopsis thaliana	709	655559	1.3.5.2C00337	0
+3.6.1.1		11.9	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 7.5, 25&degC, isozyme PPa4	Arabidopsis thaliana	13	689658	3.6.1.1C00013 	0
+3.6.1.1		12.1	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 7.5, 25&degC, isozyme PPa1	Arabidopsis thaliana	13	689658	3.6.1.1C00013 	0
+2.6.1.79		200	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 8.0, 30&degC	Arabidopsis thaliana	38	722267	2.6.1.79C00025	0
+2.6.1.19		9.7	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&degC	Arabidopsis thaliana	95	704874	2.6.1.19C00048 	0
+4.2.1.20		0.007	C00463 	cpd:C00463   Indole; 2,3-Benzopyrrole	recombinant isozyme AtTSBtype2, pH 8.2, 30&degC	Arabidopsis thaliana	392	716453	4.2.1.20C00463 	0
+1.1.1.95		1.741	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH1, at pH 8.1 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.1.1.95		97	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH3, at pH 7.2 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.1.1.95		115.1	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH1, at pH 7.2 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.1.1.95		119.7	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH2, at pH 7.2 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.1.1.95		142.4	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH3, at pH 8.1 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.1.1.95		147.4	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	isoform PGDH2, at pH 8.1 and 37&degC	Arabidopsis thaliana	4	739293	1.1.1.95C00003	0
+1.7.1.1		210	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	isoform PGDH2, at pH 8.1 and 37&degC	Arabidopsis thaliana	3	674455	1.7.1.1C00004	0
+1.1.1.25		399	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, 22&degC, wild-type DELTA88DHQ-SDH enzyme variant	Arabidopsis thaliana	6	667700	1.1.1.25C00006	0
+1.1.1.25		399	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	wild-type, 22&degC	Arabidopsis thaliana	6	686243	1.1.1.25C00006	0
+1.1.1.40		38.7	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, NADP-ME1	Arabidopsis thaliana	6	670594	1.1.1.40C00006	0
+1.1.1.40		151.3	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, NADP-ME4	Arabidopsis thaliana	6	670594	1.1.1.40C00006	0
+1.1.1.40		268.1	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, NADP-ME3	Arabidopsis thaliana	6	670594	1.1.1.40C00006	0
+1.1.1.40		324.1	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, NADP-ME2	Arabidopsis thaliana	6	670594	1.1.1.40C00006	0
+1.1.1.40		4670	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.5, NADP-ME2	Arabidopsis thaliana	6	670594	1.1.1.40C00006	0
+1.7.1.1		33	C00244	cpd:C00244   Nitrate; Nitric acid	22&degC, pH not specified in the publication	Arabidopsis thaliana	263	711261	1.7.1.1C00244	0
+4.2.3.1		0.0333	C01102	cpd:C01102   O-Phospho-L-homoserine	without S-adenosylmethionine	Arabidopsis thaliana	2593	137557	4.2.3.1C01102	0
+4.2.3.1		0.4	C01102	cpd:C01102   O-Phospho-L-homoserine	without S-adenosylmethionine	Arabidopsis thaliana	2593	137561	4.2.3.1C01102	0
+4.2.3.1		0.86	C01102	cpd:C01102   O-Phospho-L-homoserine	in presence of S-adenosylmethionine	Arabidopsis thaliana	2593	137557	4.2.3.1C01102	0
+4.2.3.1		3.5	C01102	cpd:C01102   O-Phospho-L-homoserine	at 0.06 mM S-adenosylmethionine	Arabidopsis thaliana	2593	137561	4.2.3.1C01102	0
+2.6.1.1		279	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	isozyme AAT5, pH 8.0, 25&degC	Arabidopsis thaliana	53	639876	2.6.1.1C00036	0
+2.6.1.1		319	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	isozyme AAT1, pH 8.0, 25&degC	Arabidopsis thaliana	53	639876	2.6.1.1C00036	0
+2.6.1.1		574	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	isozyme AAT2, pH 8.0, 25&degC	Arabidopsis thaliana	53	639876	2.6.1.1C00036	0
+1.3.1.78		3.4	C00254	cpd:C00254   Prephenate; Prephenic acid	isozyme AAT2, pH 8.0, 25&degC	Arabidopsis thaliana	300	655440	1.3.1.78C00254	0
+4.2.1.91		0.03	C00254	cpd:C00254   Prephenate; Prephenic acid	37&degC	Arabidopsis thaliana	300	680833	4.2.1.91C00254	0
+4.2.1.91		0.04	C00254	cpd:C00254   Prephenate; Prephenic acid	37&degC	Arabidopsis thaliana	300	680833	4.2.1.91C00254	0
+4.2.1.91		0.16	C00254	cpd:C00254   Prephenate; Prephenic acid	37&degC	Arabidopsis thaliana	300	680833	4.2.1.91C00254	0
+1.1.1.40		16.5	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 30&degC, isozyme NADP-ME1	Arabidopsis thaliana	29	689565	1.1.1.40C00022	0
+1.1.1.40		75	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 30&degC, isozyme NADP-ME2	Arabidopsis thaliana	29	689565	1.1.1.40C00022	0
+1.1.1.40		75	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0	Arabidopsis thaliana	29	697911	1.1.1.40C00022	0
+1.1.1.40		237	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 30&degC, isozyme NADP-ME3	Arabidopsis thaliana	29	689565	1.1.1.40C00022	0
+1.1.1.40		237	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0	Arabidopsis thaliana	29	697911	1.1.1.40C00022	0
+1.1.1.40		284.1	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 30&degC, isozyme NADP-ME4	Arabidopsis thaliana	29	689565	1.1.1.40C00022	0
+2.6.1.19		10.6	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&degC	Arabidopsis thaliana	29	704874	2.6.1.19C00022	0
+4.1.1.39		4.1	C01182 	cpd:C01182   D-Ribulose 1,5-bisphosphate	in 100 mM Bicine-NaOH pH 8.0, 20 mM MgCl2, at 25&degC	Arabidopsis thaliana	407	728456	4.1.1.39C01182 	0
+2.6.1.45		6.4	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	at 10 mM glyoxylate	Arabidopsis thaliana	89	684122	2.6.1.45C00065	0
+4.2.1.20		0.0155	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	recombinant isozyme AtTSBtype2, pH 8.2, 30&degC	Arabidopsis thaliana	89	716453	4.2.1.20C00065	0
+1.1.1.25		428	C00493	cpd:C00493   Shikimate; Shikimic acid; 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid	pH 7.5, 22&degC, wild-type DELTA88DHQ-SDH enzyme variant	Arabidopsis thaliana	299	667700	1.1.1.25C00493	0
+1.1.1.25		428	C00493	cpd:C00493   Shikimate; Shikimic acid; 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid	wild-type, 22&degC	Arabidopsis thaliana	299	686243	1.1.1.25C00493	0
+2.3.3.13		2.3	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	pH 8.0, isoform IPMS2	Arabidopsis thaliana	611	676632	2.3.3.13C00141	0
+2.3.3.13		2.4	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	pH 8.0, isoform IPMS1	Arabidopsis thaliana	611	676632	2.3.3.13C00141	0
+1.1.1.95		1.741	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH1, at pH 8.1 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+1.1.1.95		97	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH3, at pH 7.2 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+1.1.1.95		115.1	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH1, at pH 7.2 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+1.1.1.95		119.7	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH2, at pH 7.2 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+1.1.1.95		142.4	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH3, at pH 8.1 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+1.1.1.95		147.4	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	isoform PGDH2, at pH 8.1 and 37&Acirc&degC	Arabidopsis thaliana	181	739293	1.1.1.95C00197	0
+2.7.2.8		115	C00624	cpd:C00624   N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	in the presence of 1 mM L-arginine, in 50 mM imidazole, pH 7.5	Arabidopsis thaliana	450	705148	2.7.2.8C00624	0
+2.7.2.8		126.1	C00624	cpd:C00624   N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	in the absence of protein PII, in 50 mM imidazole, pH 7.5	Arabidopsis thaliana	450	705148	2.7.2.8C00624	0
+2.7.2.8		187.5	C00624	cpd:C00624   N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	in the presence of protein PII, in 50 mM imidazole, pH 7.5	Arabidopsis thaliana	450	705148	2.7.2.8C00624	0
+2.6.1.19		6.9	C00334 	cpd:C00334   4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	with glyoxylate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&Acirc&degC	Arabidopsis thaliana	492	704874	2.6.1.19C00334 	0
+2.6.1.19		10.6	C00334 	cpd:C00334   4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	with pyruvate as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&Acirc&degC	Arabidopsis thaliana	492	704874	2.6.1.19C00334 	0
+2.5.1.47		2170	C00283	cpd:C00283   Hydrogen sulfide; Hydrogen-sulfide; H2S; Sulfide	wild-type, pH 7.0, 25&degC	Arabidopsis thaliana	273	662427	2.5.1.47C00283	0
+1.2.1.3		17.2	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild type enzyme, with hexanal as cosubstrate, at pH 8.0 and 25&Acirc&degC	Arabidopsis thaliana	4	740105	1.2.1.3C00003	0
+1.5.1.2		3049	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 7.8, 35&Acirc&degC	Arabidopsis thaliana	3	741069	1.5.1.2C00004	0
+1.5.1.2		694	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.8, 35&Acirc&degC	Arabidopsis thaliana	5	741069	1.5.1.2C00005	0
+2.5.1.47		1780	C00979	cpd:C00979   O-Acetyl-L-serine; O3-Acetyl-L-serine	wild-type, pH 7.0, 25&degC	Arabidopsis thaliana	549	662427	2.5.1.47C00979	0
+2.6.1.19		10.8	C00232 	cpd:C00232   Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	with L-alanine as cosubstrate, in 50 mM TABS (pH 9), 1.5 mM dithiothreitol, 0.625 mM EDTA, 0.1 mM pyridoxal 5'-phosphate, 10% (v/v) glycerol, at 30&Acirc&degC	Arabidopsis thaliana	440	704874	2.6.1.19C00232 	0
+2.7.4.14		7.64	C00105	cpd:C00105   UMP; Uridylic acid; Uridine monophosphate; Uridine 5'-monophosphate; 5'Uridylic acid	pH 6.5	Arabidopsis thaliana	127	645153	2.7.4.14C00105	0
+2.7.7.4		36	C00224	cpd:C00224   Adenylyl sulfate; Adenosine 5'-phosphosulfate; APS; 5'-Adenylyl sulfate	pH 8.0, 30&Acirc&degC, synthesis of ATP	Brassica capitata	354	643280	2.7.7.4C00224	3
+2.7.7.4		3.13	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 8.0, 30&Acirc&degC, synthesis of adenosine 5'-phosphosulfate	Brassica capitata	7	643280	2.7.7.4C00002	3
+2.7.7.4		36	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 8.0, 30&Acirc&degC, molybdolysis	Brassica capitata	7	643280	2.7.7.4C00002	3
+2.7.7.4		36	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 8.0, 30&Acirc&degC, synthesis of ATP	Brassica capitata	13	643280	2.7.7.4C00013 	3
+2.7.7.4		3.13	C00059	cpd:C00059   Sulfate; Sulfuric acid	pH 8.0, 30&Acirc&degC, synthesis of adenosine 5'-phosphosulfate	Brassica capitata	148	643280	2.7.7.4C00059	3
+1.1.1.23		1.1	C00860	cpd:C00860   L-Histidinol	pH 8.0, 30&Acirc&degC, synthesis of adenosine 5'-phosphosulfate	Brassica oleracea	1822	286324	1.1.1.23C00860	3
+1.1.1.23		35	C00860	cpd:C00860   L-Histidinol	recombinant enzyme without transit peptide	Brassica oleracea	1822	286326	1.1.1.23C00860	3
+1.8.7.1		9.1	C00094 	cpd:C00094   Sulfite; Sulfurous acid	leaf enzyme	Brassica rapa	86	437704	1.8.7.1C00094 	3
+2.1.3.3		18	C00077	cpd:C00077   L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	leaf enzyme	Alnus glutinosa	172	485913	2.1.3.3C00077	6
+3.5.1.5	Urease_m	5913	C00086	cpd:C00086   Urea; Carbamide	pH 7.0, 38&Acirc&degC	Canavalia ensiformis	110	712785	3.5.1.5C00086	6
+1.7.7.1		89	C00088 	cpd:C00088   Nitrite	pH 7.0, 38&Acirc&degC	Cucurbita pepo	155	208103	1.7.7.1C00088 	6
+1.8.4.9		8.4	C00224	cpd:C00224   Adenylyl sulfate; Adenosine 5'-phosphosulfate; APS; 5'-Adenylyl sulfate	30&degC, pH 8.5, cosubstrate: dithiothreitol	Glycine max	354	689431	1.8.4.9C00224	6
+1.8.4.9		11.3	C00224	cpd:C00224   Adenylyl sulfate; Adenosine 5'-phosphosulfate; APS; 5'-Adenylyl sulfate	30&degC, pH 8.5, cosubstrate: glutathione	Glycine max	354	689431	1.8.4.9C00224	6
+1.1.1.3		2.8	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADPH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.1.1.3		9.68	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.1.1.3		11.58	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADPH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.1.1.3		12.98	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADPH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.1.1.3		19.3	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.1.1.3		22.58	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	cosubstrate NADH, pH 8.0, 25&Acirc&degC	Glycine max	472	712490	1.1.1.3C00441	6
+1.5.1.3		0.95	C00415	cpd:C00415   Dihydrofolate; Dihydrofolic acid; 7,8-Dihydrofolate; 7,8-Dihydrofolic acid; 7,8-Dihydropteroylglutamate	cosubstrate NADH, pH 8.0, 25&Acirc&degC	Glycine max	173	392245	1.5.1.3C00415	6
+1.2.1.2		2.9	C00058	cpd:C00058   Formate; Methanoic acid; Formic acid	wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&Acirc&degC	Glycine max	114	726427	1.2.1.2C00058	6
+1.8.4.9		8.4	C00051	cpd:C00051   Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	30&degC, pH 8.5	Glycine max	41	689431	1.8.4.9C00051	6
+1.1.1.3		0.042	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NADP+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.1.1.3		0.052	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NADP+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.1.1.3		0.07	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NADP+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.1.1.3		1.43	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NAD+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.1.1.3		7	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NAD+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.1.1.3		10.15	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	cosubstrate NAD+, pH 8.0, 25&Acirc&degC	Glycine max	294	712490	1.1.1.3C00263	6
+1.2.1.2		2.9	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild type enzyme, in 0.1 M sodium phosphate buffer, pH 7.0, at 30&Acirc&degC	Glycine max	4	726427	1.2.1.2C00003	6
+1.2.1.2		2.9	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild type enzyme, in 0.1 M sodium phosphate buffer, 0.01 M EDTA, pH 7.0, temperature not specified in the publication	Glycine max	4	740027	1.2.1.2C00003	6
+3.2.1.2		1260	C00369	cpd:C00369   Starch; Glycogen	pH 5.4-6.0, major isozyme	Glycine max	189	666557	3.2.1.2C00369	6
+1.2.1.2		0.005	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	in 0.1 M potassium phosphate buffer, pH 7.5, at 30&Acirc&degC	Lotus japonicus	6	696475	1.2.1.2C00006	6
+1.4.1.14	GluSNAD_h	70	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	independent of pH 6.5-9.5	Lupinus angustifolius	96	391470	1.4.1.14C00064 	6
+2.4.2.7		0.06	C00212 	cpd:C00212   Adenosine	independent of pH 6.5-9.5	Lupinus luteus	116	137099	2.4.2.7C00212 	6
+3.3.1.1		4.3	C00212 	cpd:C00212   Adenosine		Lupinus luteus	116	137122	3.3.1.1C00212 	6
+3.3.1.1		0.11	C00097	cpd:C00097   L-Cysteine; L-2-Amino-3-mercaptopropionic acid		Lupinus luteus	70	137122	3.3.1.1C00097	6
+1.1.1.37		2.54	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 7.5, 30&degC	Malus domestica	4	712865	1.1.1.37C00003	6
+1.1.1.37		3.21	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 7.9, 25&degC	Malus domestica	4	712865	1.1.1.37C00003	6
+1.1.1.37		609.5	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 7.8, 30&degC	Malus domestica	3	712865	1.1.1.37C00004	6
+1.1.1.37		4553	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	pH 7.8, 30&degC	Malus domestica	53	712865	1.1.1.37C00036	6
+2.4.1.21		235	C00498 	cpd:C00498   ADP-glucose; ADP-alpha-D-glucose; Adenosine diphosphoglucose	pH 8.0, 30&degC, at 10 mg/ml amylopectin	Phaseolus vulgaris	493	686669	2.4.1.21C00498 	6
+2.4.1.21		333	C00498 	cpd:C00498   ADP-glucose; ADP-alpha-D-glucose; Adenosine diphosphoglucose	pH 8.0, 30&degC, at 10 mg/ml glycogen	Phaseolus vulgaris	493	686669	2.4.1.21C00498 	6
+2.7.4.6		106	C00705	cpd:C00705   dCDP; 2'-Deoxycytidine diphosphate; 2'-Deoxycytidine 5'-diphosphate	wild type enzyme, 22&degC	Pisum sativum	852	663130	2.7.4.6C00705	6
+2.7.4.6		147	C00363 	cpd:C00363   dTDP; Deoxythymidine 5'-diphosphate	wild type enzyme, 22&degC	Pisum sativum	449	663130	2.7.4.6C00363 	6
+2.7.4.6		2085	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	recombinant His-tagged NDPK	Pisum sativum	7	694756	2.7.4.6C00002	6
+1.18.1.2		7	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type, pH 8.0, 30&Acirc&degC	Pisum sativum	3	726961	1.18.1.2C00004	6
+1.18.1.2		2.2	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild-type, 30&Acirc&degC, pH 8.0	Pisum sativum	5	672095	1.18.1.2C00005	6
+1.18.1.2		74.1	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild-type, 30&Acirc&degC, pH 8.0	Pisum sativum	5	672095	1.18.1.2C00005	6
+1.18.1.2		374.3	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild-type, pH 8.0, 30&Acirc&degC	Pisum sativum	5	726961	1.18.1.2C00005	6
+2.6.1.13		4.3	C00077	cpd:C00077   L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	pH 8.0, 37&Acirc&degC	Pisum sativum	172	721755	2.6.1.13C00077	6
+1.18.1.2		75	C00139	cpd:C00139   Oxidized ferredoxin; Oxidized ferredoxin [iron-sulfur] cluster	wild-type, pH 8.0, 30&Acirc&degC	Pisum sativum	252	726961	1.18.1.2C00139	6
+4.1.2.13		40	C00354	cpd:C00354   D-Fructose 1,6-bisphosphate	pH 7.5, 30&Acirc&degC	Vigna radiata	100	666566	4.1.2.13C00354	6
+4.1.2.13		33.3	C05382 	cpd:C05382   Sedoheptulose 7-phosphate; D-Sedoheptulose 7-phosphate; D-altro-Heptulose 7-phosphate; altro-Heptulose 7-phosphate	pH 7.5, 30&Acirc&degC	Vigna radiata	1242	666566	4.1.2.13C05382 	6
+1.1.1.25		8.62	C02637	cpd:C02637   3-Dehydroshikimate	pH 7.0, 30&Acirc&degC, recombinant isozyme VvSDH3	Vitis vinifera	1666	740821	1.1.1.25C02637	6
+1.1.1.25		95.85	C02637	cpd:C02637   3-Dehydroshikimate	pH 7.0, 30&Acirc&degC, recombinant isozyme VvSDH1	Vitis vinifera	1666	740821	1.1.1.25C02637	6
+4.2.3.4	DHQS_h	0.5	C04691	cpd:C04691   2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate; 3-Deoxy-D-arabino-hept-2-ulosonate 7-phosphate; 3-Deoxy-arabino-heptulonate 7-phosphate; 3-Deoxy-D-arabino-heptulosonic acid 7-phosphate; DAHP; 2-Dahp	pH 6.8, 25&degC	Actinidia chinensis	3060	716413	4.2.3.4C04691	7
+4.2.3.4	DHQS_h	20.1	C04691	cpd:C04691   2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate; 3-Deoxy-D-arabino-hept-2-ulosonate 7-phosphate; 3-Deoxy-arabino-heptulonate 7-phosphate; 3-Deoxy-D-arabino-heptulosonic acid 7-phosphate; DAHP; 2-Dahp	pH 7.5, 25&degC	Actinidia chinensis	3060	729105	4.2.3.4C04691	7
+4.1.1.31		33	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	+ 5 mM D-glucose 6-phosphate without 5 mM D-glucose 6-phosphate	Alternanthera ficoidea	47	682463	4.1.1.31C00074	7
+4.1.1.39		3.8	C00011	cpd:C00011   CO2; Carbon dioxide	at pH 8.3	Amaranthus hybridus	17	682535	4.1.1.39C00011	7
+6.3.1.2		11.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.8	Camellia sinensis	7	706610	6.3.1.2C00002	7
+6.3.1.2		15.2	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 7.8	Camellia sinensis	38	706610	6.3.1.2C00025	7
+1.8.1.7		50.14	C00127	cpd:C00127   Glutathione disulfide; GSSG; Oxiglutatione; Oxidized glutathione	in 100 mM potassium phosphate buffer (pH 8.0), at 25&degC	Ipomoea batatas	283	698440	1.8.1.7C00127	7
+1.8.1.7		53.72	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	in 100 mM potassium phosphate buffer (pH 8.0), at 25&degC	Ipomoea batatas	5	698440	1.8.1.7C00005	7
+4.1.1.39		0.42	C00007	cpd:C00007   Oxygen; O2	ANtS40L Rubisco oligomer complex, using soluble leaf protein extract	Nicotiana tabacum	11	706296	4.1.1.39C00007	7
+2.2.1.6		2.32	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	wild-type, 37&degC, pH 7.4	Nicotiana tabacum	29	657852	2.2.1.6C00022	7
+2.2.1.6		16.1	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.5, 37&degC, recombinant wild-type enzyme	Nicotiana tabacum	29	672868	2.2.1.6C00022	7
+2.4.1.13		4.97	C00089	cpd:C00089   Sucrose; Cane sugar; Saccharose; 1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside	SuSy1, 25&Acirc&degC	Nicotiana tabacum	51	660272	2.4.1.13C00089	7
+2.4.1.13		39.5	C00089	cpd:C00089   Sucrose; Cane sugar; Saccharose; 1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside	SuSy2, 25&Acirc&degC	Nicotiana tabacum	51	660272	2.4.1.13C00089	7
+2.7.1.1		1.42	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	30&Acirc&degC, pH 8.0	Solanum chacoense	137	676958	2.7.1.1C00459	7
+2.7.1.1		3.5	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	30&Acirc&degC, pH 8.0	Solanum chacoense	7	676958	2.7.1.1C00002	7
+2.7.1.1		3.69	C00095	cpd:C00095   D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose	30&Acirc&degC, pH 8.0	Solanum chacoense	111	676958	2.7.1.1C00095	7
+2.7.1.1		3.3	C00031	cpd:C00031   D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose	30&Acirc&degC, pH 8.0	Solanum chacoense	33	676958	2.7.1.1C00031	7
+2.7.1.1		5.01	C00031	cpd:C00031   D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose	30&Acirc&degC, pH 8.0	Solanum chacoense	33	676958	2.7.1.1C00031	7
+2.7.1.1		0.85	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	30&Acirc&degC, pH 8.0	Solanum chacoense	35	676958	2.7.1.1C00044 	7
+2.7.1.1		3.02	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	30&Acirc&degC, pH 8.0	Solanum chacoense	61	676958	2.7.1.1C00075 	7
+2.6.1.42		22.1	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT5, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		23	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT1, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		23.4	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723052	2.6.1.42C00141	7
+2.6.1.42		46.5	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT3, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		60.6	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT4, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		84.3	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT2, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		109.8	C00141	cpd:C00141   3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	SlBCAT6, pH not specified in the publication, 25&degC	Solanum lycopersicum	611	723462	2.6.1.42C00141	7
+2.6.1.42		7.6	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723052	2.6.1.42C00407	7
+2.6.1.42		7.6	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	SlBCAT2, pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723462	2.6.1.42C00407	7
+2.6.1.42		20	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	SlBCAT4, pH not specified in the publication, 25&degC SlBCAT6, pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723462	2.6.1.42C00407	7
+2.6.1.42		40.8	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	SlBCAT1, pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723462	2.6.1.42C00407	7
+2.6.1.42		163	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	SlBCAT5, pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723462	2.6.1.42C00407	7
+2.6.1.42		174	C00407	cpd:C00407   L-Isoleucine; 2-Amino-3-methylvaleric acid	SlBCAT3, pH not specified in the publication, 25&degC	Solanum lycopersicum	266	723462	2.6.1.42C00407	7
+2.6.1.42		8.1	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723052	2.6.1.42C00123 	7
+2.6.1.42		8.1	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT2, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+2.6.1.42		15.7	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT6, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+2.6.1.42		17.9	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT4, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+2.6.1.42		39.1	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT1, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+2.6.1.42		118	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT5, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+2.6.1.42		121	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	SlBCAT3, pH not specified in the publication, 25&degC	Solanum lycopersicum	121	723462	2.6.1.42C00123 	7
+1.8.1.9		0.06	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication	Solanum lycopersicum	3	724652	1.8.1.9C00004	7
+1.8.1.9		0.35	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication	Solanum lycopersicum	5	724652	1.8.1.9C00005	7
+1.8.1.9		0.38	C00342	cpd:C00342   Thioredoxin; Reduced thioredoxin	in 50 mM potassium phosphate, pH 7.0, 1 mM EDTA, temperature not specified in the publication	Solanum lycopersicum	115	724652	1.8.1.9C00342	7
+3.2.1.26	FrcFD_c	1384	C00089	cpd:C00089   Sucrose; Cane sugar; Saccharose; 1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside	at pH 4.5 and 50&degC	Solanum lycopersicum	51	729321	3.2.1.26C00089	7
+2.6.1.42		3.8	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT2, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.6.1.42		20.6	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT4, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.6.1.42		24	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT6, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.6.1.42		28.1	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723052	2.6.1.42C00183	7
+2.6.1.42		50.5	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT1, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.6.1.42		111	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT3, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.6.1.42		123	C00183	cpd:C00183   L-Valine; 2-Amino-3-methylbutyric acid	SlBCAT5, pH not specified in the publication, 25&degC	Solanum lycopersicum	217	723462	2.6.1.42C00183	7
+2.7.7.27		3.9	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	oxidized wild-type, pH 7.4, 37&degC, presence of phosphate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		5.4	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	reduced wild-type, pH 7.4, 37&degC, presence of phosphate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		13.7	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	reduced wild-type, pH 7.4, 37&degC	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		15.4	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	oxidized wild-type, pH 7.4, 37&degC	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		47.5	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	chimeric enzyme, pH 7.4, 37&degC, presence of 3-phosphoglycerate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		67.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	chimeric enzyme, pH 7.4, 37&degC	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		70.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	chimeric enzyme, pH 7.4, 37&degC, presence of phosphate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		96	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, 37&degC	Solanum tuberosum	7	676387	2.7.7.27C00002	7
+2.7.7.27		147.7	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	reduced wild-type, pH 7.4, 37&degC, presence of 3-phosphoglycerate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		163.1	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	oxidized wild-type, pH 7.4, 37&degC, presence of 3-phosphoglycerate	Solanum tuberosum	7	737552	2.7.7.27C00002	7
+2.7.7.27		166	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type	Solanum tuberosum	7	673678	2.7.7.27C00002	7
+2.7.7.27		166	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	37&degC, wild-type large subunit	Solanum tuberosum	7	693217	2.7.7.27C00002	7
+2.7.7.27		204	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, pH 7.5, 37&degC	Solanum tuberosum	7	737860	2.7.7.27C00002	7
+2.7.7.27		139	C00498 	cpd:C00498   ADP-glucose; ADP-alpha-D-glucose; Adenosine diphosphoglucose	37&degC, wild-type large subunit	Solanum tuberosum	493	693217	2.7.7.27C00498 	7
+2.7.7.27		121	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	37&degC, wild-type large subunit	Solanum tuberosum	13	693217	2.7.7.27C00013 	7
+2.7.7.27		0.002	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	mutation D157L, large subunit, plus D143N, small subunit	Solanum tuberosum	101	673678	2.7.7.27C00103	7
+2.7.7.27		0.07	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	mutation K41R, large subunit, plus D143N, small subunit	Solanum tuberosum	101	673678	2.7.7.27C00103	7
+2.7.7.27		4	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	mutation T51K, large subunit, plus D143N, small subunit	Solanum tuberosum	101	673678	2.7.7.27C00103	7
+2.7.7.27		9	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	mutation K41R/T51K, large subunit, plus D143N, small subunit	Solanum tuberosum	101	673678	2.7.7.27C00103	7
+2.7.7.27		158	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	wild-type	Solanum tuberosum	101	673678	2.7.7.27C00103	7
+2.7.7.27		158	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	37&degC, wild-type large subunit	Solanum tuberosum	101	693217	2.7.7.27C00103	7
+2.7.7.27		266	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	wild-type, pH 7.5, 37&degC	Solanum tuberosum	101	737860	2.7.7.27C00103	7
+2.4.1.1		0.001	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	wild-type, 37&degC, pH 5.5	Solanum tuberosum	115540	671424	2.4.1.1C00103	7
+3.1.3.18		292	C00988	cpd:C00988   2-Phosphoglycolate; Phosphoglycolic acid	pH 7.5, 70&degC	Spinacia oleracea	997	652557	3.1.3.18C00988	7
+4.2.1.9		25	C04039	cpd:C04039   2,3-Dihydroxy-3-methylbutanoate; 2,3-Dihydroxy-isovalerate; 2,3-Dihydroxy-isovaleric acid	pH 7.5, 70&degC	Spinacia oleracea	3111	33972	4.2.1.9C04039	7
+4.2.1.9		11.5	C04039	cpd:C04039   2,3-Dihydroxy-3-methylbutanoate; 2,3-Dihydroxy-isovalerate; 2,3-Dihydroxy-isovaleric acid		Spinacia oleracea	3111	33985	4.2.1.9C04039	7
+4.2.1.9		8.3	C06007	cpd:C06007   (R)-2,3-Dihydroxy-3-methylpentanoate; (R)-2,3-Dihydroxy-3-methylvalerate; (2R,3R)-2,3-Dihydroxy-3-methylpentanoate		Spinacia oleracea	13577	33985	4.2.1.9C06007	7
+1.2.1.12		50	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate		Spinacia oleracea	139	287935	1.2.1.12C00118	7
+1.1.3.15		1.04	C00258 	cpd:C00258   D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	pH 8.0	Spinacia oleracea	1287	677279	1.1.3.15C00258 	7
+2.7.1.31	GCEAK_h	200	C00258 	cpd:C00258   D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	pH 8.0	Spinacia oleracea	435	641341	2.7.1.31C00258 	7
+1.2.1.13		41	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	native enzyme A3-GAPDH	Spinacia oleracea	3	656539	1.2.1.13C00004	7
+1.2.1.13		61	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	native enzyme A3-GAPDH	Spinacia oleracea	5	656539	1.2.1.13C00005	7
+1.7.1.1		1.5	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	pH 7.0, 25&Acirc&degC, functional FAD-containing domain plus heme-containig domain	Spinacia oleracea	268	654345	1.7.1.1C00524	7
+1.18.1.2		600	C00138	cpd:C00138   Reduced ferredoxin; Reduced ferredoxin [iron-sulfur] cluster	electron transfer via the enzyme to NADP+	Spinacia oleracea	230	658617	1.18.1.2C00138	7
+2.2.1.1		0.0148	C00117	cpd:C00117   D-Ribose 5-phosphate; Ribose 5-phosphate	electron transfer via the enzyme to NADP+	Spinacia oleracea	165	2239	2.2.1.1C00117	7
+5.3.1.6		3440	C00117	cpd:C00117   D-Ribose 5-phosphate; Ribose 5-phosphate	pH 8.0, 25&degC, wild-type enzyme	Spinacia oleracea	165	649425	5.3.1.6C00117	7
+5.1.3.1		0.138	C00199	cpd:C00199   D-Ribulose 5-phosphate	pH 8.0, 25&degC, wild-type enzyme	Spinacia oleracea	371	2239	5.1.3.1C00199	7
+5.1.3.1		7100	C00199	cpd:C00199   D-Ribulose 5-phosphate	wild-type enzyme	Spinacia oleracea	371	651933	5.1.3.1C00199	7
+2.2.1.1		0.0187	C00231	cpd:C00231   D-Xylulose 5-phosphate	wild-type enzyme	Spinacia oleracea	524	2239	2.2.1.1C00231	7
+3.5.1.1		178.6	C00152	cpd:C00152   L-Asparagine; 2-Aminosuccinamic acid		Withania somnifera	231	699399	3.5.1.1C00152	7
+2.6.1.2		12.11	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	cofactor: 2-oxoglutarate, 25&Acirc&degC, pH 8.0	Hordeum vulgare	97	721437	2.6.1.2C00041	10
+2.6.1.2		12.11	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	cofactor: L-alanine, 25&Acirc&degC, pH 8.0	Hordeum vulgare	32	721437	2.6.1.2C00026	10
+2.6.1.2		25.62	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	cofactor: pyruvate, 25&Acirc&degC, pH 8.0	Hordeum vulgare	38	721437	2.6.1.2C00025	10
+1.8.1.9		2.25	C00343	cpd:C00343   Thioredoxin disulfide; Oxidized thioredoxin; Thioredoxin sulfide	pH 7.4, HvNTR1	Hordeum vulgare	NaN	689609	1.8.1.9C00343	10
+1.8.1.9		3.26	C00343	cpd:C00343   Thioredoxin disulfide; Oxidized thioredoxin; Thioredoxin sulfide	pH 7.4, HvNTR2	Hordeum vulgare	NaN	689609	1.8.1.9C00343	10
+2.6.1.2		25.62	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	cofactor: L-glutamate, 25&Acirc&degC, pH 8.0	Hordeum vulgare	29	721437	2.6.1.2C00022	10
+1.1.1.86		1.4	C00900	cpd:C00900   2-Acetolactate	at pH 8.0, temperature not specified in the publication	Oryza sativa	1663	738067	1.1.1.86C00900	10
+2.7.4.6		14.2	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	isozyme NDPK2, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	137	721870	2.7.4.6C00459	10
+2.7.4.6		33.5	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	isozyme NDPK3, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	137	721870	2.7.4.6C00459	10
+2.7.4.6		55	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	isozyme NDPK1, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	137	721870	2.7.4.6C00459	10
+1.2.1.12		73.56	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	wild type enzyme, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mM EDTA, pH 7.6, at 25&Acirc&degC	Oryza sativa	462	726190	1.2.1.12C00236	10
+4.1.3.27		0.0124	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	alpha-subunit OASA1D (N323D, cosubstrate: NH4+)	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.0185	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	alpha-subunit OASA1, cosubstrate: NH4+	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.079	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA2-OASB1, cosubstrate: NH4+	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.225	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	pH 8.3, 32&degC, wild-type enzyme, anthranilate synthase alpha-subunit OASA2	Oryza sativa	182	666639	4.1.3.27C00251	10
+4.1.3.27		0.228	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA1D(N323D)-OASB1, cosubstrate: NH4+	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.24	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA2-OASB1, cosubstrate: L-Gln	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.27	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA1-OASB1, cosubstrate: NH4+	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.48	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA1D(N323D)-OASB1, cosubstrate: L-Gln	Oryza sativa	182	666602	4.1.3.27C00251	10
+4.1.3.27		0.58	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	reconstituted enzyme OASA1-OASB1, cosubstrate: L-Gln	Oryza sativa	182	666602	4.1.3.27C00251	10
+1.4.7.1	GluSFd_h	137	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	reconstituted enzyme OASA1-OASB1, cosubstrate: L-Gln	Oryza sativa	96	392018	1.4.7.1C00064 	10
+2.7.4.6		17.9	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	isozyme NDPK3, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	35	721870	2.7.4.6C00044 	10
+2.7.4.6		27.7	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	isozyme NDPK2, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	35	721870	2.7.4.6C00044 	10
+2.7.4.6		49.4	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	isozyme NDPK1, in 4 mM Tris-HCl, pH 7.5, 100 mM KCl, 25 mM MgCl2, at 25&degC	Oryza sativa	35	721870	2.7.4.6C00044 	10
+1.11.1.6		80000	C00027	cpd:C00027   Hydrogen peroxide; H2O2; Oxydol	pH 7.0, 25&Acirc&degC	Oryza sativa	20	725581	1.11.1.6C00027	10
+1.1.1.86		4.5	C00168	cpd:C00168   Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	at pH 8.0, temperature not specified in the publication	Oryza sativa	326	738067	1.1.1.86C00168	10
+3.1.3.12	TPP_c	0.03	C00689	cpd:C00689   alpha,alpha'-Trehalose 6-phosphate; Trehalose 6-phosphate	in 50mM Tris /HCl buffer with 2mM MgCl2, at 37&Acirc&degC	Oryza sativa	1144	679760	3.1.3.12C00689	10
+3.1.3.12	TPP_c	6.52	C00689	cpd:C00689   alpha,alpha'-Trehalose 6-phosphate; Trehalose 6-phosphate	in 50mM Tris /HCl buffer with 2mM MgCl2, at 37&Acirc&degC	Oryza sativa	1144	679760	3.1.3.12C00689	10
+2.6.1.4		132.9	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	cosubstrate glyoxylate, pH 7.6, 30&degC	Oryza sativa Japonica Group	97	738913	2.6.1.4C00041	10
+2.6.1.4		140.6	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	cosubstrate 2-oxoglutarate, pH 7.6, 30&degC	Oryza sativa Japonica Group	97	738913	2.6.1.4C00041	10
+2.6.1.4		144.9	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	cosubstrate glyoxylate, pH 7.6, 30&degC	Oryza sativa Japonica Group	38	738913	2.6.1.4C00025	10
+2.7.4.8		23	C00144	cpd:C00144   GMP; Guanosine 5'-phosphate; Guanosine monophosphate; Guanosine 5'-monophosphate; Guanylic acid	recombinant chloroplast isozyme, pH 7.5, 30&degC	Oryza sativa Japonica Group	150	738614	2.7.4.8C00144	10
+2.7.4.8		70	C00144	cpd:C00144   GMP; Guanosine 5'-phosphate; Guanosine monophosphate; Guanosine 5'-monophosphate; Guanylic acid	recombinant cytosolic isozyme, pH 7.5, 30&degC	Oryza sativa Japonica Group	150	738614	2.7.4.8C00144	10
+1.2.1.12		122	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild-type, pH 8.8, 25&Acirc&degC	Oryza sativa Japonica Group	4	726190	1.2.1.12C00003	10
+1.2.1.12		73.6	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type, pH 8.8, 25&Acirc&degC	Oryza sativa Japonica Group	3	726190	1.2.1.12C00004	10
+1.1.1.82		1520	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	wild-type enzyme	Sorghum sp.	53	287428	1.1.1.82C00036	10
+2.6.1.1		4.6	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-3c, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.6.1.1		4.9	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-3a, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.6.1.1		7	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-3b, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.6.1.1		88.5	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-2c, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.6.1.1		89.6	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-2a, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.6.1.1		103.8	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	allozyme AAT-2b, pH 7.5, 25&degC	Triticum aestivum	91	738026	2.6.1.1C00049 	10
+2.1.3.2		47.2	C00169	cpd:C00169   Carbamoyl phosphate	allozyme AAT-2b, pH 7.5, 25&degC	Triticum aestivum	368	485878	2.1.3.2C00169	10
+3.1.3.11		22.9	C00354	cpd:C00354   D-Fructose 1,6-bisphosphate	pH 8.8, 25&degC, recombinant enzyme	Triticum aestivum	100	653727	3.1.3.11C00354	10
+1.1.1.37		4729	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	pH 7.5	Triticum aestivum	246	654907	1.1.1.37C00149	10
+1.18.1.2		104	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	wild-type, pH 7.5, temperature not specified in the publication	Triticum aestivum	268	726960	1.18.1.2C00524	10
+1.9.3.1		1000	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	wild-type, pH 7.5, temperature not specified in the publication	Triticum aestivum	79	396011	1.9.3.1C00524	10
+2.7.1.4	FrcK_c	494	C00095	cpd:C00095   D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose	pH 8.5, 30&degC	Zea mays	111	663163	2.7.1.4C00095	10
+2.7.1.4	FrcK_c	8897	C00095	cpd:C00095   D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose	pH 8.5, 30&degC	Zea mays	111	663163	2.7.1.4C00095	10
+1.1.1.40		13.5	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild-type enzyme, pH 8.0, 30&Acirc&degC	Zea mays	4	654547	1.1.1.40C00003	10
+1.1.1.40		13.5	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild-type enzyme, pH 7.0	Zea mays	4	656120	1.1.1.40C00003	10
+1.8.7.1		3.65	C00138	cpd:C00138   Reduced ferredoxin; Reduced ferredoxin [iron-sulfur] cluster	using wild type ferredoxin, the reaction mixture contains ferredoxin-NADP+ reductase (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30 mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl	Zea mays	230	674525	1.8.7.1C00138	10
+4.1.3.1		44.5	C00311	cpd:C00311   Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	using wild type ferredoxin, the reaction mixture contains ferredoxin-NADP+ reductase (100 nM), sulfite reductase (ferredoxin) (800 nM), and sulfite (0.5 mM) in 30 mM potassium phosphate buffer, pH 7.0 and 25 mM NaCl	Pinus pinea	242	33123	4.1.3.1C00311	13
+1.2.1.13		40	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	pH 7.7, 30&degC, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH	Chlamydomonas reinhardtii	462	655452	1.2.1.13C00236	18
+1.2.1.13		88	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	pH 7.7, 30&degC, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADH	Chlamydomonas reinhardtii	462	655452	1.2.1.13C00236	18
+1.2.1.13		223	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	pH 7.7, 30&degC, native A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH	Chlamydomonas reinhardtii	462	655452	1.2.1.13C00236	18
+1.2.1.13		419	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	pH 7.7, 30&degC, recombinant A4 glyceraldehyde 3-phosphate dehydrogenase, reaction with NADPH	Chlamydomonas reinhardtii	462	655452	1.2.1.13C00236	18
+2.7.2.3		28.5	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	pH 7.9, 25&Acirc&degC, recombinant oxidized wild-type enzyme	Chlamydomonas reinhardtii	181	738628	2.7.2.3C00197	18
+2.7.2.3		84.7	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	pH 7.9, 25&Acirc&degC, recombinant reduced wild-type enzyme	Chlamydomonas reinhardtii	181	738628	2.7.2.3C00197	18
+2.7.2.3		28.5	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.9, 25&Acirc&degC, recombinant oxidized wild-type enzyme	Chlamydomonas reinhardtii	7	738628	2.7.2.3C00002	18
+2.7.2.3		83.4	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.9, 25&Acirc&degC, recombinant reduced wild-type enzyme	Chlamydomonas reinhardtii	7	738628	2.7.2.3C00002	18
+2.6.1.83	DAPAT_h	19	C00666	cpd:C00666   LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid	pH 7.6, 30&Acirc&degC	Chlamydomonas reinhardtii	2991	726273	2.6.1.83C00666	18
+5.3.1.1		3372	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	in 100 mM triethanolamine (pH 7.4), at 25&Acirc&degC	Chlamydomonas reinhardtii	139	728349	5.3.1.1C00118	18
+1.1.1.41		22.5	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 75, 25&Acirc&degC, recombinant His6-tagged enzyme	Micromonas commoda	4	741414	1.1.1.41C00003	18
+1.1.1.41		1.4	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 75, 25&Acirc&degC, recombinant His6-tagged enzyme	Micromonas commoda	6	741414	1.1.1.41C00006	18
+2.5.1.19		38.4	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	pH 75, 25&Acirc&degC, recombinant His6-tagged enzyme	plant	47	694557	2.5.1.19C00074	10
+6.2.1.5		3.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	recombinant enzyme, pH 7.4, 30&Acirc&degC recombinant enzyme, pH 7.4, 30&Acirc&degC	Alcanivorax borkumensis	7	726747	6.2.1.5C00002	19
+6.2.1.5		1.6	C00010	cpd:C00010   CoA; Coenzyme A; CoA-SH	recombinant enzyme, pH 7.4, 30&Acirc&degC recombinant enzyme, pH 7.4, 30&Acirc&degC	Alcanivorax borkumensis	10	726747	6.2.1.5C00010	19
+6.2.1.5		1.1	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	recombinant enzyme, pH 7.4, 30&Acirc&degC recombinant enzyme, pH 7.4, 30&Acirc&degC	Alcanivorax borkumensis	180	726747	6.2.1.5C00149	19
+6.2.1.5		2.7	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	recombinant enzyme, pH 7.4, 30&Acirc&degC recombinant enzyme, pH 7.4, 30&Acirc&degC	Alcanivorax borkumensis	54	726747	6.2.1.5C00042	19
+4.3.2.1	ArgSCAL_h	4.9	C03406	cpd:C03406   N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	wild-type enzyme	Anas platyrhynchos	1106	34447	4.3.2.1C03406	19
+4.3.2.1	ArgSCAL_h	2930	C03406	cpd:C03406   N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	wild-type enzyme	Anas platyrhynchos	1106	34442	4.3.2.1C03406	19
+1.1.1.40		160	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid		Anas platyrhynchos	180	286723	1.1.1.40C00149	19
+2.7.1.20		0.3	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	137	721633	2.7.1.20C00459	19
+2.7.1.20		0.029	C00212 	cpd:C00212   Adenosine	with CTP as cosubstrate, at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	116	721633	2.7.1.20C00212 	19
+2.7.1.20		0.035	C00212 	cpd:C00212   Adenosine	with UTP as cosubstrate, at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	116	721633	2.7.1.20C00212 	19
+2.7.1.20		0.056	C00212 	cpd:C00212   Adenosine	with TTP as cosubstrate, at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	116	721633	2.7.1.20C00212 	19
+2.7.1.20		0.16	C00212 	cpd:C00212   Adenosine	with ATP as cosubstrate, at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	116	721633	2.7.1.20C00212 	19
+2.7.1.20		0.63	C00212 	cpd:C00212   Adenosine	with GTP as cosubstrate, at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	116	721633	2.7.1.20C00212 	19
+2.7.1.20		0.33	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	7	721633	2.7.1.20C00002	19
+2.7.1.20		1.39	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	35	721633	2.7.1.20C00044 	19
+2.7.1.20		0.061	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	at 27&degC in 50 mM Tris buffer (pH 7.4) containing 5 mM MgCl2, 50 mM KCl, and 0.2 mM dithiothreitol	Anopheles gambiae	61	721633	2.7.1.20C00075 	19
+1.1.1.49		83	C00092	cpd:C00092   D-Glucose 6-phosphate; Glucose 6-phosphate; Robison ester	pH 7.5	Aspergillus aculeatus	99	674379	1.1.1.49C00092	19
+5.4.99.5		82	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	30&Acirc&degC, pH 7.6	Aspergillus nidulans	182	651936	5.4.99.5C00251	19
+5.4.99.5		92	C00251	cpd:C00251   Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	30&Acirc&degC, pH 7.6, in presence of 0.005 mM tryptophan	Aspergillus nidulans	182	651936	5.4.99.5C00251	19
+3.5.1.2		1606	C00152	cpd:C00152   L-Asparagine; 2-Aminosuccinamic acid	at pH 9.0 and 50&Acirc&degC	Aspergillus sojae	231	733187	3.5.1.2C00152	19
+3.5.1.2		6249	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	at pH 9.0 and 50&Acirc&degC	Aspergillus sojae	96	733187	3.5.1.2C00064 	19
+1.1.1.205	IMPDH_c	5.1	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	pH 8.0, 40&Acirc&degC, recombinant wild-type enzyme	Bacillus amyloliquefaciens	206	740217	1.1.1.205C00130	19
+3.2.1.1		19.9	C00369	cpd:C00369   Starch; Glycogen	wild type enzyme, in the presence of 5 mM Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&Acirc&degC	Bacillus megaterium	189	701772	3.2.1.1C00369	19
+3.2.1.1		25.7	C00369	cpd:C00369   Starch; Glycogen	wild type enzyme, in the absence of Ca2+, in 20 mM Tris-HCl buffer (pH 7.2), at 30&Acirc&degC	Bacillus megaterium	189	701772	3.2.1.1C00369	19
+4.1.2.13		0.4	C00111	cpd:C00111   Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	pH 7.6, 50&Acirc&degC	Bacillus methanolicus	241	728260	4.1.2.13C00111	19
+4.1.2.13		8	C00111	cpd:C00111   Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	pH 7.8, 55&Acirc&degC	Bacillus methanolicus	241	728260	4.1.2.13C00111	19
+2.2.1.1		82	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	isoform TKTc, at pH 7.5 and 55&Acirc&degC	Bacillus methanolicus	82	735856	2.2.1.1C00085	19
+2.2.1.1		112	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	isoform TKTp, at pH 7.7 and 55&Acirc&degC	Bacillus methanolicus	82	735856	2.2.1.1C00085	19
+4.1.2.13		0.56	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	pH 7.6, 50&Acirc&degC	Bacillus methanolicus	139	728260	4.1.2.13C00118	19
+4.1.2.13		12.6	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	pH 7.8, 55&Acirc&degC	Bacillus methanolicus	139	728260	4.1.2.13C00118	19
+2.2.1.1		48	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	isoform TKTp, at pH 7.7 and 55&Acirc&degC	Bacillus methanolicus	139	735856	2.2.1.1C00118	19
+2.2.1.1		99	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	isoform TKTc, at pH 7.5 and 55&Acirc&degC	Bacillus methanolicus	139	735856	2.2.1.1C00118	19
+3.6.3.14		17	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	pH not specified in the publication, 30&Acirc&degC	Bacillus sp.	8	719458	3.6.3.14C00008	19
+3.6.3.14		390	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild type enzyme, at 25&Acirc&degC, pH not specified in the publication	Bacillus sp.	7	734265	3.6.3.14C00002	19
+3.6.3.14		16	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	pH not specified in the publication, 30&Acirc&degC	Bacillus sp.	12	719458	3.6.3.14C00009 	19
+2.7.4.3		0.053	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	wild-type, pH 7.2, 35&Acirc&degC	Bacillus subtilis	9	694945	2.7.4.3C00020	19
+2.7.4.3		0.073	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	wild-type, pH 7.2, 45&Acirc&degC	Bacillus subtilis	9	694945	2.7.4.3C00020	19
+2.7.4.3		0.1	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	wild-type, pH 7.2, 55&Acirc&degC	Bacillus subtilis	9	694945	2.7.4.3C00020	19
+2.7.4.3		0.135	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	wild-type, pH 7.2, 60&Acirc&degC	Bacillus subtilis	9	694945	2.7.4.3C00020	19
+1.4.1.2		342	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	wild-type	Bacillus subtilis	32	672661	1.4.1.2C00026	19
+1.4.1.2		344	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	wild-type	Bacillus subtilis	32	672660	1.4.1.2C00026	19
+2.7.2.4		0.333	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	pH 7.0, 30&degC	Bacillus subtilis	91	642339	2.7.2.4C00049 	19
+2.6.1.1		14	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 8.0, 45&degC	Bacillus subtilis	38	722235	2.6.1.1C00025	19
+1.4.1.2		18.1	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	wild-type	Bacillus subtilis	38	672661	1.4.1.2C00025	19
+4.3.2.2		1.74	C03794 	cpd:C03794   N6-(1,2-Dicarboxyethyl)-AMP; N6-(1,2-Dicarboxyethyl)AMP; Adenylosuccinate; Adenylosuccinic acid	wild-type enzyme	Bacillus subtilis	29070	682738	4.3.2.2C03794 	19
+2.5.1.54		4.6	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	pH 7.5, 37&degC	Bacillus subtilis	47	657873	2.5.1.54C00074	19
+3.6.1.23		18	C00460	cpd:C00460   dUTP; 2'-Deoxyuridine 5'-triphosphate	pH 7.5, 25&degC, recombinant enzyme	Bacillus virus SPbeta	363	670775	3.6.1.23C00460	19
+4.2.1.2		690	C00122	cpd:C00122   Fumarate; Fumaric acid; trans-Butenedioic acid	pH 7.5, 25&degC, recombinant enzyme	Bacteria	156	33762	4.2.1.2C00122	19
+4.2.1.2		540	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid		Bacteria	246	33762	4.2.1.2C00149	19
+2.2.1.2		6.44	C00279	cpd:C00279   D-Erythrose 4-phosphate		Blastobotrys adeninivorans	416	671553	2.2.1.2C00279	19
+2.2.1.2		4.9	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 6.0, 20&degC	Blastobotrys adeninivorans	82	671553	2.2.1.2C00085	19
+1.2.1.3		1.86	C00084	cpd:C00084   Acetaldehyde; Ethanal	 pH 6.0, 20&degC	Bos taurus	84	348708	1.2.1.3C00084	19
+1.4.1.3		50	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid		Bos taurus	32	391593	1.4.1.3C00026	19
+1.4.1.3		4.83	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	cofactor NAD+	Bos taurus	38	391593	1.4.1.3C00025	19
+1.2.1.3		0.28	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	cofactor NAD+	Bos taurus	473	348708	1.2.1.3C00118	19
+2.7.4.8		130	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	calculated as GDP produced	Bos taurus	35	642561	2.7.4.8C00044 	19
+1.3.5.1		0.142	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	calculated as GDP produced	Bos taurus	180	2877	1.3.5.1C00149	19
+1.6.5.3		2.7	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 7.6, 32&degC, cosubstrate: ubiquinone-1, ubiquinone-0 or idebenone	Bos taurus	3	696312	1.6.5.3C00004	19
+1.5.1.3		5.1	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	25&Acirc&degC, pH 7.6	Bos taurus	5	672035	1.5.1.3C00005	19
+1.10.2.2		10.2	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	reconstituted into proteoliposomes	Bos taurus	79	440026	1.10.2.2C00524	19
+1.10.2.2		10.3	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	solubilized in presence of 0.1% bovine serum albumin	Bos taurus	79	440026	1.10.2.2C00524	19
+1.10.2.2		13.3	C00524	cpd:C00524   Cytochrome c; Holocytochrome c	solubilized in presence of 0.1% bovine serum albumin	Bos taurus	79	439995	1.10.2.2C00524	19
+1.10.2.2		25	C00524	cpd:C00524   Cytochrome c; Holocytochrome c		Bos taurus	79	439995	1.10.2.2C00524	19
+1.9.3.1		1	C00126	cpd:C00126   Ferrocytochrome c; Cytochrome c2+; Reduced cytochrome c	at 7&Acirc&degC, in presence of 56% ethylene glycol	Bos taurus	268	658620	1.9.3.1C00126	19
+1.9.3.1		12	C00126	cpd:C00126   Ferrocytochrome c; Cytochrome c2+; Reduced cytochrome c	at 7&Acirc&degC in absence of ethylene glycol	Bos taurus	268	658620	1.9.3.1C00126	19
+1.3.5.1		28.3	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	at 7&Acirc&degC in absence of ethylene glycol	Bos taurus	54	2877	1.3.5.1C00042	19
+1.3.5.1		83.3	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	based on FAD content, dependency on assay temperature	Bos taurus	54	391123	1.3.5.1C00042	19
+1.3.5.1		167	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	based on FAD content, dependency on assay temperature	Bos taurus	54	391146	1.3.5.1C00042	19
+1.2.1.3		0.76	C00232 	cpd:C00232   Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate		Bos taurus	440	348708	1.2.1.3C00232 	19
+1.3.5.1		167	C00399	cpd:C00399   Ubiquinone; Coenzyme Q; CoQ; Q		Bos taurus	343	287801	1.3.5.1C00399	19
+1.3.5.2		44.2	C00399	cpd:C00399   Ubiquinone; Coenzyme Q; CoQ; Q		Bos taurus	4097	391226	1.3.5.2C00399	19
+1.2.1.11		0.12	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	pH and temperature not specified in the publication	Candida albicans	472	710717	1.2.1.11C00441	19
+2.1.1.14	MetS_c	0.417	C00155	cpd:C00155   L-Homocysteine; L-2-Amino-4-mercaptobutyric acid; Homocysteine	in 50 mM potassium phosphate (pH 7.2), 50 mM Tris-Cl (pH 7.2) containing 0.1 mM MgSO4, 10 mM dithiothreitol and 2 mM L-homocysteine at 37&Acirc&degC	Candida albicans	260	671587	2.1.1.14C00155	19
+2.1.1.14	MetS_c	0.45	C00155	cpd:C00155   L-Homocysteine; L-2-Amino-4-mercaptobutyric acid; Homocysteine	37&Acirc&degC, pH not specified in the publication	Candida albicans	260	734490	2.1.1.14C00155	19
+1.2.1.2		0.023	C00288	cpd:C00288   HCO3-; Hydrogencarbonate; Bicarbonate; Hydrogen carbonate; Acid carbonate	at pH 7.0 and 25&Acirc&degC	Candida methylica	175	741359	1.2.1.2C00288	19
+5.3.1.9		18	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.0	Carassius auratus	82	704132	5.3.1.9C00085	19
+2.4.1.1		47	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	30&degC, pH 7.0, wild-type	Corynebacterium callunae	12	702874	2.4.1.1C00009 	19
+2.4.1.1		50.5	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	dextrin DP9 phosphorolysis	Corynebacterium callunae	12	488295	2.4.1.1C00009 	19
+2.4.1.1		69.9	C00369	cpd:C00369   Starch; Glycogen	phosphorolysis	Corynebacterium callunae	189	488295	2.4.1.1C00369	19
+2.4.1.1		74	C00369	cpd:C00369   Starch; Glycogen	pH 7.0, 30&degC, recombinant wild-type enzyme, phosphorolysis	Corynebacterium callunae	189	657863	2.4.1.1C00369	19
+1.1.1.86		0.9	C06006	cpd:C06006   (S)-2-Aceto-2-hydroxybutanoate; (S)-2-Hydroxy-2-ethyl-3-oxobutanoate	pH 8.0 25&degC	Corynebacterium glutamicum	3604	738989	1.1.1.86C06006	19
+1.1.1.25		0.36	C00944	cpd:C00944   3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	pH 7.0, 30&Acirc&degC	Corynebacterium glutamicum	700	724089	1.1.1.25C00944	19
+1.1.1.25		114	C00944	cpd:C00944   3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	pH 7.0, 30&Acirc&degC	Corynebacterium glutamicum	700	724089	1.1.1.25C00944	19
+1.1.1.86		0.9	C04181	cpd:C04181   3-Hydroxy-3-methyl-2-oxobutanoic acid; 3-Hydroxy-3-methyl-2-oxobutanoate; 2-Oxo-3-hydroxyisovalerate	pH 8.0 25&degC	Corynebacterium glutamicum	11156	738989	1.1.1.86C04181	19
+2.4.2.17	ATPPRT_h	1.91	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	wild type protein, pH 8.5, temperature not specified in the publication	Corynebacterium glutamicum	147	721765	2.4.2.17C00119	19
+2.5.1.54		0.3	C00279	cpd:C00279   D-Erythrose 4-phosphate	isozyme NCgl0950 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&degC	Corynebacterium glutamicum	416	684585	2.5.1.54C00279	19
+2.5.1.54		1.14	C00279	cpd:C00279   D-Erythrose 4-phosphate	isozyme NCgl2098 DAHP synthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30&degC	Corynebacterium glutamicum	416	684585	2.5.1.54C00279	19
+2.6.1.9		1.18	C01100	cpd:C01100   L-Histidinol phosphate	wild-type	Corynebacterium glutamicum	1003	684151	2.6.1.9C01100	19
+2.6.1.9		3.27	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	wild-type	Corynebacterium glutamicum	121	684151	2.6.1.9C00123 	19
+2.6.1.9		4.1	C00079	cpd:C00079   L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	wild-type	Corynebacterium glutamicum	98	684151	2.6.1.9C00079	19
+1.1.1.86		8.6	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 8.0 25&degC	Corynebacterium glutamicum	29	738989	1.1.1.86C00022	19
+3.5.2.3		4.31	C00337	cpd:C00337   (S)-Dihydroorotate; (S)-4,5-Dihydroorotate; L-Dihydroorotate; L-Dihydroorotic acid; Dihydro-L-orotic acid	pH 8.0 25&degC	Crithidia fasciculata	697	246644	3.5.2.3C00337	19
+1.8.7.1		243	C00088 	cpd:C00088   Nitrite		Cyanidioschyzon merolae	155	696126	1.8.7.1C00088 	19
+2.1.2.1		5.85	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine		Danio rerio	89	676954	2.1.2.1C00065	19
+2.1.2.1		8.95	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine		Danio rerio	89	686353	2.1.2.1C00065	19
+2.7.1.11		236	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mM KCl, 5 mM MgCl2 and 25&Acirc&degC	Dictyostelium discoideum	7	721541	2.7.1.11C00002	19
+5.4.2.1		132	C00197	cpd:C00197   3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&degC	Dirofilaria immitis	181	716984	5.4.2.1C00197	19
+3.6.1.23		0.7	C00458	cpd:C00458   dCTP; Deoxycytidine 5'-triphosphate; Deoxycytidine triphosphate; 2'-Deoxycytidine 5'-triphosphate	pH 7.5, 25&degC	Drosophila melanogaster	161	656212	3.6.1.23C00458	19
+3.6.1.23		0.1	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	pH 7.5, 25&degC	Drosophila melanogaster	137	656212	3.6.1.23C00459	19
+2.7.1.90		330	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	wild-type, pH 7.2, 30&degC	Entamoeba histolytica	13	642112	2.7.1.90C00013 	19
+2.7.1.90		325	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	wild-type enzyme, pH 7.2, 30&degC	Entamoeba histolytica	82	642110	2.7.1.90C00085	19
+2.7.1.90		330	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	wild-type, pH 7.2, 30&degC	Entamoeba histolytica	82	642112	2.7.1.90C00085	19
+2.7.9.1		53	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	pH 7.0, 37&Acirc&degC	Entamoeba histolytica	47	661689	2.7.9.1C00074	19
+2.7.9.1		80	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	pH 5.8-6.4 (optimal pH)	Entamoeba histolytica	47	661689	2.7.9.1C00074	19
+2.7.9.1		87	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	pH 6.0, 37&Acirc&degC	Entamoeba histolytica	47	661689	2.7.9.1C00074	19
+2.7.9.1		10	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 6.0, 37&Acirc&degC	Entamoeba histolytica	29	661689	2.7.9.1C00022	19
+2.7.9.1		15	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 37&Acirc&degC	Entamoeba histolytica	29	661689	2.7.9.1C00022	19
+2.3.1.30		17.31	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	50 mM Tris-HCl, pH 8.0, 0.1 mM acetyl-CoA, 25&Acirc&degC	Entamoeba histolytica	89	705594	2.3.1.30C00065	19
+2.3.1.30		25.52	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	50 mM Tris-HCl, pH 8.0, 0.1 mM acetyl-CoA, 25&Acirc&degC	Entamoeba histolytica	89	705594	2.3.1.30C00065	19
+2.3.1.30		43.83	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	50 mM Tris-HCl, pH 8.0, 0.1 mM acetyl-CoA, 25&Acirc&degC	Entamoeba histolytica	89	705594	2.3.1.30C00065	19
+4.3.1.19		5.2	C00188	cpd:C00188   L-Threonine; 2-Amino-3-hydroxybutyric acid	pH 9.0, 37&Acirc&degC	Entamoeba histolytica	220	705606	4.3.1.19C00188	19
+2.3.3.9	MalS_c	14	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	N-terminal malate synthase-active domain GCE(13-573) of glyoxylate cycle enzyme, at 25&Acirc&degC, pH not specified in the publication	Euglena gracilis	95	715749	2.3.3.9C00048 	19
+2.3.3.9	MalS_c	17	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	wild type full-length glyoxylate cycle enzyme, at 25&Acirc&degC, pH not specified in the publication	Euglena gracilis	95	715749	2.3.3.9C00048 	19
+5.4.2.2		0.74	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	in 41 mM 1,3-diaza-2,4-cyclopentadiene /HCl (pH 7.6), 5 mM MgCl2, at 25&Acirc&degC	Fusarium oxysporum	101	714859	5.4.2.2C00103	19
+4.1.1.21		40	C03373	cpd:C03373   Aminoimidazole ribotide; AIR; 1-(5'-Phosphoribosyl)-5-aminoimidazole; 5'-Phosphoribosyl-5-aminoimidazole; 1-(5-Phospho-D-ribosyl)-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole; 5-Amino-1-(5-phospho-beta-D-ribosyl)imidazole	in 41 mM 1,3-diaza-2,4-cyclopentadiene /HCl (pH 7.6), 5 mM MgCl2, at 25&Acirc&degC	Gallus gallus	3629	4133	4.1.1.21C03373	19
+6.3.4.13	PRAGlyL_h	2.3	C03838	cpd:C03838   5'-Phosphoribosylglycinamide; GAR; N1-(5-Phospho-D-ribosyl)glycinamide; Glycinamide ribonucleotide		Gallus gallus	1224	1412	6.3.4.13C03838	19
+5.3.1.1		340	C00111	cpd:C00111   Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	wild type enzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25&Acirc&degC	Gallus gallus	241	727027	5.3.1.1C00111	19
+5.3.1.1		430	C00111	cpd:C00111   Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	30&Acirc&degC, pH 7.6, wild-type enzyme	Gallus gallus	241	661085	5.3.1.1C00111	19
+4.3.1.18		0.197	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	30&Acirc&degC, pH 7.6, wild-type enzyme	Gallus gallus	89	680567	4.3.1.18C00065	19
+2.7.7.9		33.11	C00103	cpd:C00103   D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	pH 7.5, temperature not specified in the publication	Ganoderma lucidum	101	738314	2.7.7.9C00103	19
+2.7.7.9		0.21	C00029	cpd:C00029   UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	pH 7.5, temperature not specified in the publication	Ganoderma lucidum	60	738314	2.7.7.9C00029	19
+2.4.2.7		2.8	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	pH 7.5, temperature not specified in the publication	Giardia intestinalis	147	638167	2.4.2.7C00119	19
+2.4.2.7		2.8	C00147	cpd:C00147   Adenine; 6-Aminopurine		Giardia intestinalis	136	638167	2.4.2.7C00147	19
+2.4.2.7		0.0095	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate		Giardia intestinalis	9	638167	2.4.2.7C00020	19
+2.1.3.3		82	C00169	cpd:C00169   Carbamoyl phosphate	pH 8.0, 37&degC	Giardia intestinalis	368	701115	2.1.3.3C00169	19
+2.1.3.3		8.1	C00327 	cpd:C00327   L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	pH 8.0, 37&degC	Giardia intestinalis	730	701115	2.1.3.3C00327 	19
+2.7.1.90		83	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	both reaction directions pH 7.4, 30&degC substrate is a Mg2+-chelated complexe of phosphate, not uncomplexed ligand	Giardia intestinalis	12	642105	2.7.1.90C00009 	19
+2.1.3.3		7.9	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	pH 8.0, 37&degC	Giardia intestinalis	12	701115	2.1.3.3C00009 	19
+2.4.2.18		0.34	C00108 	cpd:C00108   Anthranilate; Anthranilic acid; o-Aminobenzoic acid; Vitamin L1; 2-Aminobenzoate	cosubstrate: 5-phospho-alpha-D-ribose 1-diphosphate	Hansenula henricii	394	638668	2.4.2.18C00108 	19
+1.5.1.2		31	C03912	cpd:C03912   (S)-1-Pyrroline-5-carboxylate; L-1-Pyrroline-5-carboxylate; 1-Pyrroline-5-carboxylate	cosubstrate NADPH, wild-type, pH 7.5, 37&Acirc&degC	Homo sapiens	1456	740763	1.5.1.2C03912	19
+2.7.2.3		4	C00458	cpd:C00458   dCTP; Deoxycytidine 5'-triphosphate; Deoxycytidine triphosphate; 2'-Deoxycytidine 5'-triphosphate	cosubstrate NADPH, wild-type, pH 7.5, 37&Acirc&degC	Homo sapiens	161	661033	2.7.2.3C00458	19
+2.7.2.3		110	C00286	cpd:C00286   dGTP; 2'-Deoxyguanosine 5'-triphosphate; Deoxyguanosine 5'-triphosphate; Deoxyguanosine triphosphate		Homo sapiens	194	661033	2.7.2.3C00286	19
+2.7.4.9		0.73	C00364	cpd:C00364   dTMP; Thymidine 5'-phosphate; Deoxythymidine 5'-phosphate; Thymidylic acid; 5'-Thymidylic acid; Thymidine monophosphate; Deoxythymidylic acid; Thymidylate	wild-type	Homo sapiens	518	693440	2.7.4.9C00364	19
+2.7.4.9		0.76	C00364	cpd:C00364   dTMP; Thymidine 5'-phosphate; Deoxythymidine 5'-phosphate; Thymidylic acid; 5'-Thymidylic acid; Thymidine monophosphate; Deoxythymidylic acid; Thymidylate	wild-type enzyme fused to the protein transduction domain of Tat	Homo sapiens	518	693440	2.7.4.9C00364	19
+2.7.4.9		3	C00364	cpd:C00364   dTMP; Thymidine 5'-phosphate; Deoxythymidine 5'-phosphate; Thymidylic acid; 5'-Thymidylic acid; Thymidine monophosphate; Deoxythymidylic acid; Thymidylate	at 37&Acirc&degC in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2	Homo sapiens	518	722915	2.7.4.9C00364	19
+3.6.1.15		0.0074	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	pH 7.0, 22&degC, recombinant wild-type enzyme	Homo sapiens	137	688347	3.6.1.15C00459	19
+2.7.4.14		5.8	C00365 	cpd:C00365   dUMP; Deoxyuridylic acid; Deoxyuridine monophosphate; Deoxyuridine 5'-phosphate; 2'-Deoxyuridine 5'-phosphate	pH and temperature not specified in the publication, recombinant wild-type enzyme	Homo sapiens	496	739215	2.7.4.14C00365 	19
+2.1.1.45		3.11	C00365 	cpd:C00365   dUMP; Deoxyuridylic acid; Deoxyuridine monophosphate; Deoxyuridine 5'-phosphate; 2'-Deoxyuridine 5'-phosphate	wild type enzyme, at 37&Acirc&degC	Homo sapiens	496	706625	2.1.1.45C00365 	19
+2.1.1.45		48	C00365 	cpd:C00365   dUMP; Deoxyuridylic acid; Deoxyuridine monophosphate; Deoxyuridine 5'-phosphate; 2'-Deoxyuridine 5'-phosphate	wild type enzyme, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25&Acirc&degC	Homo sapiens	496	720965	2.1.1.45C00365 	19
+2.7.4.9		4.8	C00365 	cpd:C00365   dUMP; Deoxyuridylic acid; Deoxyuridine monophosphate; Deoxyuridine 5'-phosphate; 2'-Deoxyuridine 5'-phosphate	at 37&Acirc&degC in 50 mM Tris-HCl, pH 7.4, containing 50 mM KCl and 5 mM MgCl2	Homo sapiens	496	722915	2.7.4.9C00365 	19
+2.7.2.3		2630	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	wild-type enzyme	Homo sapiens	462	686757	2.7.2.3C00236	19
+2.7.2.3		2633	C00236	cpd:C00236   3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	wild-type enzyme	Homo sapiens	462	685259	2.7.2.3C00236	19
+3.5.4.10	IMPCH_h	8.6	C04734 	cpd:C04734   1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-formamido-4-imidazolecarboxamide; 5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide; 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; FAICAR	pH 7.5, wild type	Homo sapiens	1304	485758	3.5.4.10C04734 	19
+3.5.4.10	IMPCH_h	8.6	C04734 	cpd:C04734   1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-formamido-4-imidazolecarboxamide; 5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide; 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; FAICAR	pH 7.5, 22&degC, wild-type	Homo sapiens	1304	658026	3.5.4.10C04734 	19
+2.1.1.45		48	C00143	cpd:C00143   5,10-Methylenetetrahydrofolate; (6R)-5,10-Methylenetetrahydrofolate; 5,10-Methylene-THF	wild type enzyme, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25&Acirc&degC	Homo sapiens	336	720965	2.1.1.45C00143	19
+1.1.1.44		0.217	C00345 	cpd:C00345   6-Phospho-D-gluconate	wild type enzyme, in 50 mM TES buffer, 50 mM, MgCl2, 13 mM formalin, 2 mM EDTA, 0.15 mM 2-mercaptoethanol, pH 7.4, at 25&Acirc&degC	Homo sapiens	327	286841	1.1.1.44C00345 	19
+1.1.1.44		73	C00345 	cpd:C00345   6-Phospho-D-gluconate	at pH 7.5 and 22&degC	Homo sapiens	327	741367	1.1.1.44C00345 	19
+2.7.2.3		200	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type, at 4&Acirc&degC, in 30% methanol, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+	Homo sapiens	8	702329	2.7.2.3C00008	19
+2.7.2.3		2630	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type enzyme	Homo sapiens	8	686757	2.7.2.3C00008	19
+2.7.2.3		2633	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type enzyme	Homo sapiens	8	685259	2.7.2.3C00008	19
+2.7.2.3		2633	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type, at 20&Acirc&degC, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+	Homo sapiens	8	702329	2.7.2.3C00008	19
+2.7.4.3		783	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type, at 20&Acirc&degC, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+	Homo sapiens	8	642564	2.7.4.3C00008	19
+3.6.1.15		0.0051	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	pH 7.0, 22&degC, recombinant wild-type enzyme	Homo sapiens	8	688347	3.6.1.15C00008	19
+6.4.1.2	ACoAC_h	0.155	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	in 50 mM HEPES (pH 7.5), 2.0 mM MgCl2, 2.0 mM ATP, 2.0 mM potassium citrate, 12.5 mM sodium bicarbonate, 1 mg/ml bovine serum albumin, and 0.005 mM acetyl-CoA, at 25&Acirc&degC	Homo sapiens	7	676983	6.4.1.2C00002	19
+2.7.1.15		7.3	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, presence of Mn2+, pH 7.2, 37&degC	Homo sapiens	7	737810	2.7.1.15C00002	19
+2.7.1.15		9.8	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, presence of Mg2+, pH 7.2, 37&degC	Homo sapiens	7	737810	2.7.1.15C00002	19
+6.3.5.4		1.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 8, reaction with NH3, C-terminally tagged recombinant enzyme	Homo sapiens	7	660816	6.3.5.4C00002	19
+6.3.5.4		1.7	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 8, reaction with glutamine, C-terminally tagged recombinant enzyme	Homo sapiens	7	660816	6.3.5.4C00002	19
+2.7.4.3		0.0063	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild type enzyme CINAP, in 100 mM Tris-HCl, pH 7.5, 60 mM KCl, temperature not specified in the publication	Homo sapiens	7	723742	2.7.4.3C00002	19
+2.7.4.3		152	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	allelozyme AK1*2	Homo sapiens	7	642562	2.7.4.3C00002	19
+2.7.4.3		683	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	allelozyme AK1*2	Homo sapiens	7	642564	2.7.4.3C00002	19
+2.7.4.3		879	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, 37&Acirc&degC, pH 8.0	Homo sapiens	7	673478	2.7.4.3C00002	19
+2.7.4.3		879.5	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, 37&Acirc&degC	Homo sapiens	7	673478	2.7.4.3C00002	19
+3.6.1.15		0.0086	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.0, 22&degC, recombinant wild-type enzyme	Homo sapiens	7	688347	3.6.1.15C00002	19
+3.3.1.1		0.79	C00021	cpd:C00021   S-Adenosyl-L-homocysteine; S-Adenosylhomocysteine	recombinant wild type enzyme, at pH 7.2 and 37&degC	Homo sapiens	34	732154	3.3.1.1C00021	19
+2.6.1.42		17	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	TAT-peptide fusion protein, pH 7.4, 25&degC	Homo sapiens	97	738424	2.6.1.42C00041	19
+2.6.1.42		50	C00041	cpd:C00041   L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	wild-type, pH 7.4, 25&degC	Homo sapiens	97	738424	2.6.1.42C00041	19
+2.6.1.42		340	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	wild type enzyme	Homo sapiens	32	674728	2.6.1.42C00026	19
+1.1.1.95		0.078	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	at pH 7.6 and 37&Acirc&degC	Homo sapiens	32	737315	1.1.1.95C00026	19
+6.3.5.4		1.8	C00014 	cpd:C00014   Ammonia; NH3	pH 8, C-terminally tagged recombinant enzyme	Homo sapiens	16	660816	6.3.5.4C00014 	19
+3.5.3.1		180	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	monomeric E256Q variant, pH 9.5	Homo sapiens	117	695868	3.5.3.1C00062	19
+3.5.3.1		190	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	wild type enzyme, at 37&Acirc&degC	Homo sapiens	117	686646	3.5.3.1C00062	19
+3.5.3.1		190	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	wild-type, pH 9.5	Homo sapiens	117	695868	3.5.3.1C00062	19
+3.5.3.1		190	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	wild type	Homo sapiens	117	696307	3.5.3.1C00062	19
+3.5.3.1		231	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	wild-type enzyme, pH 9.5	Homo sapiens	117	654717	3.5.3.1C00062	19
+3.5.3.1		249	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	37&Acirc&degC, pH 9.0, wild-type	Homo sapiens	117	668556	3.5.3.1C00062	19
+3.5.3.1		1132	C00062	cpd:C00062   L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	pH 9.4, 37&Acirc&degC	Homo sapiens	117	720972	3.5.3.1C00062	19
+6.3.5.4		1.3	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	pH 8, reaction with glutamine, C-terminally tagged recombinant enzyme	Homo sapiens	91	660816	6.3.5.4C00049 	19
+6.3.5.4		1.7	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	pH 8, reaction with NH3, C-terminally tagged recombinant enzyme	Homo sapiens	91	660816	6.3.5.4C00049 	19
+1.8.1.4		505	C15973	cpd:C15973   Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	wild-type wild type enzyme	Homo sapiens	667	674943	1.8.1.4C15973	19
+1.8.1.4		505	C15973	cpd:C15973   Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	wild-type E3	Homo sapiens	667	693271	1.8.1.4C15973	19
+1.8.1.4		567	C15973	cpd:C15973   Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	wild-type enzyme	Homo sapiens	667	394004	1.8.1.4C15973	19
+1.8.1.4		899	C15973	cpd:C15973   Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	wild-type, pH 8.0, 37&degC, presence of 1.5 mM EDTA	Homo sapiens	667	724686	1.8.1.4C15973	19
+2.7.1.105		0.407	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.5, 30&degC, recombinant wild-type HBP1	Homo sapiens	113776	660814	2.7.1.105C00085	19
+2.7.1.105		0.43	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.5, 30&degC, recombinant His-tagged wild-type HBP1	Homo sapiens	113776	660814	2.7.1.105C00085	19
+2.7.1.105		0.447	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.5, 30&degC, recombinant His-tagged wild-type HBP2	Homo sapiens	113776	660814	2.7.1.105C00085	19
+5.3.1.9		500	C00092	cpd:C00092   D-Glucose 6-phosphate; Glucose 6-phosphate; Robison ester	wild type enzyme, at 21&degC in 20 mM HEPES buffer (pH 7.5)	Homo sapiens	99	726971	5.3.1.9C00092	19
+5.3.1.9		1000	C00092	cpd:C00092   D-Glucose 6-phosphate; Glucose 6-phosphate; Robison ester	pH 7.5, 30&degC, recombinant wild-type enzyme	Homo sapiens	99	702456	5.3.1.9C00092	19
+2.6.1.42		290	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	wild type enzyme	Homo sapiens	38	674728	2.6.1.42C00025	19
+2.6.1.42		1075	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	wild type enzyme, in 25 mM potassium phosphate buffer at pH 7.8, at 37&degC	Homo sapiens	38	702237	2.6.1.42C00025	19
+6.3.5.4		1.7	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	pH 8, C-terminally tagged recombinant enzyme	Homo sapiens	96	660816	6.3.5.4C00064 	19
+1.1.3.15		3.6	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid	pH 8, C-terminally tagged recombinant enzyme	Homo sapiens	399	684684	1.1.3.15C00160 	19
+1.1.3.15		4.1	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid		Homo sapiens	399	685214	1.1.3.15C00160 	19
+1.1.3.15		15.6	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid		Homo sapiens	399	684684	1.1.3.15C00160 	19
+1.1.3.15		15.7	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid	pH 7.0, 30&Acirc&degC, recombinant enzyme, first order	Homo sapiens	399	698951	1.1.3.15C00160 	19
+1.1.3.15		20	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid	pH 7.5, 30&Acirc&degC, recombinant enzyme, first order	Homo sapiens	399	698951	1.1.3.15C00160 	19
+1.1.3.15		31.2	C00160 	cpd:C00160   Glycolate; Glycolic acid; Hydroxyacetic acid	pH 9.0, 30&Acirc&degC, recombinant enzyme, first order	Homo sapiens	399	698951	1.1.3.15C00160 	19
+1.1.3.15		0.7	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	pH 9.0, 30&Acirc&degC, recombinant enzyme, first order	Homo sapiens	95	685214	1.1.3.15C00048 	19
+1.1.3.15		0.83	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid		Homo sapiens	95	684684	1.1.3.15C00048 	19
+2.6.1.42		16	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	TAT-peptide fusion protein, pH 7.4, 25&degC	Homo sapiens	95	738424	2.6.1.42C00048 	19
+2.6.1.42		42	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	wild-type, pH 7.4, 25&degC	Homo sapiens	95	738424	2.6.1.42C00048 	19
+3.6.1.15		0.0076	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	pH 7.0, 22&degC, recombinant wild-type enzyme	Homo sapiens	35	688347	3.6.1.15C00044 	19
+1.1.1.41		30	C00311	cpd:C00311   Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	25&Acirc&degC, pH 7.2, wild-type enzyme	Homo sapiens	242	669477	1.1.1.41C00311	19
+1.1.1.41		30	C00311	cpd:C00311   Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	wild type enzyme in 20 mM isocitrate and 1 mM MnSO4	Homo sapiens	1444	669477	1.1.1.41C00311	19
+1.8.1.4		519	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	wild-type wild type enzyme	Homo sapiens	720	674943	1.8.1.4C00248	19
+1.8.1.4		649	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	wild-type enzyme	Homo sapiens	720	394004	1.8.1.4C00248	19
+1.8.1.9		1.6	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	isoform TrxR2, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37&degC	Homo sapiens	720	725059	1.8.1.9C00248	19
+1.8.1.9		3.3	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	isoform TrxR1, in 50 mM Tris-HCl, 1 mM EDTA, pH 8.0, at 37&degC	Homo sapiens	720	725059	1.8.1.9C00248	19
+1.8.1.4		574	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild-type enzyme	Homo sapiens	4	394004	1.8.1.4C00003	19
+1.4.1.3		65	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.5, 25&degC, wild-type enzyme hGDH1	Homo sapiens	4	654905	1.4.1.3C00003	19
+1.4.1.3		65	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.5, 25&degC, wild-type enzyme	Homo sapiens	4	656087	1.4.1.3C00003	19
+1.4.1.3		83	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.5, 25&degC, wild-type enzyme hGDH2	Homo sapiens	4	654905	1.4.1.3C00003	19
+1.8.1.4		340	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type enzyme	Homo sapiens	3	394004	1.8.1.4C00004	19
+1.4.1.3		104	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	25&degC, wild-type enzyme	Homo sapiens	3	655569	1.4.1.3C00004	19
+1.4.1.3		104	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 8.0, 25&degC, wild-type enzyme hGDH1	Homo sapiens	3	655582	1.4.1.3C00004	19
+1.4.1.3		104	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type, hGDH1	Homo sapiens	3	673616	1.4.1.3C00004	19
+1.4.1.3		104	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild type isozyme GDH1, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&degC	Homo sapiens	3	684905	1.4.1.3C00004	19
+1.4.1.3		104	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	isozyme GDH1, in the presence of 1 mM ADP, in 50 mM triethanolamine, pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0, at 25&degC	Homo sapiens	3	687565	1.4.1.3C00004	19
+1.4.1.3		130	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 8.0, 25&degC, wild-type enzyme hGDH2	Homo sapiens	3	655582	1.4.1.3C00004	19
+1.4.1.3		130	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type, hGDH2	Homo sapiens	3	673616	1.4.1.3C00004	19
+1.4.1.3		130	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild type isozyme GDH2, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&degC	Homo sapiens	3	684905	1.4.1.3C00004	19
+1.4.1.3		130	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	isozyme GDH2, in the presence of 1 mM ADP, in 50 mM triethanolamine, pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0, at 25&degC	Homo sapiens	3	687565	1.4.1.3C00004	19
+1.1.1.49		247	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	at pH 8.0 and 37&Acirc&degC	Homo sapiens	6	741011	1.1.1.49C00006	19
+1.1.1.49		251	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	25&Acirc&degC, pH 8.0, wild-type enzyme	Homo sapiens	6	689022	1.1.1.49C00006	19
+1.1.1.44		71	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	at pH 7.5 and 22&degC	Homo sapiens	6	741367	1.1.1.44C00006	19
+1.5.1.2		55	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	wild type enzyme, fixed 1 mM NADP+	Homo sapiens	6	675382	1.5.1.2C00006	19
+2.4.2.10		0.017	C01103	cpd:C01103   Orotidine 5'-phosphate; Orotidylic acid	in the presence of 20 mM phosphonoacetic acid, at 25&degC, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2	Homo sapiens	599	704190	2.4.2.10C01103	19
+2.4.2.10		0.1	C01103	cpd:C01103   Orotidine 5'-phosphate; Orotidylic acid	in the presence of 1 mM diphosphate, at 25&degC, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2	Homo sapiens	599	704190	2.4.2.10C01103	19
+4.1.1.23	OMPDC_c	0.75	C01103	cpd:C01103   Orotidine 5'-phosphate; Orotidylic acid	in the presence of 1 mM diphosphate, at 25&degC, 50 mM Tris-HCl, pH 8.0, 5 mM MgCl2	Homo sapiens	599	695160	4.1.1.23C01103	19
+4.1.1.23	OMPDC_c	8.1	C01103	cpd:C01103   Orotidine 5'-phosphate; Orotidylic acid		Homo sapiens	599	693556	4.1.1.23C01103	19
+1.1.1.95		0.177	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	at pH 7.6 and 37&Acirc&degC	Homo sapiens	53	737315	1.1.1.95C00036	19
+4.2.1.11		34.07	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	in 50 mM imidazole-HCl buffer, pH 6.8, with 3 mM MgSO4, 0.4 M KCl	Homo sapiens	47	701578	4.2.1.11C00074	19
+2.7.1.40		3.2	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&Acirc&degC	Homo sapiens	47	674499	2.7.1.40C00074	19
+2.7.1.40		1182	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&Acirc&degC	Homo sapiens	47	674499	2.7.1.40C00074	19
+1.2.4.1		0.077	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.6, 30&Acirc&degC, presence of 0.3 M KCl	Homo sapiens	29	672086	1.2.4.1C00022	19
+1.2.4.1		66.1	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 37&Acirc&degC, isoform PDH2	Homo sapiens	29	674778	1.2.4.1C00022	19
+1.2.4.1		69.9	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.0, 37&Acirc&degC, isoform PDH1	Homo sapiens	29	674778	1.2.4.1C00022	19
+2.7.1.15		10.4	C00121 	cpd:C00121   D-Ribose	wild-type, presence of Mg2+, pH 7.2, 37&degC	Homo sapiens	254	737810	2.7.1.15C00121 	19
+3.6.1.15		0.007	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	pH 7.0, 22&degC, recombinant wild-type enzyme	Homo sapiens	61	688347	3.6.1.15C00075 	19
+2.5.1.6		0.032	C00019 	cpd:C00019   S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	S-adenosylmethionine synthesis activity	Leishmania donovani	22	639078	2.5.1.6C00019 	19
+2.4.2.7		11.3	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	S-adenosylmethionine synthesis activity	Leishmania donovani	13	638164	2.4.2.7C00013 	19
+2.5.1.6		0.0000883	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate		Leishmania infantum	7	639075	2.5.1.6C00002	19
+3.6.1.23		5.4	C00131	cpd:C00131   dATP; 2'-Deoxyadenosine 5'-triphosphate; Deoxyadenosine 5'-triphosphate; Deoxyadenosine triphosphate	pH 8, 25&degC	Leishmania major	133	657286	3.6.1.23C00131	19
+3.6.1.23		6.4	C00286	cpd:C00286   dGTP; 2'-Deoxyguanosine 5'-triphosphate; Deoxyguanosine 5'-triphosphate; Deoxyguanosine triphosphate	pH 8, 25&degC	Leishmania major	194	657286	3.6.1.23C00286	19
+3.6.1.23		65	C01346	cpd:C01346   dUDP; 2'-Deoxyuridine 5'-diphosphate	pH 8, 25&degC	Leishmania major	1330	657286	3.6.1.23C01346	19
+1.5.1.20		52	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	phosphate buffer	Leishmania major	3	674719	1.5.1.20C00004	19
+1.5.1.20		87	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	Tris buffer	Leishmania major	3	674719	1.5.1.20C00004	19
+1.5.1.20		74	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	phosphate buffer	Leishmania major	5	674719	1.5.1.20C00005	19
+1.5.1.20		140	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	Tris buffer	Leishmania major	5	674719	1.5.1.20C00005	19
+6.3.5.5		0.78	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	Tris buffer	Mammalia	7	651901	6.3.5.5C00002	19
+6.3.5.5		6.08	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate		Mammalia	7	651901	6.3.5.5C00002	19
+6.3.5.5		2500	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.4, 37&degC, wild-type hybrid enzyme	Mammalia	7	651952	6.3.5.5C00002	19
+6.3.5.5		2660	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	pH 7.4, 37&degC, wild-type hybrid enzyme	Mammalia	96	651952	6.3.5.5C00064 	19
+2.1.3.2		79.7	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	aspartate transcarbamoylase activity domain of the multienzyme complex	Mesocricetus auratus	91	485852	2.1.3.2C00049 	19
+2.1.3.2		156	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	multienzyme complex	Mesocricetus auratus	91	485852	2.1.3.2C00049 	19
+6.3.4.4		5.5	C00049 	cpd:C00049   L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	22&degC, cosubstrate: 2'-dIMP	Mus musculus	91	672068	6.3.4.4C00049 	19
+4.2.1.1		190000	C00288	cpd:C00288   HCO3-; Hydrogencarbonate; Bicarbonate; Hydrogen carbonate; Acid carbonate	22&degC, cosubstrate: 2'-dIMP	Mus musculus	175	33578	4.2.1.1C00288	19
+1.17.4.1		0.047	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	CDP reduction in the absence of allosteric effectors	Mus musculus	188	437990	1.17.4.1C00112	19
+1.17.4.1		0.16	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	CDP reduction in the presence of 1 mM ATP	Mus musculus	188	437990	1.17.4.1C00112	19
+1.17.4.1		0.26	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	CDP reduction in the presence of 0.2 mM ATP	Mus musculus	188	437990	1.17.4.1C00112	19
+1.17.4.1		0.29	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	CDP reduction in the presence of 4 mM ATP	Mus musculus	188	437990	1.17.4.1C00112	19
+6.3.4.4		3.9	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	pH 6.7, 22&degC, AdSS1-Tr	Mus musculus	35	652500	6.3.4.4C00044 	19
+6.3.4.4		4	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	pH 6.7, 22&degC, AdSS2-Tr	Mus musculus	35	652500	6.3.4.4C00044 	19
+6.3.4.4		4.2	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	pH 6.7, 22&degC, AdSS2	Mus musculus	35	652500	6.3.4.4C00044 	19
+6.3.4.4		5.4	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	pH 6.7, 22&degC, AdSS1	Mus musculus	35	652500	6.3.4.4C00044 	19
+6.3.4.4		5.5	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	22&degC, cosubstrate: 2'-dIMP	Mus musculus	35	672068	6.3.4.4C00044 	19
+1.8.1.9		1.183	C00027	cpd:C00027   Hydrogen peroxide; H2O2; Oxydol	semisynthetic enzyme with 91% content of selenium	Mus musculus	20	672160	1.8.1.9C00027	19
+1.8.1.9		6.08	C00027	cpd:C00027   Hydrogen peroxide; H2O2; Oxydol	semisynthetic enzyme with 91% content of selenium	Mus musculus	20	672160	1.8.1.9C00027	19
+4.2.3.5		0.87	C01269	cpd:C01269   5-O-(1-Carboxyvinyl)-3-phosphoshikimate; O5-(1-Carboxyvinyl)-3-phosphoshikimate	wild-type enzyme	Neurospora crassa	1249	692285	4.2.3.5C01269	19
+1.7.1.3		290	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild type	Neurospora crassa	3	395976	1.7.1.3C00004	19
+1.7.1.3		1400	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild type	Neurospora crassa	5	395976	1.7.1.3C00005	19
+1.2.1.2		0.007	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	wild-type, 30&Acirc&degC, pH 7.0	Paracoccus sp.	95	669327	1.2.1.2C00048 	19
+3.5.3.1		0.25	C00079	cpd:C00079   L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	free enzyme, at pH 7.0 and 40&Acirc&degC	Penicillium chrysogenum	98	733226	3.5.3.1C00079	19
+3.5.3.1		0.46	C00079	cpd:C00079   L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	chitosan-immobilized enzyme, at pH 7.0 and 40&Acirc&degC	Penicillium chrysogenum	98	733226	3.5.3.1C00079	19
+3.5.3.1		0.94	C00079	cpd:C00079   L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	PEG-immobilized enzyme, at pH 7.0 and 40&Acirc&degC	Penicillium chrysogenum	98	733226	3.5.3.1C00079	19
+3.2.1.1		0.0258	C00208	cpd:C00208   Maltose; Malt sugar; alpha-D-Glucopyranosyl-(1->4)-D-glucopyranose	pH 5.6, 40&Acirc&degC	Pichia burtonii	81	678813	3.2.1.1C00208	19
+2.4.2.10		3.2	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	pH 8.0, 37&degC	Plasmodium falciparum	147	659903	2.4.2.10C00119	19
+4.3.2.2		2.9	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	pH 7.4, 25&degC	Plasmodium falciparum	9	691116	4.3.2.2C00020	19
+1.4.1.4		25	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	pH 7.0, 25&Acirc&degC, recombinant enzyme	Plasmodium falciparum	32	725918	1.4.1.4C00026	19
+1.4.1.4		53.33	C00026	cpd:C00026   2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	pH 7.0, 25&Acirc&degC, recombinant enzyme	Plasmodium falciparum	32	725918	1.4.1.4C00026	19
+6.3.5.2		0.933	C00014 	cpd:C00014   Ammonia; NH3	pH 7.4, 25&Acirc&degC	Plasmodium falciparum	16	714242	6.3.5.2C00014 	19
+4.2.1.3		3.3	C00417 	cpd:C00417   cis-Aconitate; cis-Aconitic acid	pH 7.4	Plasmodium falciparum	933	666289	4.2.1.3C00417 	19
+2.4.2.10		1.3	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 8.0, 37&degC	Plasmodium falciparum	13	659903	2.4.2.10C00013 	19
+4.3.2.2		2.9	C00122	cpd:C00122   Fumarate; Fumaric acid; trans-Butenedioic acid	pH 7.4, 25&degC	Plasmodium falciparum	156	691116	4.3.2.2C00122	19
+1.4.1.4		0.367	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 8.0, 25&Acirc&degC, recombinant enzyme	Plasmodium falciparum	38	725918	1.4.1.4C00025	19
+1.4.1.4		78.33	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 8.0, 25&Acirc&degC, recombinant enzyme	Plasmodium falciparum	38	725918	1.4.1.4C00025	19
+6.3.5.2		0.43	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	37&Acirc&degC, pH 8.5	Plasmodium falciparum	96	671905	6.3.5.2C00064 	19
+6.3.4.4		1	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	wild-type, pH 7.0, 25&degC	Plasmodium falciparum	206	714324	6.3.4.4C00130	19
+6.3.4.4		1.1	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	pH 7.5	Plasmodium falciparum	206	662801	6.3.4.4C00130	19
+6.3.4.4		1.1	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	wild type enzyme, in 30 mM sodium phosphate, pH 7.4 and at 25&degC	Plasmodium falciparum	206	727078	6.3.4.4C00130	19
+6.3.4.4		1.44	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	wild-type, pH 7.0, 37&degC	Plasmodium falciparum	206	714324	6.3.4.4C00130	19
+1.1.1.42		138	C00311	cpd:C00311   Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	recombinant enzyme, pH 8.0, 30&Acirc&degC	Plasmodium falciparum	1444	655456	1.1.1.42C00311	19
+1.1.1.42		138	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	recombinant enzyme, pH 8.0, 30&Acirc&degC	Plasmodium falciparum	6	655456	1.1.1.42C00006	19
+1.3.5.2		0.42	C00007	cpd:C00007   Oxygen; O2	wild-type, pH 8.0, 25&degC	Plasmodium falciparum	11	696249	1.3.5.2C00007	19
+2.4.2.10		3	C00295	cpd:C00295   Orotate; Orotic acid; Uracil-6-carboxylic acid	pH 8.0, 37&degC	Plasmodium falciparum	373	659903	2.4.2.10C00295	19
+2.4.2.10		4.2	C00295	cpd:C00295   Orotate; Orotic acid; Uracil-6-carboxylic acid	37 &degC, pH 8.0, recombinant monofunctional enzyme	Plasmodium falciparum	373	658105	2.4.2.10C00295	19
+2.4.2.10		5.4	C00295	cpd:C00295   Orotate; Orotic acid; Uracil-6-carboxylic acid	37 &degC, pH 8.0	Plasmodium falciparum	373	657769	2.4.2.10C00295	19
+2.4.2.10		6	C00295	cpd:C00295   Orotate; Orotic acid; Uracil-6-carboxylic acid	37 &degC, pH 8.0, mixture of recombinant enzyme subunits	Plasmodium falciparum	373	658105	2.4.2.10C00295	19
+2.4.2.10		10.8	C00295	cpd:C00295   Orotate; Orotic acid; Uracil-6-carboxylic acid	37 &degC, pH 8.0, native enzyme complex	Plasmodium falciparum	373	658105	2.4.2.10C00295	19
+6.3.5.2		0.43	C00655	cpd:C00655   Xanthosine 5'-phosphate; Xanthylic acid; XMP; (9-D-Ribosylxanthine)-5'-phosphate	37&Acirc&degC, pH 8.5 pH 8.5, 37&Acirc&degC	Plasmodium falciparum	772	671905	6.3.5.2C00655	19
+2.7.1.105		0.14	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type enzyme	Rattus norvegicus	7	674911	2.7.1.105C00002	19
+3.1.3.46		0.1	C00665 	cpd:C00665   beta-D-Fructose 2,6-bisphosphate; D-Fructose 2,6-bisphosphate	wild-type enzyme	Rattus norvegicus	573	94933	3.1.3.46C00665 	19
+3.1.3.46		0.1	C00665 	cpd:C00665   beta-D-Fructose 2,6-bisphosphate; D-Fructose 2,6-bisphosphate		Rattus norvegicus	573	94945	3.1.3.46C00665 	19
+2.3.1.39	ACPM_h	1.2	C00083 	cpd:C00083   Malonyl-CoA; Malonyl coenzyme A	wild-type	Rattus norvegicus	72	486873	2.3.1.39C00083 	19
+4.3.1.19		243	C00065	cpd:C00065   L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	wild-type	Rattus norvegicus	89	210849	4.3.1.19C00065	19
+1.1.3.15		0.014	C00123 	cpd:C00123   L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	isozymes beta1 and beta2	Rattus sp.	121	389680	1.1.3.15C00123 	19
+3.6.1.15		11.18	C00131	cpd:C00131   dATP; 2'-Deoxyadenosine 5'-triphosphate; Deoxyadenosine 5'-triphosphate; Deoxyadenosine triphosphate	pH 7.5, 23&degC	Saccharomyces cerevisiae	133	667694	3.6.1.15C00131	19
+3.6.1.15		0.5	C00458	cpd:C00458   dCTP; Deoxycytidine 5'-triphosphate; Deoxycytidine triphosphate; 2'-Deoxycytidine 5'-triphosphate	pH 7.5, 23&degC	Saccharomyces cerevisiae	161	667694	3.6.1.15C00458	19
+3.6.1.15		12.57	C00458	cpd:C00458   dCTP; Deoxycytidine 5'-triphosphate; Deoxycytidine triphosphate; 2'-Deoxycytidine 5'-triphosphate	pH 7.5, 23&degC	Saccharomyces cerevisiae	161	667694	3.6.1.15C00458	19
+3.6.1.15		10.2	C00286	cpd:C00286   dGTP; 2'-Deoxyguanosine 5'-triphosphate; Deoxyguanosine 5'-triphosphate; Deoxyguanosine triphosphate	pH 7.5, 23&degC	Saccharomyces cerevisiae	194	667694	3.6.1.15C00286	19
+4.2.1.11		78	C00631	cpd:C00631   2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	wild-type enzyme	Saccharomyces cerevisiae	606	33642	4.2.1.11C00631	19
+4.2.1.11		230	C00631	cpd:C00631   2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	native enolase, pH 7.8, 21-23&Acirc&degC	Saccharomyces cerevisiae	606	33603	4.2.1.11C00631	19
+4.1.1.49		62	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30&degC	Saccharomyces cerevisiae	8	716840	4.1.1.49C00008	19
+4.1.1.49		38	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild type enzyme, in 100 mM MOPS buffer (pH 7.0), at 30&degC	Saccharomyces cerevisiae	7	716840	4.1.1.49C00002	19
+3.6.1.1		0.005	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	less than 0.005/sec, pH 7.2, 25&Acirc&degC, in the presence of Mg2+	Saccharomyces cerevisiae	7	654506	3.6.1.1C00002	19
+2.7.2.8		7.7	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type, pH not specified, 37&degC	Saccharomyces cerevisiae	7	723557	2.7.2.8C00002	19
+2.7.4.8		90	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.7, 25&ordmC, reverse reaction	Saccharomyces cerevisiae	7	642701	2.7.4.8C00002	19
+2.2.1.1		1.4	C00279	cpd:C00279   D-Erythrose 4-phosphate	D477A	Saccharomyces cerevisiae	416	486018	2.2.1.1C00279	19
+2.2.1.1		69	C00279	cpd:C00279   D-Erythrose 4-phosphate	wild-type	Saccharomyces cerevisiae	416	486018	2.2.1.1C00279	19
+2.2.1.1		0.005	C00168	cpd:C00168   Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	wild-type, cofactor N1&acircÂÂ-methyl-thiamine diphosphate, 25&Acirc&degC, pH 7.6	Saccharomyces cerevisiae	326	658678	2.2.1.1C00168	19
+2.2.1.1		2.5	C00168	cpd:C00168   Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	wild-type, cofactor 4&acircÂÂ-methylamino-thiamine diphosphate, 25&Acirc&degC, pH 7.6	Saccharomyces cerevisiae	326	658678	2.2.1.1C00168	19
+2.2.1.1		44.5	C00168	cpd:C00168   Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	wild-type, cofactor thiamine diphosphate, 25&Acirc&degC, pH 7.6	Saccharomyces cerevisiae	326	658678	2.2.1.1C00168	19
+2.7.1.20		0.583	C00130	cpd:C00130   IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	44fold reduction	Saccharomyces cerevisiae	154	641115	2.7.1.20C00130	19
+4.1.1.49		0.28	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30&degC	Saccharomyces cerevisiae	53	702488	4.1.1.49C00036	19
+4.1.1.49		0.8	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	for the pyruvate kinase-like activity of wild-type	Saccharomyces cerevisiae	47	691133	4.1.1.49C00074	19
+4.1.1.49		3	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	for wild-type	Saccharomyces cerevisiae	47	692638	4.1.1.49C00074	19
+4.1.1.49		53	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	for wild-type	Saccharomyces cerevisiae	47	691129	4.1.1.49C00074	19
+4.1.1.49		62	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	wild-type, apparent kinetic parameters for wild-type in the phosphoenolpyruvate carboxylation direction	Saccharomyces cerevisiae	47	691133	4.1.1.49C00074	19
+4.1.1.49		63	C00074	cpd:C00074   Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	wild type enzyme, in 100 mM MOPS buffer (pH 6.6), at 30&degC	Saccharomyces cerevisiae	47	702488	4.1.1.49C00074	19
+1.10.2.2		140	C00390	cpd:C00390   Ubiquinol; QH2; CoQH2	pH 7.0, 22&degC	Saccharomyces cerevisiae	605	659443	1.10.2.2C00390	19
+5.1.3.1		1300	C00231	cpd:C00231   D-Xylulose 5-phosphate	pH 7.0, 22&degC	Saccharomyces cerevisiae	524	2225	5.1.3.1C00231	19
+4.2.1.10	DHQDH_h	210	C00944	cpd:C00944   3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	pH 8.3, temperature not specified in the publication, wild-type enzyme	Salmonella enterica	700	714238	4.2.1.10C00944	19
+4.2.1.10	DHQDH_h	210	C00944	cpd:C00944   3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	wild-type enzyme, pH 7.5, 37&Acirc&degC	Salmonella enterica	700	715639	4.2.1.10C00944	19
+4.2.1.10	DHQDH_h	310	C00944	cpd:C00944   3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	wild type enzyme, at pH 7.5 and 37&Acirc&degC	Salmonella enterica	700	730899	4.2.1.10C00944	19
+6.2.1.1		9400	C00033	cpd:C00033   Acetate; Acetic acid; Ethanoic acid	wild-type Acs, pH not specified in the publication, temperature not specified in the publication	Salmonella enterica	44	716267	6.2.1.1C00033	19
+6.2.1.1		1.7	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.5, wild-type enzyme	Salmonella enterica	7	672265	6.2.1.1C00002	19
+6.2.1.1		100.6	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.5, wild-type enzyme	Salmonella enterica	7	672265	6.2.1.1C00002	19
+6.2.1.1		3.2	C00010	cpd:C00010   CoA; Coenzyme A; CoA-SH	pH 7.5, wild-type enzyme	Salmonella enterica	10	672265	6.2.1.1C00010	19
+6.2.1.1		95.1	C00010	cpd:C00010   CoA; Coenzyme A; CoA-SH	pH 7.5, wild-type enzyme	Salmonella enterica	10	672265	6.2.1.1C00010	19
+4.4.1.8	CTHL_h	1.5	C02291	cpd:C02291   L-Cystathionine	pH 7.5, wild-type enzyme	Salmonella enterica	482	665167	4.4.1.8C02291	19
+2.6.1.11	AOrnTA_h	1.55	C00437	cpd:C00437   N-Acetylornithine; N2-Acetyl-L-ornithine	25&Acirc&degC, pH 9.5	Salmonella enterica subsp. enterica serovar Typhimurium	1874	689939	2.6.1.11C00437	19
+4.2.1.3		5.3	C00158 	cpd:C00158   Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid	pH 8, 25&degC, Lineweaver-Burk method	Salmonella enterica subsp. enterica serovar Typhimurium	125	730343	4.2.1.3C00158 	19
+4.1.3.27		138	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	wild-type, at 25&degC, in 100 mM phosphate buffer, pH 7.0, with 20 mM L-glutamine and 5 mM MgCl2	Salmonella enterica subsp. enterica serovar Typhimurium	96	702371	4.1.3.27C00064 	19
+1.1.1.23		0.15	C01929	cpd:C01929   L-Histidinal	H216N mutation	Salmonella enterica subsp. enterica serovar Typhimurium	7462	286325	1.1.1.23C01929	19
+1.1.1.23		3.6	C01929	cpd:C01929   L-Histidinal	H216N mutation	Salmonella enterica subsp. enterica serovar Typhimurium	7462	286325	1.1.1.23C01929	19
+1.1.1.23		9.34	C01929	cpd:C01929   L-Histidinal		Salmonella enterica subsp. enterica serovar Typhimurium	7462	286331	1.1.1.23C01929	19
+4.2.1.20		0.063	C03506	cpd:C03506   Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	alpha-reaction, pH 7.8, 25&degC, wild-type enzyme	Salmonella enterica subsp. enterica serovar Typhimurium	2069	652899	4.2.1.20C03506	19
+4.2.1.20		0.28	C03506	cpd:C03506   Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	reaction of alpha subunit	Salmonella enterica subsp. enterica serovar Typhimurium	2069	5569	4.2.1.20C03506	19
+4.2.1.20		0.3	C03506	cpd:C03506   Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	alpha-reaction, wild-type enzyme, pH 7.8, 25&degC	Salmonella enterica subsp. enterica serovar Typhimurium	2069	650081	4.2.1.20C03506	19
+4.2.1.20		2.61	C03506	cpd:C03506   Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	overall-reaction, pH 7.8, 25&degC, wild-type enzyme	Salmonella enterica subsp. enterica serovar Typhimurium	2069	652899	4.2.1.20C03506	19
+4.2.1.20		3.7	C03506	cpd:C03506   Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	reaction of alpha2beta2 complex	Salmonella enterica subsp. enterica serovar Typhimurium	2069	5569	4.2.1.20C03506	19
+4.2.1.3		1.1	C00311	cpd:C00311   Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	pH 8, 25&degC, Lineweaver-Burk method	Salmonella enterica subsp. enterica serovar Typhimurium	242	730343	4.2.1.3C00311	19
+2.7.1.39		14.2	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37&degC	Schizosaccharomyces pombe	7	722043	2.7.1.39C00002	19
+2.7.1.39		40.8	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.5, 30&degC	Schizosaccharomyces pombe	7	661325	2.7.1.39C00002	19
+2.7.1.39		11.2	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	in 50 mM HEPES, pH 7.5, 40 mM KCl, 10 mM MgCl2, at 37&degC	Schizosaccharomyces pombe	294	722043	2.7.1.39C00263	19
+2.7.1.39		40.2	C00263	cpd:C00263   L-Homoserine; 2-Amino-4-hydroxybutyric acid	pH 7.5, 30&degC	Schizosaccharomyces pombe	294	661325	2.7.1.39C00263	19
+1.1.1.42		0.76	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild-type, 25&Acirc&degC, pH 7.4	Sus scrofa	4	667326	1.1.1.42C00003	19
+2.3.3.1		167	C00036	cpd:C00036   Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	wild-type	Sus scrofa	53	488032	2.3.3.1C00036	19
+1.8.1.4		72	C00399	cpd:C00399   Ubiquinone; Coenzyme Q; CoQ; Q	pH 7.5, 37&degC, in absence of Zn2+	Sus scrofa	343	658600	1.8.1.4C00399	19
+1.8.1.4		300	C00399	cpd:C00399   Ubiquinone; Coenzyme Q; CoQ; Q	pH 7.5, 37&degC, in presence of Zn2+	Sus scrofa	343	658600	1.8.1.4C00399	19
+1.8.1.9		5.1	C00127	cpd:C00127   Glutathione disulfide; GSSG; Oxiglutatione; Oxidized glutathione	pH 7.5, 37&degC, in presence of Zn2+	Taenia crassiceps	283	659902	1.8.1.9C00127	19
+2.7.1.40		47.6	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	PykII, in 100 mM Tris-HCl,pH 8.5, at 37&Acirc&degC	Toxoplasma gondii	8	708992	2.7.1.40C00008	19
+2.7.1.40		110	C00035	cpd:C00035   GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	PykII, in 100 mM Tris-HCl,pH 8.5, at 37&Acirc&degC	Toxoplasma gondii	49	708992	2.7.1.40C00035	19
+1.4.4.2	GlyDH_m	0.602	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	kinetic parameter for L protein	Trichomonas vaginalis	720	673411	1.4.4.2C00248	19
+1.4.4.2	GlyDH_m	6.08	C00248	cpd:C00248   Lipoamide; Thioctic acid amide	kinetic parameter for L protein	Trichomonas vaginalis	720	673411	1.4.4.2C00248	19
+2.5.1.47		165	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	37&degC, pH 7.8	Trichomonas vaginalis	899	674625	2.5.1.47C01005	19
+2.7.9.1		0.12	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	recombinant enzyme, pH 8.3, temperature not specified in the publication	Trypanosoma cruzi	9	738186	2.7.9.1C00020	19
+2.7.9.1		0.14	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	recombinant enzyme, pH 8.3, temperature not specified in the publication	Trypanosoma cruzi	13	738186	2.7.9.1C00013 	19
+5.3.1.6		2	C00199	cpd:C00199   D-Ribulose 5-phosphate	in 50 mM Tris-HCl (pH 7.6), 150 mM NaCl and 5 mM MESNA, at 30&degC	Trypanosoma cruzi	371	714990	5.3.1.6C00199	19
+1.8.1.7		32.5	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	in 50 mM Tris-HCl (pH 7.6), 150 mM NaCl and 5 mM MESNA, at 30&degC	Xanthomonas campestris	3	671698	1.8.1.7C00004	19
+2.7.7.9		6.8	C00459	cpd:C00459   dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP		Xanthomonas campestris pv. campestris	137	702480	2.7.7.9C00459	19
+2.7.7.9		40	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate		Xanthomonas campestris pv. campestris	61	702480	2.7.7.9C00075 	19
+1.4.1.2		84	C00014 	cpd:C00014   Ammonia; NH3	pH 8.5, 40&degC, recombinant enzyme in presence of DMSO	Halobacterium salinarum	16	724935	1.4.1.2C00014 	20
+1.4.1.2		85	C00014 	cpd:C00014   Ammonia; NH3	pH 8.5, 40&degC, recombinant enzyme	Halobacterium salinarum	16	724935	1.4.1.2C00014 	20
+1.4.1.2		15	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.0, 40&degC, recombinant enzyme in presence of DMSO	Halobacterium salinarum	4	724935	1.4.1.2C00003	20
+1.4.1.2		16	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.0, 40&degC, recombinant enzyme	Halobacterium salinarum	4	724935	1.4.1.2C00003	20
+1.4.1.2		39	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 8.5, 40&degC, recombinant enzyme	Halobacterium salinarum	3	724935	1.4.1.2C00004	20
+1.4.1.2		47	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 8.5, 40&degC, recombinant enzyme in presence of DMSO	Halobacterium salinarum	3	724935	1.4.1.2C00004	20
+2.5.1.6		1.46	C00073	cpd:C00073   L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	wild-type, 55&degC	Methanocaldococcus jannaschii	83	702442	2.5.1.6C00073	20
+1.1.1.86		0.3	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	wild-type, pH not specified in the publication, temperature not specified in the publication	Methanococcus aeolicus	3	739528	1.1.1.86C00004	20
+1.1.1.86		0.7	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild-type, pH not specified in the publication, temperature not specified in the publication	Methanococcus aeolicus	5	739528	1.1.1.86C00005	20
+3.5.4.19	PrAMPCy_h	0.29	C02741	cpd:C02741   Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	pH 8.0, 65&Acirc&degC, recombinant enzyme with bound Cd2+	Methanothermobacter thermautotrophicus	4525	667617	3.5.4.19C02741	20
+3.5.4.19	PrAMPCy_h	6.4	C02741	cpd:C02741   Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	pH 8.0, 65&Acirc&degC, recombinant enzyme with bound Zn2+	Methanothermobacter thermautotrophicus	4525	667617	3.5.4.19C02741	20
+3.5.4.19	PrAMPCy_h	9.9	C02741	cpd:C02741   Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	pH 8.5, 65&Acirc&degC, recombinant enzyme with bound Zn2+	Methanothermobacter thermautotrophicus	4525	667617	3.5.4.19C02741	20
+1.4.1.4		100	C00014 	cpd:C00014   Ammonia; NH3	pH 9.5, 50&Acirc&degC, recombinant enzyme	Pyrobaculum calidifontis	16	724938	1.4.1.4C00014 	20
+1.4.1.4		9.9	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 10.5, 50&Acirc&degC, recombinant enzyme	Pyrobaculum calidifontis	6	724938	1.4.1.4C00006	20
+2.7.6.1		311	C00117	cpd:C00117   D-Ribose 5-phosphate; Ribose 5-phosphate	pH 10.5, 55&degC, recombinant enzyme	Pyrobaculum calidifontis	165	738194	2.7.6.1C00117	20
+1.4.1.3		63.3	C00014 	cpd:C00014   Ammonia; NH3	concentration range: 0.2-5 mM	Pyrococcus	16	391632	1.4.1.3C00014 	20
+1.4.1.3		168	C00014 	cpd:C00014   Ammonia; NH3	concentration range: 10-200 mM	Pyrococcus	16	391632	1.4.1.3C00014 	20
+1.4.1.3		102	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	concentration range: 0.02-0.2 mM	Pyrococcus	6	391632	1.4.1.3C00006	20
+1.4.1.3		112	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	concentration range: 0.002-0.1 mM	Pyrococcus	5	391632	1.4.1.3C00005	20
+3.6.1.1		19.7	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	8	734503	3.6.1.1C00008	20
+3.6.1.1		51.3	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	188	734503	3.6.1.1C00112	20
+3.6.1.1		39.9	C00035	cpd:C00035   GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	49	734503	3.6.1.1C00035	20
+3.6.1.1		91.7	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	35	734503	3.6.1.1C00044 	20
+3.6.1.1		29.7	C00029	cpd:C00029   UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	60	734503	3.6.1.1C00029	20
+3.6.1.1		27.5	C00015	cpd:C00015   UDP; Uridine 5'-diphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	24	734503	3.6.1.1C00015	20
+3.6.1.1		99.1	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	at pH 9.5 and 95&Acirc&degC	Pyrococcus furiosus	61	734503	3.6.1.1C00075 	20
+1.1.1.3		70.1	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.0, 50&Acirc&degC, recombinant wild-type enzyme	Pyrococcus horikoshii	4	741408	1.1.1.3C00003	20
+1.4.1.13		6.42	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.5, 37&Acirc&degC, pGLTZ	Pyrococcus horikoshii	5	725886	1.4.1.13C00005	20
+1.4.1.13		16.3	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.5, 70&Acirc&degC, pGLTZ	Pyrococcus horikoshii	5	725886	1.4.1.13C00005	20
+1.4.1.13		26.8	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.5, 70&Acirc&degC, pGLTY2	Pyrococcus horikoshii	5	725886	1.4.1.13C00005	20
+4.1.1.48	IndGPS_h	0.033	C01302	cpd:C01302   1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	pH 7.5, 25&degC	Sulfolobus solfataricus	747	4615	4.1.1.48C01302	20
+4.1.1.48	IndGPS_h	0.062	C01302	cpd:C01302   1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	pH 7.5, 25&degC, wild-type enzyme	Sulfolobus solfataricus	747	721686	4.1.1.48C01302	20
+4.1.1.48	IndGPS_h	0.42	C01302	cpd:C01302   1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	pH 7.0, 37&degC, wild-type enzyme	Sulfolobus solfataricus	747	726453	4.1.1.48C01302	20
+4.1.1.48	IndGPS_h	0.67	C01302	cpd:C01302   1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	pH 7.5, 75&degC, wild-type enzyme	Sulfolobus solfataricus	747	725533	4.1.1.48C01302	20
+4.1.1.48	IndGPS_h	0.67	C01302	cpd:C01302   1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	pH 7.0, 75&degC, wild-type enzyme	Sulfolobus solfataricus	747	726453	4.1.1.48C01302	20
+2.4.2.18		0.014	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	25&degC	Sulfolobus solfataricus	147	638678	2.4.2.18C00119	20
+2.4.2.18		0.035	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	40&degC	Sulfolobus solfataricus	147	638678	2.4.2.18C00119	20
+2.4.2.18		0.067	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	50&degC	Sulfolobus solfataricus	147	638678	2.4.2.18C00119	20
+2.4.2.18		0.105	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	60&degC	Sulfolobus solfataricus	147	638678	2.4.2.18C00119	20
+2.4.2.18		0.4	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	87&degC	Sulfolobus solfataricus	147	638678	2.4.2.18C00119	20
+2.4.2.18		1.1	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	60&degC, pH 7.5, 2 mM Mg2+, wild-type enzyme	Sulfolobus solfataricus	147	680670	2.4.2.18C00119	20
+2.4.2.18		4.2	C00119	cpd:C00119   5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	60&degC, pH 7.5, 0.05 mM Mg2+, wild-type enzyme	Sulfolobus solfataricus	147	680670	2.4.2.18C00119	20
+1.2.1.9	GAPDH3_c	15	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	pH 8.0, 60&degC	Sulfolobus solfataricus	139	724471	1.2.1.9C00118	20
+4.2.1.9		0.03	C00258 	cpd:C00258   D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	pH 7, 50&Acirc&degC, enzyme activated by 2-mercaptoethanol	Sulfolobus solfataricus	435	732214	4.2.1.9C00258 	20
+1.2.1.24	SCASeADH_m	22.6	C00232 	cpd:C00232   Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	pH 6.5, 70&Acirc&degC, cofactor NAD+	Sulfolobus solfataricus	440	722211	1.2.1.24C00232 	20
+1.1.1.85		4	C00149	cpd:C00149   (S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	pH 6.5, 70&Acirc&degC, cofactor NAD+	Sulfolobus tokodaii	246	680429	1.1.1.85C00149	20
+1.2.1.3		1.63	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	with DL-glyceraldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80&Acirc&degC	Sulfolobus tokodaii	6	722210	1.2.1.3C00006	20
+1.2.1.3		3.71	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	with acetaldehyde as cosubstrate, in 50 mM Tris/HCl, at pH 8.0 and 80&Acirc&degC	Sulfolobus tokodaii	6	722210	1.2.1.3C00006	20
+2.4.1.1		15.2	C00208	cpd:C00208   Maltose; Malt sugar; alpha-D-Glucopyranosyl-(1->4)-D-glucopyranose	pH 6.2, 37&degC, synthetic direction, wild-type enzyme	Sulfolobus tokodaii str. 7	81	688445	2.4.1.1C00208	20
+3.5.1.1		2048	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	at pH 8.5 and 85&degC	Thermococcus gammatolerans	96	734492	3.5.1.1C00064 	20
+6.2.1.5		22	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	at 55&Acirc&degC	Thermococcus kodakarensis	8	674857	6.2.1.5C00008	20
+6.2.1.5		20	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	at 55&Acirc&degC	Thermococcus kodakarensis	12	674857	6.2.1.5C00009 	20
+3.1.3.15		29	C00020	cpd:C00020   AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	in the presence of 1 mM Co2+, at 80&degC and pH 6.5	Thermococcus onnurineus	9	680523	3.1.3.15C00020	20
+3.1.3.15		11	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	in the presence of 1 mM Co2+, at 80&degC and pH 6.5	Thermococcus onnurineus	82	680523	3.1.3.15C00085	20
+3.1.3.15		260	C01100	cpd:C01100   L-Histidinol phosphate	in the presence of 1 mM Co2+, at 80&degC and pH 6.5	Thermococcus onnurineus	1003	680523	3.1.3.15C01100	20
+3.1.3.15		290	C01100	cpd:C01100   L-Histidinol phosphate	in the presence of 1 mM Ni2+, at 80&degC and pH 6.5	Thermococcus onnurineus	1003	680523	3.1.3.15C01100	20
+3.1.3.15		320	C01100	cpd:C01100   L-Histidinol phosphate	in the presence of 1 mM Mn2+, at 80&degC and pH 6.5	Thermococcus onnurineus	1003	680523	3.1.3.15C01100	20
+3.1.3.15		420	C01100	cpd:C01100   L-Histidinol phosphate	in the presence of 1 mM Mg2+, at 80&degC and pH 6.5	Thermococcus onnurineus	1003	680523	3.1.3.15C01100	20
+3.1.3.3	PSerP_h	0.143	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	pH 6.5, 65&Acirc&degC	Thermococcus onnurineus	899	728781	3.1.3.3C01005	20
+3.1.3.3	PSerP_h	0.168	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	pH 6.5, 65&Acirc&degC, in presence of 20 mM 3-(1-pyridinio)-1-propanesulfonate	Thermococcus onnurineus	899	728781	3.1.3.3C01005	20
+3.1.3.3	PSerP_h	0.179	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	pH 6.5, 65&Acirc&degC, in presence of 100 mM 3-(1-pyridinio)-1-propanesulfonate	Thermococcus onnurineus	899	728781	3.1.3.3C01005	20
+3.1.3.3	PSerP_h	0.182	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	pH 6.5, 65&Acirc&degC, in presence of 200 mM 3-(1-pyridinio)-1-propanesulfonate	Thermococcus onnurineus	899	728781	3.1.3.3C01005	20
+2.6.1.42		250	C00109	cpd:C00109   2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	half transamination reaction, pH 8.0, 90&degC	Thermococcus sp.	313	738188	2.6.1.42C00109	20
+2.6.1.42		360	C03465	cpd:C03465   3-Methyl-2-oxopentanoate; 2-Oxo-3-methylvalerate	half transamination reaction, pH 8.0, 90&degC	Thermococcus sp.	858	738188	2.6.1.42C03465	20
+2.6.1.42		270	C00233	cpd:C00233   4-Methyl-2-oxopentanoate; 2-Oxoisocaproate	half transamination reaction, pH 8.0, 90&degC	Thermococcus sp.	581	738188	2.6.1.42C00233	20
+2.6.1.42		80	C00079	cpd:C00079   L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	half transamination reaction, pH 8.0, 90&degC	Thermococcus sp.	98	738188	2.6.1.42C00079	20
+1.4.1.4		14710	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 8.0, 80&Acirc&degC	Thermococcus waiotapuensis	5	727455	1.4.1.4C00005	20
+3.1.3.18		0.58	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 7.5, 70&degC	Thermoplasma acidophilum	13	652557	3.1.3.18C00013 	20
+3.1.3.18		4.8	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 7.5, 70&degC	Thermoplasma acidophilum	13	652557	3.1.3.18C00013 	20
+3.1.3.18		6.08	C00013 	cpd:C00013   Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	pH 7.5, 70&degC	Thermoplasma acidophilum	13	652557	3.1.3.18C00013 	20
+6.2.1.5		280	C00033	cpd:C00033   Acetate; Acetic acid; Ethanoic acid	pH 8.0, 25&Acirc&degC	Acetobacter aceti	44	692865	6.2.1.5C00033	21
+6.2.1.5		201	C00091 	cpd:C00091   Succinyl-CoA; Succinyl coenzyme A	pH 8.0, 25&Acirc&degC	Acetobacter aceti	198	692865	6.2.1.5C00091 	21
+2.7.1.71		21.4	C00493	cpd:C00493   Shikimate; Shikimic acid; 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid	at pH 7.5 and 25&Acirc&degC	Acinetobacter baumannii	299	737351	2.7.1.71C00493	21
+1.1.3.15		0.52	C00007	cpd:C00007   Oxygen; O2	4&Acirc&degC, pH 7	Aerococcus viridans	11	440398	1.1.3.15C00007	21
+1.1.3.15		4.7	C00007	cpd:C00007   Oxygen; O2	25&Acirc&degC, pH 7	Aerococcus viridans	11	440398	1.1.3.15C00007	21
+2.4.1.25		1.3	C00208	cpd:C00208   Maltose; Malt sugar; alpha-D-Glucopyranosyl-(1->4)-D-glucopyranose	pH 6.6, 70&degC	Aquifex aeolicus	81	662665	2.4.1.25C00208	21
+5.3.1.6		160	C00121 	cpd:C00121   D-Ribose	pH 7.5, 40&degC	Clostridioides difficile	254	727222	5.3.1.6C00121 	21
+1.2.1.2		0.08	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	in 0.1 M sodium phosphate (pH 6.8), at 37&Acirc&degC	Clostridium carboxidivorans	3	724039	1.2.1.2C00004	21
+3.6.1.15		0.52	C00206	cpd:C00206   dADP; 2'-Deoxyadenosine 5'-diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	589	696275	3.6.1.15C00206	21
+3.6.1.15		1.12	C00705	cpd:C00705   dCDP; 2'-Deoxycytidine diphosphate; 2'-Deoxycytidine 5'-diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	852	696275	3.6.1.15C00705	21
+3.6.1.15		0.51	C00361	cpd:C00361   dGDP; 2'-Deoxyguanosine 5'-diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	863	696275	3.6.1.15C00361	21
+3.6.1.15		1.67	C00112	cpd:C00112   CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	188	696275	3.6.1.15C00112	21
+3.6.1.15		0.39	C00035	cpd:C00035   GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	49	696275	3.6.1.15C00035	21
+3.6.1.15		1.35	C00015	cpd:C00015   UDP; Uridine 5'-diphosphate	substrate concentration between 0.01 and 4.0 mM, 37&degC	Deinococcus radiodurans	24	696275	3.6.1.15C00015	21
+1.2.1.2		46.6	C00011	cpd:C00011   CO2; Carbon dioxide	at pH 7.0 and 22&Acirc&degC	Desulfovibrio desulfuricans	17	740581	1.2.1.2C00011	21
+2.7.1.71		35	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 7.0, 25&Acirc&degC, wild-type enzyme	Dickeya chrysanthemi	7	641915	2.7.1.71C00002	21
+2.1.2.2	GARFT_h	13.5	C00234	cpd:C00234   10-Formyltetrahydrofolate; 10-Formyl-THF	pH 7.5	Escherichia coli	2297	485718	2.1.2.2C00234	21
+2.1.2.2	GARFT_h	20.7	C00234	cpd:C00234   10-Formyltetrahydrofolate; 10-Formyl-THF	pH 8.5	Escherichia coli	2297	485718	2.1.2.2C00234	21
+1.1.1.85		69	C02504	cpd:C02504   alpha-Isopropylmalate; (2S)-2-Isopropylmalate; (2S)-2-Hydroxy-2-isopropylsuccinic acid; 2-Isopropylmalic acid; 3-Carboxy-3-hydroxy-4-methylpentanoate; 3-Carboxy-3-hydroxyisocaproate	pH 7.6, 40&degC	Escherichia coli	1269	639164	1.1.1.85C02504	21
+2.2.1.6		3.3	C00109	cpd:C00109   2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	wild-type, pH 7.6, 37&degC	Escherichia coli	313	718875	2.2.1.6C00109	21
+1.1.1.86		0.167	C00109	cpd:C00109   2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	pH 8.0, 37&degC	Escherichia coli	313	655530	1.1.1.86C00109	21
+1.1.1.86		0.00417	C04039	cpd:C04039   2,3-Dihydroxy-3-methylbutanoate; 2,3-Dihydroxy-isovalerate; 2,3-Dihydroxy-isovaleric acid	pH 7.4, 25&degC	Escherichia coli	3111	639177	1.1.1.86C04039	21
+1.1.1.95		0.463	C03232	cpd:C03232   3-Phosphonooxypyruvate; 3-Phosphonooxypyruvic acid; 3-Phosphohydroxypyruvate; 3-Phosphohydroxypyruvic acid; 3-Phosphooxypyruvate	apparent	Escherichia coli	965	287546	1.1.1.95C03232	21
+2.6.1.52		1.33	C03232	cpd:C03232   3-Phosphonooxypyruvate; 3-Phosphonooxypyruvic acid; 3-Phosphohydroxypyruvate; 3-Phosphohydroxypyruvic acid; 3-Phosphooxypyruvate	MalE/PdxC(SerC) fusion protein, pH 8.2, 37&degC	Escherichia coli	965	722253	2.6.1.52C03232	21
+2.6.1.52		1.75	C03232	cpd:C03232   3-Phosphonooxypyruvate; 3-Phosphonooxypyruvic acid; 3-Phosphohydroxypyruvate; 3-Phosphohydroxypyruvic acid; 3-Phosphooxypyruvate	PdxC(SerC) protein, pH 8.2, 37&degC	Escherichia coli	965	722253	2.6.1.52C03232	21
+5.3.1.16	PAICARPI_h	4.9	C04916	cpd:C04916   N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; 5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide; Phosphoribulosyl-formimino-AICAR-phosphate; 5-[(5-Phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	25&degC, pH 7.5	Escherichia coli	2518	648892	5.3.1.16C04916	21
+5.3.1.16	PAICARPI_h	14.3	C04916	cpd:C04916   N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; 5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide; Phosphoribulosyl-formimino-AICAR-phosphate; 5-[(5-Phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	37&degC, pH 7.5	Escherichia coli	2518	648892	5.3.1.16C04916	21
+2.5.1.19		0.000012	C01269	cpd:C01269   5-O-(1-Carboxyvinyl)-3-phosphoshikimate; O5-(1-Carboxyvinyl)-3-phosphoshikimate	5-enpolpyruvylshikimate 3-phosphate ketal formation by hydrolysis of radiolabelled 5-enpolpyruvylshikimate 3-phosphate, pH 7.0, 25&Acirc&degC	Escherichia coli	1249	678255	2.5.1.19C01269	21
+2.1.2.10	AMT_m	14.4	C00143	cpd:C00143   5,10-Methylenetetrahydrofolate; (6R)-5,10-Methylenetetrahydrofolate; 5,10-Methylene-THF	5-enpolpyruvylshikimate 3-phosphate ketal formation by hydrolysis of radiolabelled 5-enpolpyruvylshikimate 3-phosphate, pH 7.0, 25&Acirc&degC	Escherichia coli	336	485698	2.1.2.10C00143	21
+2.1.2.10	AMT_m	18.4	C00143	cpd:C00143   5,10-Methylenetetrahydrofolate; (6R)-5,10-Methylenetetrahydrofolate; 5,10-Methylene-THF	wild-type with His-tag	Escherichia coli	336	662123	2.1.2.10C00143	21
+6.3.5.5		0.13	C00008	cpd:C00008   ADP; Adenosine 5'-diphosphate	wild-type, ATP-synthesis, pH 7.6, temperature not specified in the publication	Escherichia coli	8	715279	6.3.5.5C00008	21
+6.3.4.2		10.8	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	K297A, presence of 2 mM UTP	Escherichia coli	7	672395	6.3.4.2C00002	21
+6.3.4.2		12.8	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	wild-type protein, presence of 2 mM UTP	Escherichia coli	7	672395	6.3.4.2C00002	21
+6.3.5.5		1.9	C00014 	cpd:C00014   Ammonia; NH3	pH 7.6, wild-type enzyme	Escherichia coli	16	661134	6.3.5.5C00014 	21
+6.3.5.5		3.9	C00014 	cpd:C00014   Ammonia; NH3	wild-type enzyme, NH4Cl-dependent ATP hydrolysis	Escherichia coli	16	660796	6.3.5.5C00014 	21
+6.3.5.5		5.1	C00014 	cpd:C00014   Ammonia; NH3	wild-type enzyme, NH4Cl-dependent ATP hydrolysis	Escherichia coli	16	652418	6.3.5.5C00014 	21
+4.1.1.21		0.05	C00014 	cpd:C00014   Ammonia; NH3		Escherichia coli	16	1670	4.1.1.21C00014 	21
+6.3.4.2		2.25	C00014 	cpd:C00014   Ammonia; NH3	reaction with or without GTP	Escherichia coli	16	648992	6.3.4.2C00014 	21
+6.3.4.2		9.4	C00014 	cpd:C00014   Ammonia; NH3	pH 8.0, wild-type enzyme	Escherichia coli	16	648962	6.3.4.2C00014 	21
+6.3.4.2		9.5	C00014 	cpd:C00014   Ammonia; NH3	37&Acirc&degC, pH 8.0, wild-type enzyme	Escherichia coli	16	661644	6.3.4.2C00014 	21
+6.3.4.2		9.5	C00014 	cpd:C00014   Ammonia; NH3	wild-type protein, presence of 1 mM ATP, 1 mM UTP	Escherichia coli	16	672395	6.3.4.2C00014 	21
+6.3.4.2		11.3	C00014 	cpd:C00014   Ammonia; NH3	wild-type protein, presence of 3 mM ATP, 2 mM UTP	Escherichia coli	16	672395	6.3.4.2C00014 	21
+2.7.1.39		2.1	C00441	cpd:C00441   L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	wild-type enzyme	Escherichia coli	472	641471	2.7.1.39C00441	21
+2.5.1.48		7.67	C02291	cpd:C02291   L-Cystathionine	pH 8.2, 25&degC, 460 mol product formed per mol of subunit	Escherichia coli	482	637444	2.5.1.48C02291	21
+2.5.1.48		121	C02291	cpd:C02291   L-Cystathionine	wild-type, 25&degC, pH 7.8	Escherichia coli	482	702106	2.5.1.48C02291	21
+2.5.1.48		117	C00097	cpd:C00097   L-Cysteine; L-2-Amino-3-mercaptopropionic acid	pH 7.8, 25&degC, replacement reaction, ordered mechanism	Escherichia coli	70	657952	2.5.1.48C00097	21
+2.5.1.48		121	C00097	cpd:C00097   L-Cysteine; L-2-Amino-3-mercaptopropionic acid	pH 7.8, 25&degC, replacement reaction, modified ping-pong mechanism	Escherichia coli	70	657952	2.5.1.48C00097	21
+5.1.1.7	DAPE_h	84	C00666	cpd:C00666   LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid	pH 7.8, 25&degC, replacement reaction, modified ping-pong mechanism	Escherichia coli	2991	2140	5.1.1.7C00666	21
+5.1.1.7	DAPE_h	84	C00666	cpd:C00666   LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid		Escherichia coli	2991	2155	5.1.1.7C00666	21
+2.7.1.11		0.016	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.2, 30&Acirc&degC, cosubstrate gamma-thio-ATP	Escherichia coli	82	640526	2.7.1.11C00085	21
+2.7.1.11		44	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	in the presence of 0.5 mM MgATP2-, at pH 8.2 and 25&Acirc&degC	Escherichia coli	82	722736	2.7.1.11C00085	21
+2.7.1.11		60	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	in the presence of 0.1 mM MgATP2-, at pH 8.2 and 25&Acirc&degC	Escherichia coli	82	722736	2.7.1.11C00085	21
+2.7.1.11		5	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.2, 5&Acirc&degC	Escherichia coli	82	640491	2.7.1.11C00085	21
+2.7.1.11		49	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.2, 30&Acirc&degC, cosubstrate ATP	Escherichia coli	82	640526	2.7.1.11C00085	21
+2.7.1.11		60	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.2, 15&Acirc&degC	Escherichia coli	82	640491	2.7.1.11C00085	21
+2.7.1.11		61	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.0, 8.5&Acirc&degC, wild-type PFK	Escherichia coli	82	640517	2.7.1.11C00085	21
+2.7.1.11		88	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 7.2, 30&Acirc&degC, at 2mM ATP	Escherichia coli	82	640526	2.7.1.11C00085	21
+2.7.1.11		110	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.2, 25&Acirc&degC	Escherichia coli	82	640491	2.7.1.11C00085	21
+2.7.1.11		111	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.5, 30&Acirc&degC, wild-type PFK	Escherichia coli	82	640490	2.7.1.11C00085	21
+2.7.1.11		167	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.5, 30&Acirc&degC	Escherichia coli	82	640519	2.7.1.11C00085	21
+2.7.1.11		185	C00085	cpd:C00085   D-Fructose 6-phosphate; D-Fructose 6-phosphoric acid; Neuberg ester	pH 8.2, 37&Acirc&degC	Escherichia coli	82	640491	2.7.1.11C00085	21
+1.3.5.1		1.7	C00122	cpd:C00122   Fumarate; Fumaric acid; trans-Butenedioic acid	succinate oxidation, pH 7.8, 30&degC	Escherichia coli	156	654820	1.3.5.1C00122	21
+2.4.1.15		3.2	C00092	cpd:C00092   D-Glucose 6-phosphate; Glucose 6-phosphate; Robison ester	bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase	Escherichia coli	99	488614	2.4.1.15C00092	21
+2.4.1.15		6.7	C00092	cpd:C00092   D-Glucose 6-phosphate; Glucose 6-phosphate; Robison ester	bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase	Escherichia coli	99	488614	2.4.1.15C00092	21
+4.1.1.15	GluDC_c	24.85	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	wild type enzyme, in 0.2 M pyridine/HCl buffer, pH 4.6, at 37&Acirc&degC	Escherichia coli	38	704569	4.1.1.15C00025	21
+4.1.1.15	GluDC_c	59.26	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 4.6, 37&Acirc&degC, recombinant C-terminally His-tagged wild-type enzyme	Escherichia coli	38	728019	4.1.1.15C00025	21
+6.3.4.2		0.233	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	reaction without GTP	Escherichia coli	96	648992	6.3.4.2C00064 	21
+6.3.4.2		1.5	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	wild-type protein, presence of 3 mM ATP, 2 mM UTP	Escherichia coli	96	672395	6.3.4.2C00064 	21
+6.3.4.2		6.1	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	wild-type protein, presence of 1 mM ATP, 1 mM UTP	Escherichia coli	96	672395	6.3.4.2C00064 	21
+6.3.4.2		6.7	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	pH 8.0, wild-type enzyme	Escherichia coli	96	648963	6.3.4.2C00064 	21
+6.3.4.2		8.1	C00064 	cpd:C00064   L-Glutamine; L-2-Aminoglutaramic acid	pH 8.0, recombinant His6-tagged enzyme	Escherichia coli	96	648963	6.3.4.2C00064 	21
+2.2.1.2		13	C00118	cpd:C00118   D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	wild-type, pH 8.5, 30&degC	Escherichia coli	473	719298	2.2.1.2C00118	21
+6.3.4.2		8.2	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	0.2 mM guanosine	Escherichia coli	35	674909	6.3.4.2C00044 	21
+6.3.4.2		10.3	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	0.1 mM guanosine	Escherichia coli	35	674909	6.3.4.2C00044 	21
+6.3.4.2		10.6	C00044 	cpd:C00044   GTP; Guanosine 5'-triphosphate	no guanosine	Escherichia coli	35	674909	6.3.4.2C00044 	21
+2.2.1.6		5.47	C00168	cpd:C00168   Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	no guanosine	Escherichia coli	326	659590	2.2.1.6C00168	21
+2.6.1.1		0.305	C00047	cpd:C00047   L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	wild-type enzyme	Escherichia coli	128	658335	2.6.1.1C00047	21
+2.6.1.42		17	C00073	cpd:C00073   L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	pH 8.0, 25&degC	Escherichia coli	83	640030	2.6.1.42C00073	21
+1.1.1.49		288	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	25&Acirc&degC, pH 8.0	Escherichia coli	4	722244	1.1.1.49C00003	21
+1.1.1.49		288	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild type enzyme, at pH 8.2 and 25&Acirc&degC	Escherichia coli	4	741254	1.1.1.49C00003	21
+1.1.1.85		69	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 7.6, 40&degC, reaction with isopropylmalate	Escherichia coli	4	639164	1.1.1.85C00003	21
+1.6.5.3		3	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild-type enzyme, pH 6.0, 30&degC	Escherichia coli	5	725443	1.6.5.3C00005	21
+2.6.1.52		0.39	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	PdxC(SerC) protein, pH 8.2, 37&degC	Escherichia coli	899	722253	2.6.1.52C01005	21
+2.6.1.52		0.63	C01005	cpd:C01005   O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine; 3-Phospho-L-serine	MalE/PdxC(SerC) fusion protein, pH 8.2, 37&degC	Escherichia coli	899	722253	2.6.1.52C01005	21
+5.4.99.5		94100	C00254	cpd:C00254   Prephenate; Prephenic acid	37&Acirc&degC, pH 7.8, in presence of P-protein	Escherichia coli	300	650528	5.4.99.5C00254	21
+5.4.99.5		94140	C00254	cpd:C00254   Prephenate; Prephenic acid	37&Acirc&degC, pH 7.8, in presence of P-protein	Escherichia coli	300	650528	5.4.99.5C00254	21
+4.3.1.18		17.2	C00188	cpd:C00188   L-Threonine; 2-Amino-3-hydroxybutyric acid	pH 8.9, 25&Acirc&degC	Escherichia coli	220	210802	4.3.1.18C00188	21
+4.3.1.18		19.6	C00188	cpd:C00188   L-Threonine; 2-Amino-3-hydroxybutyric acid	pH 7.8, 25&Acirc&degC	Escherichia coli	220	210802	4.3.1.18C00188	21
+2.6.1.42		3.7	C00078	cpd:C00078   L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	pH 8.0, 25&degC	Escherichia coli	113	640030	2.6.1.42C00078	21
+2.6.1.42		2.2	C00082  	cpd:C00082   L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	pH 8.0, 25&degC	Escherichia coli	103	640030	2.6.1.42C00082  	21
+2.4.1.15		3.6	C00029	cpd:C00029   UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase	Escherichia coli	60	488614	2.4.1.15C00029	21
+2.4.1.15		7.3	C00029	cpd:C00029   UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	bifunctional fusion enzyme of trehalose-6-phosphate synthetase and trehalose-6-phosphate phosphatase	Escherichia coli	60	488614	2.4.1.15C00029	21
+6.3.4.2		5	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	pH 8.0, 37&Acirc&degC, wild-type enzyme with L-glutamine, in presence of 0.25 mM GTP	Escherichia coli	61	690817	6.3.4.2C00075 	21
+6.3.4.2		6.9	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	K306A, presence of 2 mM ATP	Escherichia coli	61	672395	6.3.4.2C00075 	21
+6.3.4.2		13.7	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	wild-type protein, presence of 3 mM ATP	Escherichia coli	61	672395	6.3.4.2C00075 	21
+6.3.4.2		14	C00075 	cpd:C00075   UTP; Uridine 5'-triphosphate; Uridine triphosphate	K297A, presence of 3 mM ATP	Escherichia coli	61	672395	6.3.4.2C00075 	21
+2.7.1.11		3.2	C00354	cpd:C00354   D-Fructose 1,6-bisphosphate	reverse raction, recombinant enzyme	Geobacillus stearothermophilus	100	640484	2.7.1.11C00354	21
+1.2.4.1		0.46	C00068	cpd:C00068   Thiamin diphosphate; Thiamine diphosphate; Thiamin pyrophosphate; TPP; ThPP	wild-type enzyme, pH 7.0, 25&Acirc&degC	Geobacillus stearothermophilus	85	655474	1.2.4.1C00068	21
+1.2.1.11		330	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	recombinant wild-type enzyme, pH 9.0, 30&Acirc&degC	Haemophilus influenzae	6	654110	1.2.1.11C00006	21
+1.2.1.11		330	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	recombinant wild-type enzyme, pH 9.0, 30&Acirc&degC	Haemophilus influenzae	12	654110	1.2.1.11C00009 	21
+4.1.1.20	DAPDC_h	15.65	C00680	cpd:C00680   meso-2,6-Diaminoheptanedioate; meso-2,6-Diaminopimelate; meso-2,6-Diaminopimelic acid; meso-Diaminoheptanedioate	wild type enzyme, in 100 mM Tris, pH 8.0	Helicobacter pylori	1057	693099	4.1.1.20C00680	21
+1.1.1.25		5.2	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 8.0, 60&Acirc&degC, recombinant enzyme	Helicobacter pylori	4	668576	1.1.1.25C00003	21
+2.1.2.1		5	C00037 	cpd:C00037   Glycine; Aminoacetic acid; Gly	pH 7.5, 70&Acirc&degC	Hydrogenobacter thermophilus	68	719472	2.1.2.1C00037 	21
+4.1.2.13		0.003	C00447	cpd:C00447   Sedoheptulose 1,7-bisphosphate; D-Sedoheptulose 1,7-bisphosphate; D-altro-Heptulose 1,7-biphosphate	in the absence of Co2+, at pH 7.5, 30&Acirc&degC	Methylococcus capsulatus	686	714279	4.1.2.13C00447	21
+6.3.4.3		0.99	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	27&degC, pH 7.0, wild-type FTHFS	Moorella thermoacetica	7	649471	6.3.4.3C00002	21
+6.3.4.3		6.08	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	27&degC, pH 7.0, wild-type FTHFS	Moorella thermoacetica	7	649471	6.3.4.3C00002	21
+6.3.4.3		1.13	C00058	cpd:C00058   Formate; Methanoic acid; Formic acid	27&degC, pH 7.0, wild-type FTHFS	Moorella thermoacetica	114	649471	6.3.4.3C00058	21
+6.3.4.3		6.08	C00058	cpd:C00058   Formate; Methanoic acid; Formic acid	27&degC, pH 7.0, wild-type FTHFS	Moorella thermoacetica	114	649471	6.3.4.3C00058	21
+1.1.1.44		12.6	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	wild type enzyme, at pH 7.5 and 50&degC	Moorella thermoacetica	4	741424	1.1.1.44C00003	21
+2.7.6.1		0.66	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	in 50 mM Tris-HCl pH 8.0, at 25&degC	Mycobacterium tuberculosis	7	723571	2.7.6.1C00002	21
+6.3.5.2		2.39	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	at 40&Acirc&degC in 50 mM Tris pH 7.5	Mycobacterium tuberculosis	7	726806	6.3.5.2C00002	21
+4.1.3.1		3.6	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	pH 7.5, 25&degC, recombinant enzyme	Mycobacterium tuberculosis	95	727039	4.1.3.1C00048 	21
+1.1.1.23		1.134	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 7.2, 25&Acirc&degC, with Ficoll at 100 g/l	Mycobacterium tuberculosis	4	741402	1.1.1.23C00003	21
+1.1.1.23		1.361	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 7.2, 25&Acirc&degC	Mycobacterium tuberculosis	4	741402	1.1.1.23C00003	21
+4.2.3.5		0.0083	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	kinetics of reduction of the MtCS-bound FMNox is determined using fixed amount of holoenzyme and varying levels of NADH	Mycobacterium tuberculosis	3	691478	4.2.3.5C00004	21
+1.1.1.95		2461	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 7.5, 25&Acirc&degC, wild-type enzyme	Mycobacterium tuberculosis	3	696285	1.1.1.95C00004	21
+1.1.1.25		45	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.0, 25&Acirc&degC, with 3-dehydroshikimate	Mycobacterium tuberculosis	5	739956	1.1.1.25C00005	21
+1.1.1.25		50	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7.0, 25&Acirc&degC, with 3-dehydroshikimate	Mycobacterium tuberculosis	5	698320	1.1.1.25C00005	21
+1.8.1.4		0.25	C00007	cpd:C00007   Oxygen; O2	pH 7.5, 25&degC	Mycobacterium tuberculosis	11	657980	1.8.1.4C00007	21
+1.5.1.2		212.8	C00148	cpd:C00148   L-Proline; 2-Pyrrolidinecarboxylic acid	pH 7.5, 25&degC	Mycobacterium tuberculosis	215	676952	1.5.1.2C00148	21
+2.3.3.13		6.1	C00022	cpd:C00022   Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	pH 7.4, 25&degC	Mycobacterium tuberculosis	29	672203	2.3.3.13C00022	21
+4.1.3.1		3.6	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	pH 7.5, 25&degC, recombinant enzyme	Mycobacterium tuberculosis	54	727039	4.1.3.1C00042	21
+4.1.3.1		8.5	C00042	cpd:C00042   Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	recombinant detagged enzyme, pH 7.0, 37&degC	Mycobacterium tuberculosis	54	727045	4.1.3.1C00042	21
+2.6.1.9		3100	C00082  	cpd:C00082   L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	pH 8.4, 37&degC	Mycobacterium tuberculosis	103	739670	2.6.1.9C00082  	21
+2.3.3.13		1.36	C00109	cpd:C00109   2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	pH 7.5, 25&degC	Neisseria meningitidis	313	702097	2.3.3.13C00109	21
+2.3.3.13		0.28	C03465	cpd:C03465   3-Methyl-2-oxopentanoate; 2-Oxo-3-methylvalerate	pH 7.5, 25&degC	Neisseria meningitidis	858	702097	2.3.3.13C03465	21
+1.2.1.12		4.03	C00084	cpd:C00084   Acetaldehyde; Ethanal	recombinant enzyme, in 50 mM Tricine buffer (pH 8.5), at 25&Acirc&degC	Neisseria meningitidis	84	688953	1.2.1.12C00084	21
+1.4.1.2		0.16	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7, 25&degC	Peptoniphilus asaccharolyticus	6	655641	1.4.1.2C00006	21
+1.4.1.2		10	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	wild type enzyme, in 100 mM potassium phosphate buffer at pH 7 with 20 mM oxoglutarate and 100 mM ammonium chloride	Peptoniphilus asaccharolyticus	5	686673	1.4.1.2C00005	21
+1.4.1.2		12	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	pH 7, 25&degC	Peptoniphilus asaccharolyticus	5	655641	1.4.1.2C00005	21
+2.5.1.19		5.4	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	25&Acirc&degC, pH 7.0, wild-type enzyme	Pseudomonas aeruginosa	12	682499	2.5.1.19C00009 	21
+2.5.1.19		5.4	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	0.4	Pseudomonas aeruginosa	12	694929	2.5.1.19C00009 	21
+1.2.4.1		0.17	C00109	cpd:C00109   2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	pH 6.7, 30&Acirc&degC	Pseudomonas putida	313	736649	1.2.4.1C00109	21
+2.6.1.4		48.2	C00048 	cpd:C00048   Glyoxylate; Glyoxalate; Glyoxylic acid	pH 7.5, 30&degC	Rhodopseudomonas palustris	95	639991	2.6.1.4C00048 	21
+1.2.1.3		240	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	at pH 7.0 and 55&Acirc&degC	Ruminiclostridium thermocellum	3	738540	1.2.1.3C00004	21
+2.6.1.79		43	C00254	cpd:C00254   Prephenate; Prephenic acid	pH 8.0, 30&degC	Sinorhizobium meliloti	300	738632	2.6.1.79C00254	21
+3.5.2.3		1.9	C00438	cpd:C00438   N-Carbamoyl-L-aspartate	pH 8.3, 25&Acirc&degC, recombinant tagged enzyme	Staphylococcus aureus	3231	735213	3.5.2.3C00438	21
+3.5.2.3		2.48	C00438	cpd:C00438   N-Carbamoyl-L-aspartate	pH 8.3, 25&Acirc&degC, recombinant detagged enzyme	Staphylococcus aureus	3231	735213	3.5.2.3C00438	21
+1.17.1.8		20	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	native enzyme, at pH 8.0 and 30&Acirc&degC	Staphylococcus aureus	3	723702	1.17.1.8C00004	21
+1.17.1.8		21	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	recombinant enzyme, at pH 8.0 and 30&Acirc&degC	Staphylococcus aureus	3	723702	1.17.1.8C00004	21
+2.7.4.9		8.9	C00002	cpd:C00002   ATP; Adenosine 5'-triphosphate	pH 8.5, 25&Acirc&degC	Streptococcus pneumoniae	7	645203	2.7.4.9C00002	21
+1.4.1.4		1.5	C00003	cpd:C00003   NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	pH 9.0, 50&Acirc&degC	Symbiobacterium toebii	4	656573	1.4.1.4C00003	21
+1.4.1.4		6144	C00004	cpd:C00004   NADH; DPNH; Reduced nicotinamide adenine dinucleotide	pH 9.0, 50&Acirc&degC	Symbiobacterium toebii	3	656573	1.4.1.4C00004	21
+2.6.1.52		2.49	C00025	cpd:C00025   L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	pH 9.0, 30&degC	Synechocystis sp.	38	739017	2.6.1.52C00025	21
+1.7.7.1		138.2	C00138	cpd:C00138   Reduced ferredoxin; Reduced ferredoxin [iron-sulfur] cluster	substrate Leptolyngbya boryana ferredoxin, pH 7.5, 25&Acirc&degC	Synechocystis sp.	230	725315	1.7.7.1C00138	21
+3.1.3.37	SBPase_h	4.2	C00447	cpd:C00447   Sedoheptulose 1,7-bisphosphate; D-Sedoheptulose 1,7-bisphosphate; D-altro-Heptulose 1,7-biphosphate	in 50 mM Tris/HCl, pH 8.0, 15 mM MgCl2, 10 mM dithiothreitol, at 289&Acirc&degC	Synechocystis sp.	686	729720	3.1.3.37C00447	21
+1.17.1.8		17	C00005	cpd:C00005   NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	apparent value, at 45&Acirc&degC	Thermotoga maritima	5	687457	1.17.1.8C00005	21
+2.6.1.9		0.014	C00078	cpd:C00078   L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	pH 8.0, 25&degC	Thermotoga maritima	113	659343	2.6.1.9C00078	21
+2.7.4.6		38	C00035	cpd:C00035   GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	pH 7.5, 25 &degC	Thermus thermophilus	49	660576	2.7.4.6C00035	21
+1.1.1.85		0.1	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.3, 21&degC, reaction with tartrate, wild-type enzyme	Thermus thermophilus	6	639155	1.1.1.85C00006	21
+1.1.1.85		0.26	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.3, 21&degC, reaction with isopropylmalate, wild-type enzyme	Thermus thermophilus	6	639159	1.1.1.85C00006	21
+1.1.1.85		1.66	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.3, 21&degC, reaction with isopropylmalate, wild-type enzyme	Thermus thermophilus	6	639155	1.1.1.85C00006	21
+1.1.1.85		4.69	C00006	cpd:C00006   NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	pH 7.3, 21&degC, reaction with malate, wild-type enzyme	Thermus thermophilus	6	639155	1.1.1.85C00006	21
+4.2.3.1		0.034	C00009 	cpd:C00009   Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	pH 8.0, 25&degC	Thermus thermophilus	12	715628	4.2.3.1C00009 	21
+4.1.1.21		16	C04751	cpd:C04751   1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-carboxyimidazole; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-4-carboxy-5-aminoimidazole; 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	50 mM Tris-HCl (pH 8.0), at 10&Acirc&degC	Treponema denticola	1892	714253	4.1.1.21C04751	21
+4.1.1.21		65	C04751	cpd:C04751   1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-carboxyimidazole; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-4-carboxy-5-aminoimidazole; 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	50 mM Tris-HCl (pH 8.0), at 30&Acirc&degC	Treponema denticola	1892	714253	4.1.1.21C04751	21
+6.3.5.4		5.8	C00152	cpd:C00152   L-Asparagine; 2-Aminosuccinamic acid	50 mM Tris-HCl (pH 8.0), at 30&Acirc&degC	Vibrio cholerae	231	661315	6.3.5.4C00152	21
+3.6.1.15		82	C00460	cpd:C00460   dUTP; 2'-Deoxyuridine 5'-triphosphate	pH 6.5, 37&degC, recombinant truncated protein ntNS3, in absence of poly(U)	Classical swine fever virus	363	684774	3.6.1.15C00460	22
+3.6.1.15		1875	C00460	cpd:C00460   dUTP; 2'-Deoxyuridine 5'-triphosphate	pH 6.5, 37&degC, recombinant truncated protein ntNS3, in presence of poly(U)	Classical swine fever virus	363	684774	3.6.1.15C00460	22
+3.6.1.15		1875	C00460	cpd:C00460   dUTP; 2'-Deoxyuridine 5'-triphosphate	pH 6.5, 37&degC, recombinant truncated protein ntNS3, in presence of poly(U)	Classical swine fever virus	363	684774	3.6.1.15C00460	22
