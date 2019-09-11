@@ -1,0 +1,35 @@
+5.3.1.6	ribose-5-phosphate isomerase	15867	-	x * 15867, calculated from amino acid sequence	Thermotoga maritima	-	728735	
+5.3.1.6	ribose-5-phosphate isomerase	16000	-	x * 16000, SDS-PAGE	Thermotoga maritima	-	728735	
+5.3.1.6	ribose-5-phosphate isomerase	16015	-	2 * 16015, calculated from amino acid sequence	Pseudothermotoga lettingae	-	727231	
+5.3.1.6	ribose-5-phosphate isomerase	16800	-	2 * 16800, SDS-PAGE	Pseudothermotoga lettingae	-	727231	
+5.3.1.6	ribose-5-phosphate isomerase	17200	-	2 * 17217, calculated, 2 * 17200, SD-PAGE	Clostridioides difficile	-	727222	
+5.3.1.6	ribose-5-phosphate isomerase	17217	-	2 * 17217, calculated, 2 * 17200, SD-PAGE	Clostridioides difficile	-	727222	
+5.3.1.6	ribose-5-phosphate isomerase	17400	-	2 * 17400, calculated, 2 * 18000, SDS-PAGE	Trypanosoma cruzi	Q4CQE2	678047	
+5.3.1.6	ribose-5-phosphate isomerase	18000	-	2 * 17400, calculated, 2 * 18000, SDS-PAGE	Trypanosoma cruzi	Q4CQE2	678047	
+5.3.1.6	ribose-5-phosphate isomerase	23400	-	x * 23400, isoform RpiB, calculated from amino acid sequence	Streptococcus mutans	-	726618	
+5.3.1.6	ribose-5-phosphate isomerase	23400	-	x * 23400, isoform RpiB, calculated from amino acid sequence	Streptococcus mutans	Q8DRS5	726618	
+5.3.1.6	ribose-5-phosphate isomerase	23400	-	x * 23400, isoform RpiB, calculated from amino acid sequence	Streptococcus mutans	Q8DTT9	726618	
+5.3.1.6	ribose-5-phosphate isomerase	23724	-	4 * 23724, calculated from amino acid sequence	Streptococcus pneumoniae	-	717008	
+5.3.1.6	ribose-5-phosphate isomerase	24000	-	4 * 24000, SDS-PAGE	Streptococcus pneumoniae	-	717008	
+5.3.1.6	ribose-5-phosphate isomerase	24570	-	x * 24570, isoform RpiA, calculated from amino acid sequence	Streptococcus mutans	-	726618	
+5.3.1.6	ribose-5-phosphate isomerase	24570	-	x * 24570, isoform RpiA, calculated from amino acid sequence	Streptococcus mutans	Q8DRS5	726618	
+5.3.1.6	ribose-5-phosphate isomerase	24570	-	x * 24570, isoform RpiA, calculated from amino acid sequence	Streptococcus mutans	Q8DTT9	726618	
+5.3.1.6	ribose-5-phosphate isomerase	25163	-	4 * 25163, calculation from nucleotide sequence	Pyrococcus horikoshii	-	653906	
+5.3.1.6	ribose-5-phosphate isomerase	25163	-	4 * 25163, calculation from nucleotide sequence	Pyrococcus horikoshii	O50083	653906	
+5.3.1.6	ribose-5-phosphate isomerase	26000	-	4 * 26000, in crystal and in solution, each monomer has a new fold consisting of two alpha/beta domains, SDS-PAGE	Pyrococcus horikoshii	-	653906	
+5.3.1.6	ribose-5-phosphate isomerase	26000	-	4 * 26000, in crystal and in solution, each monomer has a new fold consisting of two alpha/beta domains, SDS-PAGE	Pyrococcus horikoshii	O50083	653906	
+5.3.1.6	ribose-5-phosphate isomerase	26400	-	x * 26400, SDS-PAGE	Pisum sativum	-	2792	
+5.3.1.6	ribose-5-phosphate isomerase	32000	34000	ribosephosphate isomerase B, gel filtration	Escherichia coli	-	2779	
+5.3.1.6	ribose-5-phosphate isomerase	34000	-	gel filtration	Clostridioides difficile	-	727222	
+5.3.1.6	ribose-5-phosphate isomerase	35200	-	gel filtration	Pseudothermotoga lettingae	-	727231	
+5.3.1.6	ribose-5-phosphate isomerase	39600	-	gel filtration	Trypanosoma cruzi	Q4CQE2	678047	
+5.3.1.6	ribose-5-phosphate isomerase	40000	-	gel filtration	Bacillus caldolyticus	-	2783	
+5.3.1.6	ribose-5-phosphate isomerase	40000	-	gel filtration	Thiobacillus thioparus	-	2783	
+5.3.1.6	ribose-5-phosphate isomerase	45000	-	recombinant detagged RpiA, dynamic light scattering and gel filtration	Vibrio vulnificus	-	705731	
+5.3.1.6	ribose-5-phosphate isomerase	45000	-	recombinant detagged RpiA, dynamic light scattering and gel filtration	Vibrio vulnificus	Q7MHL9	705731	
+5.3.1.6	ribose-5-phosphate isomerase	45000	-	ribosephosphate isomerase A, gel filtration	Escherichia coli	-	2779	
+5.3.1.6	ribose-5-phosphate isomerase	50000	-	dynamic light scattering	Escherichia coli	-	653838	
+5.3.1.6	ribose-5-phosphate isomerase	54000	-	-	Chromatium sp.	-	2787	
+5.3.1.6	ribose-5-phosphate isomerase	96000	-	gel filtration	Streptococcus pneumoniae	-	717008	
+5.3.1.6	ribose-5-phosphate isomerase	98000	-	gel filtration	Pyrococcus horikoshii	-	653906	
+5.3.1.6	ribose-5-phosphate isomerase	98000	-	gel filtration	Pyrococcus horikoshii	O50083	653906	
