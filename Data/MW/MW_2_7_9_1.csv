@@ -1,0 +1,33 @@
+2.7.9.1	pyruvate, phosphate dikinase	58000	-	6 * 58000, SDS-PAGE	Acetobacter aceti	-	645437
+2.7.9.1	pyruvate, phosphate dikinase	91000	-	-	Microbispora rosea subsp. aerata	-	702787
+2.7.9.1	pyruvate, phosphate dikinase	92700	-	x * 92700, SDS-PAGE	Rhodospirillum rubrum	-	645444
+2.7.9.1	pyruvate, phosphate dikinase	94000	-	x * 94000, SDS-PAGE	Mesembryanthemum crystallinum	-	723489
+2.7.9.1	pyruvate, phosphate dikinase	96000	-	x * 96000, recombinant His-tagged PPDK, SDS-PAGE	Brugia malayi	-	694065
+2.7.9.1	pyruvate, phosphate dikinase	96300	-	calculated	Flaveria brownii	-	645449
+2.7.9.1	pyruvate, phosphate dikinase	96300	-	calculated	Flaveria brownii	Q39734	645449
+2.7.9.1	pyruvate, phosphate dikinase	96600	-	calculated	Oryza sativa	-	645457
+2.7.9.1	pyruvate, phosphate dikinase	99280	-	cytosolic CyPPDK 2	Zea mays	P11155	676626
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Crithidia sp.	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Leishmania sp.	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Phytomonas sp.	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Trypanosoma congolense	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Trypanosoma cruzi	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	antibody recognition	Trypanosoma vivax	-	645456
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	calculated	Trypanosoma brucei	-	645461
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	monomeric enzyme form, gel filtration	Trypanosoma cruzi	Q9GN79	738186
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	x * 100000, SDS-PAGE, homomeric dimer, calculated from theoretical weight and chromatography, more similar to bacterial PPDKs (dimer) than protists or plants (tetramer)	Thermoproteus tenax	-	676065
+2.7.9.1	pyruvate, phosphate dikinase	100000	-	x * 100000, SDS-PAGE, homomeric dimer, calculated from theoretical weight and chromatography, more similar to bacterial PPDKs (dimer) than protists or plants (tetramer)	Thermoproteus tenax	Q70WQ6	676065
+2.7.9.1	pyruvate, phosphate dikinase	102300	-	theoretical weight calculated from sequence	Thermoproteus tenax	-	676065
+2.7.9.1	pyruvate, phosphate dikinase	102300	-	theoretical weight calculated from sequence	Thermoproteus tenax	Q70WQ6	676065
+2.7.9.1	pyruvate, phosphate dikinase	103900	-	x * 103900, deduced from nucleotide sequence	Flaveria trinervia	-	645443
+2.7.9.1	pyruvate, phosphate dikinase	104900	-	cytosolic CyPPDK 2	Zea mays	P11155	676626
+2.7.9.1	pyruvate, phosphate dikinase	105100	-	cytosolic CyPPDK 2	Zea mays	P11155	676626
+2.7.9.1	pyruvate, phosphate dikinase	105700	-	cytosolic CyPPDK 2	Zea mays	P11155	676626
+2.7.9.1	pyruvate, phosphate dikinase	169300	-	sucrose density gradient sedimentation	Rhodospirillum rubrum	-	645444
+2.7.9.1	pyruvate, phosphate dikinase	200000	-	homdimeric enzyme form, gel filtration	Trypanosoma cruzi	Q9GN79	738186
+2.7.9.1	pyruvate, phosphate dikinase	246800	-	HPLC gel filtration	Rhodospirillum rubrum	-	645444
+2.7.9.1	pyruvate, phosphate dikinase	250000	-	native protein, gelfiltration	Thermoproteus tenax	-	676065
+2.7.9.1	pyruvate, phosphate dikinase	250000	-	native protein, gelfiltration	Thermoproteus tenax	Q70WQ6	676065
+2.7.9.1	pyruvate, phosphate dikinase	320000	-	gel filtration on Sephadex G-200	Acetobacter aceti	-	645437
+2.7.9.1	pyruvate, phosphate dikinase	330000	-	gel filtration on Sephrose 6B	Acetobacter aceti	-	645437
+2.7.9.1	pyruvate, phosphate dikinase	385000	-	gel filtration	Echinochloa crus-galli	-	645452
