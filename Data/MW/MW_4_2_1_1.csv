@@ -1,0 +1,80 @@
+4.2.1.1	carbonic anhydrase	14000	-	2 * 14000, SDS-PAGE	Rhodospirillum rubrum	-	33534	
+4.2.1.1	carbonic anhydrase	20000	-	2 * 20000, SDS-PAGE	Methanosarcina thermophila	C3W4Q7	727748	
+4.2.1.1	carbonic anhydrase	22900	-	4 * 22900, calculation from nucleotide sequence	Methanosarcina thermophila	P40881	666765	
+4.2.1.1	carbonic anhydrase	23000	-	SDS-PAGE	Clostridium perfringens	-	729927	
+4.2.1.1	carbonic anhydrase	24800	-	8 * 24800, calculation from nucleotide sequence	Populus tremula	-	33591	
+4.2.1.1	carbonic anhydrase	25000	-	SDS-PAGE	Mesorhizobium loti	-	704286	
+4.2.1.1	carbonic anhydrase	25000	-	SDS-PAGE	Mesorhizobium loti	Q8KJM6	704286	
+4.2.1.1	carbonic anhydrase	25000	-	SDS-PAGE	Pisum sativum	-	697163	
+4.2.1.1	carbonic anhydrase	25000	-	x * 25000, recombinant bsCA II, SDS-PAGE	Brucella suis	Q8FVP0	714456	
+4.2.1.1	carbonic anhydrase	25100	-	calculated from cDNA	Sordaria macrospora	C1L335	729718	
+4.2.1.1	carbonic anhydrase	25100	-	calculated from cDNA	Sordaria macrospora	C1L336	729718	
+4.2.1.1	carbonic anhydrase	25900	-	calculated from cDNA	Sordaria macrospora	C1L335	729718	
+4.2.1.1	carbonic anhydrase	25900	-	calculated from cDNA	Sordaria macrospora	C1L336	729718	
+4.2.1.1	carbonic anhydrase	26000	-	SDS-PAGE	Vibrio cholerae	-	730159	
+4.2.1.1	carbonic anhydrase	27000	-	sucrose density gradient centrifugation	Rhodospirillum rubrum	-	33534	
+4.2.1.1	carbonic anhydrase	27000	-	x * 27000 + x * 27500, chloroplastic isoenzyme, the two subunits are identical, except that the 27000 Da subunit is three amino acids shorter than the 27500 Da subunit, SDS-PAGE	Solanum tuberosum	-	33584	
+4.2.1.1	carbonic anhydrase	27200	-	calculated from amino acid sequence	Mesorhizobium loti	-	704286	
+4.2.1.1	carbonic anhydrase	27200	-	calculated from amino acid sequence	Mesorhizobium loti	Q8KJM6	704286	
+4.2.1.1	carbonic anhydrase	27500	-	gel filtration	Alces alces	-	33560	
+4.2.1.1	carbonic anhydrase	27500	-	x * 27000 + x * 27500, chloroplastic isoenzyme, the two subunits are identical, except that the 27000 Da subunit is three amino acids shorter than the 27500 Da subunit, SDS-PAGE	Solanum tuberosum	-	33584	
+4.2.1.1	carbonic anhydrase	28000	-	apparent molecular mass, SDS-PAGE	Mytilus galloprovincialis	-	703311	
+4.2.1.1	carbonic anhydrase	28200	-	1 * 28200, carbonic anhydrase A, SDS-PAGE	Macropus eugenii desmarest	-	33537	
+4.2.1.1	carbonic anhydrase	28280	-	amino acid sequence	Helicobacter pylori	-	650349	
+4.2.1.1	carbonic anhydrase	28500	-	gel filtration	Myxine glutinosa	-	33544	
+4.2.1.1	carbonic anhydrase	28900	-	SDS-PAGE	Chionodraco hamatus	-	652647	
+4.2.1.1	carbonic anhydrase	29000	-	4 * 29000, SDS-PAGE, the native recombinant enzyme is a homotetramer	Azospirillum brasilense	-	703758	
+4.2.1.1	carbonic anhydrase	29000	-	SDS-PAGE	Helicobacter pylori	-	650349	
+4.2.1.1	carbonic anhydrase	29000	-	x * 29000, SDS-PAGE	Acipenser gueldenstaedtii	-	715746	
+4.2.1.1	carbonic anhydrase	29000	-	x * 29000, SDS-PAGE	Oryza sativa	-	682665	
+4.2.1.1	carbonic anhydrase	29900	-	SDS-PAGE	Trematomus bernacchii	-	652647	
+4.2.1.1	carbonic anhydrase	30000	-	8 * 30000, cytosolic isoenzyme, SDS-PAGE	Solanum tuberosum	-	33584	
+4.2.1.1	carbonic anhydrase	30000	-	amino acid sequence	Nicotiana tabacum	Q8W183	653677	
+4.2.1.1	carbonic anhydrase	30000	-	gel filtration	Platichthys flesus	-	33589	
+4.2.1.1	carbonic anhydrase	30000	-	gel filtration	Rhodospirillum rubrum	-	33534	
+4.2.1.1	carbonic anhydrase	30000	-	kidney, brain, liver, stomach, gel filtration	Ovis aries	-	33545	
+4.2.1.1	carbonic anhydrase	30000	-	SDS-PAGE	Columba livia	-	730118	
+4.2.1.1	carbonic anhydrase	30000	-	x * 30000, about, SDS-PAGE	Leptonychotes weddellii	-	714462	
+4.2.1.1	carbonic anhydrase	30000	-	x * 30000, SDS-PAGE	Sus scrofa	-	33532	
+4.2.1.1	carbonic anhydrase	30200	-	x * 30200, SDS-PAGE	Dicentrarchus labrax	-	714853	
+4.2.1.1	carbonic anhydrase	30700	-	gel filtration	Macropus eugenii desmarest	-	33537	
+4.2.1.1	carbonic anhydrase	31200	-	SDS-PAGE	Anguilla anguilla	-	652647	
+4.2.1.1	carbonic anhydrase	32119	-	x * 32119, calculation from amino acid composition	Carcinus maenas	-	33594	
+4.2.1.1	carbonic anhydrase	32300	-	calculated from cDNA	Porphyromonas gingivalis	-	729374	
+4.2.1.1	carbonic anhydrase	33200	-	calculated from cDNA	Astrosclera willeyana	-	729383	
+4.2.1.1	carbonic anhydrase	34000	-	6 * 34000, isoenzyme I, SDS-PAGE	Lactuca sativa	-	33554	
+4.2.1.1	carbonic anhydrase	34000	-	carbonic anhydrase A, gel filtration	Ovis aries	-	33550	
+4.2.1.1	carbonic anhydrase	34000	-	SDS-PAGE	Malassezia globosa	-	730163	
+4.2.1.1	carbonic anhydrase	34000	-	SDS-PAGE	Trypanosoma cruzi	-	730163	
+4.2.1.1	carbonic anhydrase	35000	-	inner peripheral isoenzyme, gel filtration	Elephas trogontherii	-	680115	
+4.2.1.1	carbonic anhydrase	35000	-	SDS-PAGE	Leishmania chagasi	-	730164	
+4.2.1.1	carbonic anhydrase	36000	-	cytosolic isoenzyme, gel filtration	Elephas trogontherii	-	680115	
+4.2.1.1	carbonic anhydrase	36000	-	x * 36000, SDS-PAGE after deglycosylation with N-glycanase	Ovis aries	-	33529	
+4.2.1.1	carbonic anhydrase	36600	-	calculated from amino acid sequence	Stylophora pistillata	B5SU02	698797	
+4.2.1.1	carbonic anhydrase	37000	-	outer peripheral isoenzyme, gel filtration	Elephas trogontherii	-	680115	
+4.2.1.1	carbonic anhydrase	37000	-	SDS-PAGE	Bacillus subtilis	-	702804	
+4.2.1.1	carbonic anhydrase	38000	-	2 * 4243 + 2 * 38000, carbonic anhydrase 2, SDS-PAGE	Chlamydomonas reinhardtii	-	33590	
+4.2.1.1	carbonic anhydrase	39000	-	integral isoenzyme, gel filtration	Elephas trogontherii	-	680115	
+4.2.1.1	carbonic anhydrase	42000	-	plus additional minor 36000 Da band, Western blot	Rattus norvegicus	-	653657	
+4.2.1.1	carbonic anhydrase	45000	-	x * 45000, SDS-PAGE	Ovis aries	-	33529	
+4.2.1.1	carbonic anhydrase	50000	-	2 * 50000, SDS-PAGE	Chlorella sorokiniana	-	33583	
+4.2.1.1	carbonic anhydrase	59000	-	SDS-PAGE	Dunaliella	-	728989	
+4.2.1.1	carbonic anhydrase	62000	-	gel filtration	Methanosarcina thermophila	C3W4Q7	727748	
+4.2.1.1	carbonic anhydrase	76000	-	carbonic anhydrase 1	Chlamydomonas reinhardtii	-	33590	
+4.2.1.1	carbonic anhydrase	80500	-	native PAGE	Coccomyxa sp.	-	33582	
+4.2.1.1	carbonic anhydrase	84000	-	gel filtration	Methanosarcina thermophila	P40881	666765	
+4.2.1.1	carbonic anhydrase	84500	87900	carbonic anhydrase 2, gel filtration	Chlamydomonas reinhardtii	-	33590	
+4.2.1.1	carbonic anhydrase	88000	-	gel filtration, tetramer	Clostridium perfringens	-	729927	
+4.2.1.1	carbonic anhydrase	100000	-	about, recombinant Co-HICA, gel filtration	Haemophilus influenzae	-	713967	
+4.2.1.1	carbonic anhydrase	100000	-	native PAGE	Chlorella sorokiniana	-	33583	
+4.2.1.1	carbonic anhydrase	120000	-	apparent molecular mass of the purified protein, gel filtration	Azospirillum brasilense	-	703758	
+4.2.1.1	carbonic anhydrase	160000	-	native PAGE	Pisum sativum	-	697163	
+4.2.1.1	carbonic anhydrase	195000	-	isoenzyme I, gel filtration	Lactuca sativa	-	33554	
+4.2.1.1	carbonic anhydrase	205000	-	gel filtration	Populus tremula	-	33591	
+4.2.1.1	carbonic anhydrase	220000	-	chloroplastic isoenzyme, native PAGE	Solanum tuberosum	-	33584	
+4.2.1.1	carbonic anhydrase	220000	-	gel filtration	Nicotiana tabacum	Q8W183	653677	
+4.2.1.1	carbonic anhydrase	238000	-	gel filtration	Ovis aries	-	33545	
+4.2.1.1	carbonic anhydrase	255000	-	cytosolic isoenzyme, native PAGE	Solanum tuberosum	-	33584	
+4.2.1.1	carbonic anhydrase	284500	-	x * 284500, calculation from sequence	Chionodraco hamatus	-	682703	
+4.2.1.1	carbonic anhydrase	287600	-	x * 287600, SDS-PAGE	Chionodraco hamatus	-	682703	
+4.2.1.1	carbonic anhydrase	540000	-	gel filtration	Ovis aries	-	33529	
