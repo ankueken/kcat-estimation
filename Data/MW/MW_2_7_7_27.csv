@@ -1,0 +1,55 @@
+2.7.7.27	glucose-1-phosphate adenylyltransferase	42700	-	4 * 42700, calculated and SDS-PAGE	Streptomyces coelicolor	P72394	719739
+2.7.7.27	glucose-1-phosphate adenylyltransferase	48000	-	4 * 48000, SDS-PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	643134
+2.7.7.27	glucose-1-phosphate adenylyltransferase	48000	-	x * 48000 + x * 54000, wild-type, SDS-PAGE	Arabidopsis thaliana	-	643136
+2.7.7.27	glucose-1-phosphate adenylyltransferase	48180	-	4 * 48180, deduced from nucleotide sequence	Synechocystis sp.	P52415	643124
+2.7.7.27	glucose-1-phosphate adenylyltransferase	48347	-	4 * 48347, calculated from nucleotide sequence	Anabaena sp.	-	643139
+2.7.7.27	glucose-1-phosphate adenylyltransferase	49000	-	4 * 49200, calculated, 4 * 49000, SDS-PAGE	Nitrosomonas europaea	-	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	49000	-	4 * 49200, calculated, 4 * 49000, SDS-PAGE	Nitrosomonas europaea	Q82T88	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	49200	-	4 * 49200, calculated, 4 * 49000, SDS-PAGE	Nitrosomonas europaea	-	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	49200	-	4 * 49200, calculated, 4 * 49000, SDS-PAGE	Nitrosomonas europaea	Q82T88	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	4 * 50000, SDS-PAGE	Anabaena sp.	-	643139
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	4 * 50000, SDS-PAGE	Escherichia coli	-	643127, 643144
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	4 * 50000, SDS-PAGE	Rhodospirillum rubrum	-	643132
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	4 * 50000, the small subunit enzyme TG-15, SDS-PAGE	Solanum tuberosum	P23509	643155
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	AGPase subunit B, monomer, determined by SDS-PAGE and Western blot analysis	Solanum tuberosum	-	693418
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	leaf: x * 50000 + x * 54000 SDS-PAGE, two-dimensional PAGE reveals at least six isoforms of the large subunit and two isoforms of the small subunit, fruit: x * 50000 + x * 51000 SDS-PAGE	Solanum lycopersicum	-	643167
+2.7.7.27	glucose-1-phosphate adenylyltransferase	50000	-	x * 50000 + x * 53000 SDS-PAGE	Chlamydomonas reinhardtii	-	643122
+2.7.7.27	glucose-1-phosphate adenylyltransferase	51000	-	2 * 51000	Rhodobacter sphaeroides	Q9RNH7	643161
+2.7.7.27	glucose-1-phosphate adenylyltransferase	51000	-	4 * 51000, SDS-PAGE	Escherichia coli	-	643128
+2.7.7.27	glucose-1-phosphate adenylyltransferase	51000	-	leaf: x * 50000 + x * 54000 SDS-PAGE, two-dimensional PAGE reveals at least six isoforms of the large subunit and two isoforms of the small subunit, fruit: x * 50000 + x * 51000 SDS-PAGE	Solanum lycopersicum	-	643167
+2.7.7.27	glucose-1-phosphate adenylyltransferase	51000	-	leaf: x * 51000 + x * 54000, endosperm: x * 52000 + x * 53000, SDS-PAGE	Triticum aestivum	P12299	643160
+2.7.7.27	glucose-1-phosphate adenylyltransferase	52000	-	4 * 52000, SDS-PAGE	Thermus caldophilus	-	643164
+2.7.7.27	glucose-1-phosphate adenylyltransferase	52000	-	leaf: x * 51000 + x * 54000, endosperm: x * 52000 + x * 53000, SDS-PAGE	Triticum aestivum	P12299	643160
+2.7.7.27	glucose-1-phosphate adenylyltransferase	53000	-	4 * 53000, SDS-PAGE	Synechocystis sp.	-	643123
+2.7.7.27	glucose-1-phosphate adenylyltransferase	53000	-	leaf: x * 51000 + x * 54000, endosperm: x * 52000 + x * 53000, SDS-PAGE	Triticum aestivum	P12299	643160
+2.7.7.27	glucose-1-phosphate adenylyltransferase	53000	-	x * 50000 + x * 53000 SDS-PAGE	Chlamydomonas reinhardtii	-	643122
+2.7.7.27	glucose-1-phosphate adenylyltransferase	54000	-	4 * 54000 SDS-PAGE	Zea mays	-	643120
+2.7.7.27	glucose-1-phosphate adenylyltransferase	54000	-	leaf: x * 50000 + x * 54000 SDS-PAGE, two-dimensional PAGE reveals at least six isoforms of the large subunit and two isoforms of the small subunit, fruit: x * 50000 + x * 51000 SDS-PAGE	Solanum lycopersicum	-	643167
+2.7.7.27	glucose-1-phosphate adenylyltransferase	54000	-	leaf: x * 51000 + x * 54000, endosperm: x * 52000 + x * 53000, SDS-PAGE	Triticum aestivum	P12299	643160
+2.7.7.27	glucose-1-phosphate adenylyltransferase	54000	-	x * 48000 + x * 54000, wild-type, SDS-PAGE	Arabidopsis thaliana	-	643136
+2.7.7.27	glucose-1-phosphate adenylyltransferase	96000	-	4 * 96000, SDS-PAGE	Zea mays	-	643121
+2.7.7.27	glucose-1-phosphate adenylyltransferase	100000	-	AGPase subunit B, dimer, determined by SDS-PAGE and Western blot analysis	Solanum tuberosum	-	693418
+2.7.7.27	glucose-1-phosphate adenylyltransferase	110000	-	gel filtration	Rhodobacter sphaeroides	Q9RNH7	643161
+2.7.7.27	glucose-1-phosphate adenylyltransferase	180000	-	gel filtration	Streptomyces coelicolor	P72394	719739
+2.7.7.27	glucose-1-phosphate adenylyltransferase	185000	-	mutant AC70R1, sedimentation velocity measurement	Escherichia coli	-	643127
+2.7.7.27	glucose-1-phosphate adenylyltransferase	185000	-	sedimentation equilibrium centrifugation	Escherichia coli	-	643144
+2.7.7.27	glucose-1-phosphate adenylyltransferase	190000	-	gel filtration	Rhodococcus jostii	-	738295
+2.7.7.27	glucose-1-phosphate adenylyltransferase	190000	-	gel filtration	Rhodococcus jostii	Q0S3Y4	738295
+2.7.7.27	glucose-1-phosphate adenylyltransferase	190000	-	sucrose density gradient centrifugation	Salmonella enterica subsp. enterica serovar Typhimurium	-	643134
+2.7.7.27	glucose-1-phosphate adenylyltransferase	195000	-	PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	643134
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	-	Solanum lycopersicum	-	643167
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	gel filtration	Nitrosomonas europaea	-	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	gel filtration	Nitrosomonas europaea	Q82T88	722552
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	gel filtration of homotetramer small subunit enzyme TG-15	Solanum tuberosum	P23509	643155
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	sucrose density gradient centrifugation	Rhodospirillum rubrum	-	643132
+2.7.7.27	glucose-1-phosphate adenylyltransferase	200000	-	sucrose density gradient method	Hafnia alvei	-	488901
+2.7.7.27	glucose-1-phosphate adenylyltransferase	210000	-	endosperm enzyme	Triticum aestivum	P12299	643160
+2.7.7.27	glucose-1-phosphate adenylyltransferase	210000	-	gel filtration	Arabidopsis thaliana	-	643136
+2.7.7.27	glucose-1-phosphate adenylyltransferase	210000	-	gel filtration	Chlamydomonas reinhardtii	-	643122
+2.7.7.27	glucose-1-phosphate adenylyltransferase	210000	-	sucrose density gradient centrifugation	Escherichia coli	-	643128
+2.7.7.27	glucose-1-phosphate adenylyltransferase	216000	-	gel filtration	Synechocystis sp.	-	643123
+2.7.7.27	glucose-1-phosphate adenylyltransferase	230000	-	gel filtration	Thermus caldophilus	-	643164
+2.7.7.27	glucose-1-phosphate adenylyltransferase	230000	-	gel filtration	Zea mays	-	643120
+2.7.7.27	glucose-1-phosphate adenylyltransferase	235000	-	enzyme B, gel filtration	Zea mays	-	643121
+2.7.7.27	glucose-1-phosphate adenylyltransferase	375000	-	enzyme A, gel filtration	Zea mays	-	643121
+2.7.7.27	glucose-1-phosphate adenylyltransferase	400000	-	enzyme A, PAGE	Zea mays	-	643121
