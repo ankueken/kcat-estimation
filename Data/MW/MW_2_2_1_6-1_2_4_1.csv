@@ -1,0 +1,101 @@
+2.2.1.6	acetolactate synthase	9500	-	x * 9500 + x * 60000, isoenzyme I, SDS-PAGE	Escherichia coli	-	395881		
+2.2.1.6	acetolactate synthase	9800	-	2 * 9800 + 2 * 59000, SDS-PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	395879		
+2.2.1.6	acetolactate synthase	15000	-	x * 15000 + x * 57000 + x * 58000, SDS-PAGE	Triticum aestivum	-	395908		
+2.2.1.6	acetolactate synthase	16200	-	x * 16200 + x * 67200, SDS-PAGE	Escherichia coli	-	395904		
+2.2.1.6	acetolactate synthase	17500	-	x * 17500 + x * 61800, calculation from nucleotide sequence	Escherichia coli	-	395901		
+2.2.1.6	acetolactate synthase	18700	-	x * 63300, large subunit IlvB, plus x * 18700, small subunit IlvN, SDS-PAGE and calculated.	Geobacillus stearothermophilus	-	736351		
+2.2.1.6	acetolactate synthase	18700	-	x * 63300, large subunit IlvB, plus x * 18700, small subunit IlvN, SDS-PAGE and calculated.	Geobacillus stearothermophilus	Q8RL88 and Q8RL87	736351		
+2.2.1.6	acetolactate synthase	20000	-	x * 20000, SDS-PAGE	Mycobacterium tuberculosis	-	719375		
+2.2.1.6	acetolactate synthase	20000	-	x * 20000, SDS-PAGE	Mycobacterium tuberculosis	P9WG41	719375		
+2.2.1.6	acetolactate synthase	20508	-	2 * 20508, regulatory subunit, sequence calculation, 2 * 22210, regulatory subunit, SDS-PAGE	 2 * 65497 + 2 * 20508, calculated from amino acid sequence	Thermotoga maritima	Q9WZ19	733241	
+2.2.1.6	acetolactate synthase	20508	-	2 * 20508, regulatory subunit, sequence calculation, 2 * 22210, regulatory subunit, SDS-PAGE	 2 * 65497 + 2 * 20508, calculated from amino acid sequence	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241	
+2.2.1.6	acetolactate synthase	22200	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 66400 + 2 * 22200, SDS-PAGE	Thermotoga maritima	Q9WZ19	733241	
+2.2.1.6	acetolactate synthase	22200	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 66400 + 2 * 22200, SDS-PAGE	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241	
+2.2.1.6	acetolactate synthase	22210	-	2 * 20508, regulatory subunit, sequence calculation, 2 * 22210, regulatory subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	22210	-	2 * 20508, regulatory subunit, sequence calculation, 2 * 22210, regulatory subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	34000	-	1 * 59000-66000, catalytic subunit + 1 * 34000, regulatory subunit	Saccharomyces cerevisiae	P07342	700782		
+2.2.1.6	acetolactate synthase	37700	-	recombinant catalytic subunit, gel filtration	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	37700	-	recombinant catalytic subunit, gel filtration	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	48000	-	x * 48000, deduced from gene sequence	Nicotiana plumbaginifolia	-	660189		
+2.2.1.6	acetolactate synthase	50000	-	1 * 59000-66000, catalytic subunit + 1 * 50000, above, regulatory subunit	Arabidopsis thaliana	-	700782		
+2.2.1.6	acetolactate synthase	50000	-	1 * 59000-66000, catalytic subunit + 1 * 50000, above, regulatory subunit	Gossypium hirsutum	Q42768	700782		
+2.2.1.6	acetolactate synthase	50000	-	1 * 59000-66000, catalytic subunit + 1 * 50000, above, regulatory subunit	Helianthus annuus	-	700782		
+2.2.1.6	acetolactate synthase	50000	-	PAGE	Leuconostoc lactis	-	658566		
+2.2.1.6	acetolactate synthase	55000	-	3 * 55000, SDS-PAGE	Leuconostoc mesenteroides	-	395918		
+2.2.1.6	acetolactate synthase	55000	-	AHAS II, gel filtration	Zea mays	-	395871		
+2.2.1.6	acetolactate synthase	57000	-	x * 15000 + x * 57000 + x * 58000, SDS-PAGE	Triticum aestivum	-	395908		
+2.2.1.6	acetolactate synthase	58000	-	x * 15000 + x * 57000 + x * 58000, SDS-PAGE	Triticum aestivum	-	395908		
+2.2.1.6	acetolactate synthase	59000	-	2 * 9800 + 2 * 59000, SDS-PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	395879		
+2.2.1.6	acetolactate synthase	60000	-	2 * 60000, SDS-PAGE	Escherichia coli	-	395885		
+2.2.1.6	acetolactate synthase	60000	-	3 * 60000, SDS-PAGE	Enterobacter cloacae	-	660559		
+2.2.1.6	acetolactate synthase	60000	-	x * 60000, recombinant enzyme, SDS-PAGE	 x * 60000, SDS-PAGE	Enterococcus faecalis	-	733744	
+2.2.1.6	acetolactate synthase	60000	-	x * 60000, SDS-PAGE	Enterococcus faecalis	-	733987		
+2.2.1.6	acetolactate synthase	60000	-	x * 60000, SDS-PAGE	Klebsiella pneumoniae	-	733547		
+2.2.1.6	acetolactate synthase	60000	-	x * 9500 + x * 60000, isoenzyme I, SDS-PAGE	Escherichia coli	-	395881		
+2.2.1.6	acetolactate synthase	60200	-	x * 60200, calculated from amino acid sequence	Enterococcus faecalis	-	733744		
+2.2.1.6	acetolactate synthase	61800	-	x * 17500 + x * 61800, calculation from nucleotide sequence	Escherichia coli	-	395901		
+2.2.1.6	acetolactate synthase	62000	-	x * 62000, SDS-PAGE	Lactococcus lactis	-	395922		
+2.2.1.6	acetolactate synthase	62000	-	x * 62000, SDS-PAGE, catalytic subunit	Pseudomonas sp.	-	719329		
+2.2.1.6	acetolactate synthase	62000	-	x * 62000, SDS-PAGE, catalytic subunit	Pseudomonas sp.	G0ZSE6	719329		
+2.2.1.6	acetolactate synthase	63300	-	x * 63300, large subunit IlvB, plus x * 18700, small subunit IlvN, SDS-PAGE and calculated.	Geobacillus stearothermophilus	-	736351		
+2.2.1.6	acetolactate synthase	63300	-	x * 63300, large subunit IlvB, plus x * 18700, small subunit IlvN, SDS-PAGE and calculated.	Geobacillus stearothermophilus	Q8RL88 and Q8RL87	736351		
+2.2.1.6	acetolactate synthase	63700	-	x * 63700, recombinant His-tagged catalytic subunit, SDS-PAGE	Haemophilus influenzae	P45261	695852		
+2.2.1.6	acetolactate synthase	64000	-	2 * 64000, SDS-PAGE	Serratia marcescens	-	395912		
+2.2.1.6	acetolactate synthase	65000	-	2 * 65000 and/or 66000, SDS-PAGE	Brassica napus	-	395907		
+2.2.1.6	acetolactate synthase	65000	-	4 * 65000, SDS-PAGE, both isoforms	Hordeum vulgare	-	659100		
+2.2.1.6	acetolactate synthase	65000	-	x * 65000, about, SDS-PAGE and MALDI-TOF spectrometry	Synechocystis sp.	-	676713		
+2.2.1.6	acetolactate synthase	65000	-	x * 65000, SDS-PAGE	Escherichia coli	-	719117		
+2.2.1.6	acetolactate synthase	65497	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 65497 + 2 * 20508, calculated from amino acid sequence	 2 * 65497, catalytic subunit, sequence calculation, 2 * 66398, catalytic subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19	733241
+2.2.1.6	acetolactate synthase	65497	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 65497 + 2 * 20508, calculated from amino acid sequence	 2 * 65497, catalytic subunit, sequence calculation, 2 * 66398, catalytic subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241
+2.2.1.6	acetolactate synthase	66398	-	2 * 65497, catalytic subunit, sequence calculation, 2 * 66398, catalytic subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	66398	-	2 * 65497, catalytic subunit, sequence calculation, 2 * 66398, catalytic subunit, SDS-PAGE	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	66400	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 66400 + 2 * 22200, SDS-PAGE	Thermotoga maritima	Q9WZ19	733241	
+2.2.1.6	acetolactate synthase	66400	-	1 * 65497, calculated, 1 * 66400, SDS-PAGE, plus 1 * 2058, calculated, 1 * 22200, SDS-PAGE, catalytic and regulatory subunit, respectively	 2 * 66400 + 2 * 22200, SDS-PAGE	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241	
+2.2.1.6	acetolactate synthase	67200	-	x * 16200 + x * 67200, SDS-PAGE	Escherichia coli	-	395904		
+2.2.1.6	acetolactate synthase	68000	-	x * 68000, about, wild-type and mutant enzyme variants, SDS-PAGE	 x * 68000, SDS-PAGE	Mycobacterium tuberculosis	P9WG39	733745	
+2.2.1.6	acetolactate synthase	68000	-	x * 68000, SDS-PAGE	Mycobacterium tuberculosis	-	719375		
+2.2.1.6	acetolactate synthase	68000	-	x * 68000, SDS-PAGE	Mycobacterium tuberculosis	P9WG41	719375, 733747		
+2.2.1.6	acetolactate synthase	119000	-	gel filtration	Escherichia coli	-	395904		
+2.2.1.6	acetolactate synthase	120000	-	PAGE	Leuconostoc lactis	-	658566		
+2.2.1.6	acetolactate synthase	124000	-	gel filtration	Brassica napus	-	395907		
+2.2.1.6	acetolactate synthase	128000	-	gel filtration	Triticum aestivum	-	395908		
+2.2.1.6	acetolactate synthase	130000	-	sucrose density gradient sedimentation, glycerol density gradient sedimentation	Escherichia coli	-	395885		
+2.2.1.6	acetolactate synthase	132000	-	glycerol density gradient sedimentation	Brassica napus	-	395907		
+2.2.1.6	acetolactate synthase	140000	-	gel filtration	Salmonella enterica subsp. enterica serovar Typhimurium	-	395879		
+2.2.1.6	acetolactate synthase	150000	-	-	Leuconostoc mesenteroides	-	395918		
+2.2.1.6	acetolactate synthase	150000	-	-	Serratia marcescens	-	395912		
+2.2.1.6	acetolactate synthase	156000	-	recombinant catalytic subunit, gel filtration	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	156000	-	recombinant catalytic subunit, gel filtration	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	156400	-	gel filtration	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	156400	-	gel filtration	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	156800	-	gel filtration	Thermotoga maritima	Q9WZ19	733241		
+2.2.1.6	acetolactate synthase	156800	-	gel filtration	Thermotoga maritima	Q9WZ19 and Q9WZ18	733241		
+2.2.1.6	acetolactate synthase	172000	-	gel filtration	Lactococcus lactis	-	395922		
+2.2.1.6	acetolactate synthase	178000	-	non-denaturing PAGE	Serratia marcescens	-	395923		
+2.2.1.6	acetolactate synthase	182000	-	PAGE	Leuconostoc lactis	-	658566		
+2.2.1.6	acetolactate synthase	193000	-	AHAS I, gel filtration	Zea mays	-	395871		
+2.2.1.6	acetolactate synthase	200000	-	gel filtration	Enterobacter cloacae	-	660559		
+2.2.1.6	acetolactate synthase	204000	-	gel filtration	Serratia marcescens	-	395923		
+2.2.1.6	acetolactate synthase	238000	-	PAGE, isoform ALS II	Hordeum vulgare	-	659100		
+2.2.1.6	acetolactate synthase	248000	-	PAGE, isoform ALS I	Hordeum vulgare	-	659100		
+2.2.1.6	acetolactate synthase	277000	-	gel filtration	Leuconostoc lactis	-	395919		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	36000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	 alpha2,beta2, 2 * 41000 + 2 * 36000	Bos taurus	-	348910	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	37000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	38000	-	alpha2,beta2, 2 * 42000 + 2 * 38000, SDS-PAGE	Ascaris sp.	-	348926		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	41000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	 alpha2,beta2, 2 * 41000 + 2 * 36000	Bos taurus	-	348910	
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	41000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	42000	-	alpha2,beta2, 2 * 42000 + 2 * 38000, SDS-PAGE	Ascaris sp.	-	348926		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	43000	-	alpha2,beta2, 1 * 43000 + 1 * 41000 + 2 * 37000, SDS-PAGE	Solanum tuberosum	P52903	348985		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	50000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	52000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	55000	-	60 * 41000 (E1 alpha) + 60 * 36000 (E1 beta) + 60 * 52000 (E2, EC 2.3.1.12) + 12 * 55000 (E3, EC 1.8.1.4) + 8-12 * 50000 (component X) + kinase and phosphatase components, heart pyruvate dehydrogenase complex	Bos taurus	-	348910		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	60000	-	4 * 60000, SDS-PAGE	Zymomonas mobilis	-	663808		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	63000	-	x * 63000, SDS-PAGE	Zymobacter palmae	-	664698		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	92500	-	x * 92500, SDS-PAGE	Pseudomonas aeruginosa	-	348962		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	93000	-	2 * 93000, SDS-PAGE, 2 * 98082, calculated	Pseudomonas putida	O33468	736649		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	98082	-	2 * 93000, SDS-PAGE, 2 * 98082, calculated	Pseudomonas putida	O33468	736649		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	99470	-	pyruvate dehydrogenase multienzyme complex component E1	Escherichia coli	P0AFG8	654647		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	100000	-	2 * 100000, SDS-PAGE	Salmonella enterica subsp. enterica serovar Typhimurium	-	348948		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	100000	-	x * 100000, SDS-PAGE	Thermus thermophilus	-	348986		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	185000	-	gel filtration	Pseudomonas putida	O33468	736649		
+1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)	240000	-	gel filtration, recombinant protein from Escherichia coli and from Haloferax volcanii	Zymomonas mobilis	-	663808		
