@@ -1,0 +1,62 @@
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.00013	-	DL-isocitrate	pH 7.5, 30°C	Saccharopolyspora erythraea	-	849	655094	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.001	-	isocitrate	pH 8.0, forward reaction	Chlorobium limicola	-	279	656740	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.004	-	isocitrate	mitochondrial isozyme, forward reaction, pH 8.0	Pisum sativum	-	279	654843	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0057	-	D,L-isocitrate	Mn2+-dependent reaction	Synechocystis sp.	-	1949	286803	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.006	-	isocitrate	cytosolic isozyme, forward reaction, pH 8.0	Pisum sativum	-	279	654843	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.009	-	isocitrate	pH 8.0, 55°C, cofactor: NADP+	Sulfolobus solfataricus	Q9UWG7	279	719515	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.009	-	isocitrate	pH 8.0, forward reaction	Rhodopseudomonas palustris	-	279	656740	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0091	-	D,L-isocitrate	-	Bacillus subtilis	-	1949	286779	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0097	-	D,L-isocitrate	25°C assay temperature	Thermus aquaticus	-	1949	286779	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.01	-	DL-isocitrate	isoform ICD-1, presence of Mg2+, pH 7.5, 25°C	Mycobacterium tuberculosis	-	849	668080	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.011	-	DL-isocitrate	mutant R291S/K343D/Y344I/V350A/Y390P, pH 8.0, 30°C	Haloferax volcanii	Q8X277	849	670805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0127	-	isocitrate	pH 9.0, 30°C	Fomitopsis palustris	-	279	655035	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0147	-	isocitrate	pH 8.0, 28°C	Gryllus firmus	-	279	722896	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.015	-	isocitrate	pH 7.5, isoenzyme IDP3	Saccharomyces cerevisiae	P41939	279	684709	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.017	-	DL-isocitrate	enzyme from ischemic heart, pH 7.8, 25°C	Rattus norvegicus	P56574	849	670236	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.017	-	isocitrate	pH 7.8, 25°C, enzyme from ischemic heart	Rattus norvegicus	P56574	279	670236	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.018	-	DL-isocitrate	mutant R291S, pH 8.0, 30°C	Haloferax volcanii	Q8X277	849	670805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0181	-	D,L-isocitrate	70°C assay temperature	Thermus aquaticus	-	1949	286779	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.019	-	(2R,3S)-isocitrate	pH 7.6, 25°C, peroxisomes from senecent leaves	Pisum sativum	-	5293	663113	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.02	-	DL-isocitrate	isoform ICD-2, presence of Mg2+, pH 7.5, 25°C	Mycobacterium tuberculosis	-	849	668080	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0204	-	D,L-isocitrate	in presence of Mg2+	Desulfobacter vibrioformis	-	1949	286807	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.021	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	-	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.021	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	Q4DG65	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.021	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	Q4E4L7	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.022	-	D,L-isocitrate	Mn2+-dependent reaction	Phormidium laminosum	-	1949	286799	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.022	-	DL-isocitrate	isoform ICD-1, presence of Zn2+, pH 7.5, 25°C	Mycobacterium tuberculosis	-	849	668080	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.03	-	isocitrate	isozyme IDP1	Saccharomyces cerevisiae	-	279	654367	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.03	-	isocitrate	pH 7.5, isoenzyme IDP1	Saccharomyces cerevisiae	P41939	279	684709	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0326	-	DL-isocitrate	with Mg2+, pH 7.5, 37°C; with Mg2+, pH 7.5, 50°C	Microcystis aeruginosa	-	849	723152	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.0326	-	DL-isocitrate	with Mg2+, pH 7.5, 37°C; with Mg2+, pH 7.5, 50°C	Microcystis aeruginosa	A8YGS2	849	723152	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.033	-	D,L-isocitrate	-	Thermoleophilum minutum	-	1949	286809	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.036	-	DL-isocitrate	mutant R291S/K343D/Y390P, pH 8.0, 30°C; mutant R291S/Y390P, pH 8.0, 30°C	Haloferax volcanii	Q8X277	849	670805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.04	-	D-isocitrate	recombinant enzyme, pH 8.0, 30°C	Plasmodium falciparum	-	1943	655456	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.04	-	DL-isocitrate	mutant R291S/K343D/Y344I/Y390P, pH 8.0, 30°C	Haloferax volcanii	Q8X277	849	670805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.042	-	D-isocitrate	pH 7.6, 25°C, leaf enzyme	Arabidopsis thaliana	Q9SRZ6	1943	721779	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.045	-	DL-isocitrate	enzyme from normoxic heart, pH 7.8, 25°C	Rattus norvegicus	P56574	849	670236	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.045	-	isocitrate	pH 7.8, 25°C, enzyme from normoxic heart	Rattus norvegicus	P56574	279	670236	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.045	-	isocitrate	recombinant enyme, pH 9.0	Chlorobium limicola	-	279	655430	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.05	-	isocitrate	isozyme IDP3	Saccharomyces cerevisiae	-	279	654367	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.05	-	isocitrate	pH 7.5, temperature not specified in the publication, recombinant His-tagged enzyme	Mycobacterium tuberculosis	-	279	721687	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.05	-	isocitrate	pH 7.5, temperature not specified in the publication, recombinant His-tagged enzyme	Mycobacterium tuberculosis	P9WKL1	279	721687	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.054	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	-	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.054	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	Q4DG65	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.054	-	DL-isocitrate	pH and temperature not specified in the publication	Trypanosoma cruzi	Q4E4L7	849	723129	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.059	-	D,L-isocitrate	Mg2+-dependent reaction	Synechocystis sp.	-	1949	286803	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.07	-	D,L-isocitrate	Mg2+-dependent reaction	Phormidium laminosum	-	1949	286799	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.07	-	isocitrate	chloroplastic isozyme ICDH2, pH 7.8, 25°C	Spirodela polyrhiza	-	279	656616	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.072	-	D,L-isocitrate	-	Caldococcus noboribetus	-	1949	286798	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.074	-	D,L-isocitrate	-	Mycobacterium phlei	-	1949	286795	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.08	-	D,L-isocitrate	-	Pinus spp.	-	1949	286805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.105	-	DL-isocitrate	recombinant, renatured enzyme, pH 8.0	Haloferax volcanii	-	849	655604	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.105	-	DL-isocitrate	recombinant, renatured enzyme, pH 8.0	Haloferax volcanii	Q8X277	849	655604	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.108	-	DL-isocitrate	wild-type, pH 8.0, 30°C	Haloferax volcanii	Q8X277	849	670805	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.1243	-	DL-isocitrate	with Mn2+, pH 7.5, 37°C; with Mn2+, pH 7.5, 50°C	Microcystis aeruginosa	-	849	723152	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.1243	-	DL-isocitrate	with Mn2+, pH 7.5, 37°C; with Mn2+, pH 7.5, 50°C	Microcystis aeruginosa	A8YGS2	849	723152	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.13	-	isocitrate	pH 8.0, 30°C, cofactor: NADP+	Haloferax volcanii	-	279	719515	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.18	-	isocitrate	cytosolic isozyme ICDH1, pH 7.8, 25°C	Spirodela polyrhiza	-	279	656616	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.202	-	(2R,3S)-isocitrate	pH 7.6, 25°C, peroxisomes from young leaves	Pisum sativum	-	5293	663113	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.22	-	isocitrate	isozyme IDP2	Saccharomyces cerevisiae	-	279	654367	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.22	-	isocitrate	pH 7.5, isoenzyme IDP2	Saccharomyces cerevisiae	P41939	279	684709	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.239	-	D-isocitrate	pH 7.6, 25°C, root enzyme	Arabidopsis thaliana	Q9SRZ6	1943	721779	
+1.1.1.42	isocitrate dehydrogenase (NADP+)	0.332	-	isocitrate	60°C, pH 8.0	Archaeoglobus fulgidus	-	279	722205	
