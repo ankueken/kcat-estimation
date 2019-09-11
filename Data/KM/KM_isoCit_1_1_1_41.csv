@@ -1,0 +1,13 @@
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.0164	-	isocitrate	6fold His-tagged enzyme, at 70°C in 50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 M KCl, 0.2 mM MnCl2, 1mM NAD+	Pyrococcus horikoshii	-	279	660907	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.0183	-	homoisocitrate	6fold His-tagged enzyme, at 70°C in 50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 M KCl, 0.2 mM MnCl2, 1mM NAD+	Pyrococcus horikoshii	-	1871	660907	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.03	-	D,L-isocitrate	-	Cupriavidus necator	-	1949	286750	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.0517	-	isocitrate	-	Methylococcus capsulatus	-	279	684749	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.075	-	DL-isocitrate	pH 7.5, 37°C, recombinant wild-type enzyme	Streptococcus mutans	-	849	723607	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.12	-	isocitrate	pH 7.5	Pisum sativum	-	279	654843	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.143	-	DL-isocitrate	pH 7.5, 37°C, recombinant enzyme mutant S102G	Streptococcus mutans	-	849	723607	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.148	-	DL-isocitrate	pH 7.5, 37°C, recombinant enzyme mutant S102A	Streptococcus mutans	-	849	723607	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.15	-	DL-isocitrate	pH 7.5, 37°C, recombinant enzyme mutant S102T	Streptococcus mutans	-	849	723607	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.385	-	DL-isocitrate	pH 7.5, 37°C, recombinant enzyme mutant S102Y	Streptococcus mutans	-	849	723607	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	0.581	-	isocitrate	pH 7.4, 25°C	Yarrowia lipolytica	-	279	654783	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	7.9	-	D-isocitrate	-	Azotobacter vinelandii	-	1943	670158	
+1.1.1.41	isocitrate dehydrogenase (NAD+)	62.2	-	D-isocitrate	-	Colwellia maris	-	1943	670158	
