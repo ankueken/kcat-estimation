@@ -1,0 +1,36 @@
+2.4.1.25	4-alpha-glucanotransferase	38000	-	1 * 38000 + 1 * 47000, amylomaltase	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	47000	-	1 * 38000 + 1 * 47000, amylomaltase	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	50000	-	2 * 50000, SDS-PAGE	Pisum sativum	-	489001	
+2.4.1.25	4-alpha-glucanotransferase	52000	-	1 * 52000 + 1 * 63000, D-enzyme	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	53000	-	SDS-PAGE	Thermotoga maritima	-	489005	
+2.4.1.25	4-alpha-glucanotransferase	54000	-	gel filtration	Triticum aestivum	-	676711	
+2.4.1.25	4-alpha-glucanotransferase	56000	-	size exclusion chromatography	Thermotoga maritima	-	489005	
+2.4.1.25	4-alpha-glucanotransferase	57000	-	x * 57000, recombinant enzyme, SDS-PAGE	Synechocystis sp.	-	705838	
+2.4.1.25	4-alpha-glucanotransferase	57220	-	amino acid sequence	Thermus aquaticus	-	489016	
+2.4.1.25	4-alpha-glucanotransferase	57220	-	amino acid sequence	Thermus aquaticus	B7A9X4	489016	
+2.4.1.25	4-alpha-glucanotransferase	57220	-	calculated from sequence	Thermus brockianus	-	675333	
+2.4.1.25	4-alpha-glucanotransferase	57969	-	x * 57969, calculated from sequence	Thermus aquaticus	-	672924	
+2.4.1.25	4-alpha-glucanotransferase	59337	-	x * 59337, sequence calculation	Thermus thermophilus	O87172	685153	
+2.4.1.25	4-alpha-glucanotransferase	59400	-	2 * 59400, calculated from amino acid sequence	Manihot esculenta	-	737180	
+2.4.1.25	4-alpha-glucanotransferase	59500	-	native enzyme, SDS-PAGE	Solanum tuberosum	Q06801	489007	
+2.4.1.25	4-alpha-glucanotransferase	60000	-	SDS-PAGE	Solanum tuberosum	Q06801	489007	
+2.4.1.25	4-alpha-glucanotransferase	62000	-	-	Chlamydomonas reinhardtii	-	489014	
+2.4.1.25	4-alpha-glucanotransferase	62000	-	SDS-PAGE	Chlamydomonas reinhardtii	-	489013	
+2.4.1.25	4-alpha-glucanotransferase	63000	-	1 * 52000 + 1 * 63000, D-enzyme	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	64950	-	estimated from amino acid sequence, deduced from nucleotide sequence	Solanum tuberosum	Q06801	489007	
+2.4.1.25	4-alpha-glucanotransferase	65000	-	precursor, SDS-PAGE	Solanum tuberosum	Q06801	489007	
+2.4.1.25	4-alpha-glucanotransferase	71000	-	-	Escherichia coli	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	71000	-	gel filtration, low molecular weight form	Escherichia coli	-	488997	
+2.4.1.25	4-alpha-glucanotransferase	74000	-	amylomaltase, gel filtration	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	76690	-	calculated from cDNA	Pyrococcus sp.	-	489011	
+2.4.1.25	4-alpha-glucanotransferase	78500	-	x * 78500, calculated from amino acid sequence	Escherichia coli	P15977	736481	
+2.4.1.25	4-alpha-glucanotransferase	79000	-	SDS-PAGE	Thermococcus litoralis	-	489017	
+2.4.1.25	4-alpha-glucanotransferase	83000	-	x * 83000, SDS-PAGE	Sulfolobus solfataricus	-	672691	
+2.4.1.25	4-alpha-glucanotransferase	98000	-	gel filtration	Pisum sativum	-	489001	
+2.4.1.25	4-alpha-glucanotransferase	115000	-	D-enzyme, gel filtration	Pseudomonas stutzeri	-	488998	
+2.4.1.25	4-alpha-glucanotransferase	117000	-	gel filtration	Manihot esculenta	-	737180	
+2.4.1.25	4-alpha-glucanotransferase	134000	-	gel filtration	Thermococcus litoralis	-	489017	
+2.4.1.25	4-alpha-glucanotransferase	160000	-	x * 160000, SDS-PAGE	Rattus norvegicus	-	654150	
+2.4.1.25	4-alpha-glucanotransferase	165000	-	purified recombinant enzyme, SDS-PAGE	Saccharomyces cerevisiae	-	489018	
+2.4.1.25	4-alpha-glucanotransferase	174900	-	estimated from amino acid sequence, deduced from nucleotide sequence	Saccharomyces cerevisiae	-	489018	
+2.4.1.25	4-alpha-glucanotransferase	370000	-	gel filtration, high molecular weight form	Escherichia coli	-	488997	
