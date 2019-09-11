@@ -1,0 +1,39 @@
+4.2.1.2	fumarate hydratase	45000	-	4 * 45000, SDS-PAGE	Sulfolobus solfataricus	-	33767	
+4.2.1.2	fumarate hydratase	45000	-	SDS-PAGE	Sulfolobus solfataricus	-	679811	
+4.2.1.2	fumarate hydratase	45000	-	SDS-PAGE	Sulfolobus solfataricus	P39461	679811	
+4.2.1.2	fumarate hydratase	46000	-	4 * 46000, SDS-PAGE	Thermus thermophilus	-	33772	
+4.2.1.2	fumarate hydratase	47900	-	calculated from amino acid sequence	Sulfolobus solfataricus	-	679811	
+4.2.1.2	fumarate hydratase	47900	-	calculated from amino acid sequence	Sulfolobus solfataricus	P39461	679811	
+4.2.1.2	fumarate hydratase	48000	-	4 * 48000, Fe-S-independent enzyme form, SDS-PAGE	Escherichia coli	-	33747	
+4.2.1.2	fumarate hydratase	48500	-	4 * 48500, equilibrium sedimentation in 6 M guanidine HCl, pH 4.25	Sus scrofa	-	33728	
+4.2.1.2	fumarate hydratase	49000	-	SDS-PAGE	Streptomyces lividans	-	730365	
+4.2.1.2	fumarate hydratase	50000	-	4 * 50000, enzyme form FUMC, SDS-PAGE	Escherichia coli	-	33748	
+4.2.1.2	fumarate hydratase	50000	-	4 * 50000, SDS-PAGE	Corynebacterium glutamicum	-	678771	
+4.2.1.2	fumarate hydratase	50000	-	4 * 50000, SDS-PAGE	Corynebacterium glutamicum	Q8NRN8	678771	
+4.2.1.2	fumarate hydratase	50502	-	x * 50502, calculation from nucleotide sequence	Ascaris suum	Q7Z1D9	653771	
+4.2.1.2	fumarate hydratase	50900	-	x * 50900, about, sequence calculation, x * 43000-45000, recombinant enzyme, SDS-PAGE	Helicobacter pylori	-	714402	
+4.2.1.2	fumarate hydratase	51000	-	x * 51000, SDS-PAGE	Ascaris suum	Q7Z1D9	653771	
+4.2.1.2	fumarate hydratase	60000	-	2 * 60000, enzyme form FUMA, SDS-PAGE	Escherichia coli	-	33768	
+4.2.1.2	fumarate hydratase	60000	-	2 * 60000, SDS-PAGE	Bacteria	-	33762	
+4.2.1.2	fumarate hydratase	60000	-	2 * 60000, SDS-PAGE	Euglena gracilis	-	33751	
+4.2.1.2	fumarate hydratase	61000	-	2 * 61000, enzyme form FUMA, SDS-PAGE	Escherichia coli	-	33748	
+4.2.1.2	fumarate hydratase	61100	-	calculated from cDNA	Leishmania major	-	729840	
+4.2.1.2	fumarate hydratase	62600	-	calculated from cDNA	Leishmania major	-	729840	
+4.2.1.2	fumarate hydratase	64200	-	gel filtration	Pelotomaculum thermopropionicum	-	679910	
+4.2.1.2	fumarate hydratase	114000	-	gel filtration	Bacteria	-	33762	
+4.2.1.2	fumarate hydratase	120000	-	enzyme form FUMA, gel filtration	Escherichia coli	-	33748, 33768	
+4.2.1.2	fumarate hydratase	120000	-	gel filtration	Euglena gracilis	-	33751	
+4.2.1.2	fumarate hydratase	160000	-	sucrose density gradient centrifugation	Sulfolobus solfataricus	-	33767	
+4.2.1.2	fumarate hydratase	170000	-	gel filtration	Sulfolobus solfataricus	-	33767	
+4.2.1.2	fumarate hydratase	175000	-	gel filtration	Pisum sativum	-	33773	
+4.2.1.2	fumarate hydratase	180000	-	gel filtration	Geobacillus stearothermophilus	-	33756	
+4.2.1.2	fumarate hydratase	180000	-	gel filtration	Thermus sp.	-	33756	
+4.2.1.2	fumarate hydratase	190000	-	gel filtration	Pisum sativum	-	33773	
+4.2.1.2	fumarate hydratase	194000	-	equilibrium sedimentation	Sus scrofa	-	33728	
+4.2.1.2	fumarate hydratase	198000	-	gel filtration	Thermus thermophilus	-	33772	
+4.2.1.2	fumarate hydratase	200000	-	enzyme form FUMC, gel filtration	Escherichia coli	-	33748	
+4.2.1.2	fumarate hydratase	200000	-	Fe-S-independent enzyme form, gel filtration	Escherichia coli	-	33747	
+4.2.1.2	fumarate hydratase	200000	-	gel filtration	Corynebacterium glutamicum	-	678771	
+4.2.1.2	fumarate hydratase	200000	-	gel filtration	Corynebacterium glutamicum	Q8NRN8	678771	
+4.2.1.2	fumarate hydratase	440000	-	oligomer 1, gel filtration	Helicobacter pylori	-	714402	
+4.2.1.2	fumarate hydratase	600000	-	oligomer 2, gel filtration	Helicobacter pylori	-	714402	
