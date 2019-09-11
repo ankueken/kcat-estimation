@@ -1,0 +1,34 @@
+3.5.3.1	arginase	31000	-	4 * 31000, SDS-PAGE	Rhodobacter capsulatus	-	172121	
+3.5.3.1	arginase	32000	-	6 * 32000, SDS-PAGE	Bacillus brevis Nagano	-	172125	
+3.5.3.1	arginase	33000	-	4 * 33000, SDS-PAGE	Bacillus brevis TT02-8	-	172134	
+3.5.3.1	arginase	34000	-	1 * 34000 + 1 * 52000, SDS-PAGE	Eidolon helvum	-	687129	
+3.5.3.1	arginase	34000	-	x * 34000, SDS-PAGE	Pista pacifica	-	172105	
+3.5.3.1	arginase	36500	-	6 * 36500, SDS-PAGE	Iris x hollandica	-	172110	
+3.5.3.1	arginase	37000	-	x * 37000, SDS-PAGE	Penicillium chrysogenum	-	733226	
+3.5.3.1	arginase	37000	-	x * 37000, SDS-PAGE and calculated	 x * 37000, SDS-PAGE and calculated	Solanum lycopersicum	-	669279
+3.5.3.1	arginase	37000	-	x * 37000, SDS-PAGE and calculated	 x * 37000, SDS-PAGE and calculated	Solanum lycopersicum	Q5UNS1	669279
+3.5.3.1	arginase	37000	-	x * 37000, SDS-PAGE and calculated	 x * 37000, SDS-PAGE and calculated	Solanum lycopersicum	Q5UNS2	669279
+3.5.3.1	arginase	38000	-	SDS-PAGE	Mus musculus	-	684344	
+3.5.3.1	arginase	40000	-	6 * 40000, SDS-PAGE	Schistosoma mansoni	-	698355	
+3.5.3.1	arginase	40000	-	6 * 40000, SDS-PAGE	Schistosoma mansoni	Q6TA39	698355	
+3.5.3.1	arginase	40000	-	x * 40000, SDS-PAGE, recombinant enzyme with His-tag	Helicobacter pylori	-	655481	
+3.5.3.1	arginase	48000	-	2 * 48000, SDS-PAGE	Heteropneustes fossilis	A0A0D5ZYA4	733678	
+3.5.3.1	arginase	48000	-	2 * 48000, SDS-PAGE	Heteropneustes fossilis	U6BQJ3	733678	
+3.5.3.1	arginase	49000	-	x * 49000, SDS-PAGE	Bacillus subtilis	P39138	734467	
+3.5.3.1	arginase	52000	-	1 * 34000 + 1 * 52000, SDS-PAGE	Eidolon helvum	-	687129	
+3.5.3.1	arginase	80000	-	gel filtration	Eidolon helvum	-	687129	
+3.5.3.1	arginase	86000	-	SDS-PAGE	Eidolon helvum	-	687129	
+3.5.3.1	arginase	96000	-	gel filtration	Heteropneustes fossilis	A0A0D5ZYA4	733678	
+3.5.3.1	arginase	96000	-	gel filtration	Heteropneustes fossilis	U6BQJ3	733678	
+3.5.3.1	arginase	117000	-	gel filtration and sucrose density gradient ultracentrifugation	Rhodobacter capsulatus	-	172121	
+3.5.3.1	arginase	126000	-	non-denaturing PAGE	Rhodobacter capsulatus	-	172121	
+3.5.3.1	arginase	138000	-	gel filtration	Glycine hispida	-	172104	
+3.5.3.1	arginase	138000	-	gel filtration	Rhodobacter capsulatus	-	172121	
+3.5.3.1	arginase	143000	-	gel filtration	Bacillus brevis TT02-8	-	172134	
+3.5.3.1	arginase	180000	-	gel filtration	Bacillus brevis Nagano	-	172125	
+3.5.3.1	arginase	191000	-	gel filtration	Iris x hollandica	-	172110	
+3.5.3.1	arginase	220000	-	gel fitration	Glycine max	-	172122	
+3.5.3.1	arginase	240000	-	gel filtration	Schistosoma mansoni	-	698355	
+3.5.3.1	arginase	240000	-	gel filtration	Schistosoma mansoni	Q6TA39	698355	
+3.5.3.1	arginase	240000	-	gradient gel electrophoresis	Glycine max	-	172122	
+3.5.3.1	arginase	330000	-	gel filtration	Evernia prunastri	-	172114	
