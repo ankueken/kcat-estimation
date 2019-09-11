@@ -1,0 +1,56 @@
+2.4.1.13	sucrose synthase	35000	-	x * 35000 + x * 70000, SDS-PAGE	Ipomoea nil	-	488541	
+2.4.1.13	sucrose synthase	70000	-	x * 35000 + x * 70000, SDS-PAGE	Ipomoea nil	-	488541	
+2.4.1.13	sucrose synthase	82000	-	calculated from sequence, enzyme form CaSUS2	Coffea arabica	-	675142	
+2.4.1.13	sucrose synthase	84000	-	2 * 84000 + 2 * 86000, SuSyI, SDS-PAGE	Beta vulgaris	Q6SJP5	660265	
+2.4.1.13	sucrose synthase	84000	-	2 * 84000 + 2 * 86000, SuSyI, SDS-PAGE	Beta vulgaris	Q94G60	660265	
+2.4.1.13	sucrose synthase	86000	-	2 * 84000 + 2 * 86000, SuSyI, SDS-PAGE	 4 * 86000, SuSyII, SDS-PAGE	Beta vulgaris	Q6SJP5	660265
+2.4.1.13	sucrose synthase	86000	-	2 * 84000 + 2 * 86000, SuSyI, SDS-PAGE	 4 * 86000, SuSyII, SDS-PAGE	Beta vulgaris	Q94G60	660265
+2.4.1.13	sucrose synthase	87000	-	4 * 87000, SDS-PAGE	Prunus persica	-	488538	
+2.4.1.13	sucrose synthase	87000	-	x * 87000, SDS-PAGE	Zea mays	-	488556	
+2.4.1.13	sucrose synthase	89000	-	x * 89000, about, sequence calculation	Cucumis sativus	-	736966	
+2.4.1.13	sucrose synthase	89000	-	x * 89000, about, sequence calculation	Cucumis sativus	K9K7W3	736966	
+2.4.1.13	sucrose synthase	90000	-	4 * 90000, SDS-PAGE	Glycine max	-	488555, 488559	
+2.4.1.13	sucrose synthase	90000	-	x * 90000, SDS-PAGE	Gossypium hirsutum	G1FNX7	720743	
+2.4.1.13	sucrose synthase	92200	-	x * 92200, calculated	Hordeum vulgare	C6H0M2	720790	
+2.4.1.13	sucrose synthase	92200	-	x * 92200, calculated	Hordeum vulgare	F8SM21	720790	
+2.4.1.13	sucrose synthase	92200	-	x * 92200, calculated	Hordeum vulgare	P31922	720790	
+2.4.1.13	sucrose synthase	92300	-	x * 92300, calculated	Hordeum vulgare	C6H0M2	720790	
+2.4.1.13	sucrose synthase	92300	-	x * 92300, calculated	Hordeum vulgare	F8SM21	720790	
+2.4.1.13	sucrose synthase	92300	-	x * 92300, calculated	Hordeum vulgare	P31922	720790	
+2.4.1.13	sucrose synthase	92500	-	calculated from sequence, enzyme form CaSUS1	Coffea arabica	-	675142	
+2.4.1.13	sucrose synthase	92600	-	4 * 92600, SDS-PAGE	Vicia faba	-	488560	
+2.4.1.13	sucrose synthase	94000	-	4 * 94000, SDS-PAGE	Vigna radiata var. radiata	-	488551	
+2.4.1.13	sucrose synthase	94000	-	4 * 94000, SuSyA, SuSyB or SuSyC, SDS-PAGE	Saccharum officinarum	-	659795	
+2.4.1.13	sucrose synthase	95000	-	4 * 95000, recombinant enzyme, SDS-PAGE	Thermosynechococcus elongatus	-	736101	
+2.4.1.13	sucrose synthase	95000	-	4 * 95000, recombinant His-tagged enzyme, SDS-PAGE, each monomer contains four domains, i.e. SSN-1, SSN-2, GT-B(A), and GT-B(D), structure overview and comparisons	Nitrosomonas europaea	-	736366	
+2.4.1.13	sucrose synthase	95000	-	4 * 95000, recombinant His-tagged enzyme, SDS-PAGE, each monomer contains four domains, i.e. SSN-1, SSN-2, GT-B(A), and GT-B(D), structure overview and comparisons	Nitrosomonas europaea	Q820M5	736366	
+2.4.1.13	sucrose synthase	98700	-	x * 98700, calculated	Hordeum vulgare	C6H0M2	720790	
+2.4.1.13	sucrose synthase	98700	-	x * 98700, calculated	Hordeum vulgare	F8SM21	720790	
+2.4.1.13	sucrose synthase	98700	-	x * 98700, calculated	Hordeum vulgare	P31922	720790	
+2.4.1.13	sucrose synthase	110000	-	4 * 110000, SDS-PAGE	Musa acuminata	-	488542	
+2.4.1.13	sucrose synthase	320000	-	gel filtration	Daucus carota	-	488574	
+2.4.1.13	sucrose synthase	320000	-	SuSyI and SuSyII, gel filtration	Beta vulgaris	Q6SJP5	660265	
+2.4.1.13	sucrose synthase	320000	-	SuSyI and SuSyII, gel filtration	Beta vulgaris	Q94G60	660265	
+2.4.1.13	sucrose synthase	336000	375000	recombinant wild-type and mutant enzymes, gel filtration	Oryza sativa	Q43009	737015	
+2.4.1.13	sucrose synthase	341000	-	recombinant enzyme, gel filtration	Thermosynechococcus elongatus	-	736101	
+2.4.1.13	sucrose synthase	350000	-	gel filtration, recombinant enzyme	Vigna radiata	-	488573	
+2.4.1.13	sucrose synthase	353000	-	gel filtration	Vicia faba	-	488560	
+2.4.1.13	sucrose synthase	360000	-	gel filtration	Prunus persica	-	488538	
+2.4.1.13	sucrose synthase	360000	-	gel filtration, form SS-II	Anabaena sp.	-	488567	
+2.4.1.13	sucrose synthase	360000	-	gel filtration, SS I and SS II	Pyrus pyrifolia	-	488568	
+2.4.1.13	sucrose synthase	360000	-	recombinant His-tagged enzyme, gel filtration	Nitrosomonas europaea	-	736366	
+2.4.1.13	sucrose synthase	360000	-	recombinant His-tagged enzyme, gel filtration	Nitrosomonas europaea	Q820M5	736366	
+2.4.1.13	sucrose synthase	370000	-	germ, gel filtration	Triticum aestivum	-	488540	
+2.4.1.13	sucrose synthase	375000	-	low speed sedimentation equilibrium centrifugation	Vigna radiata var. radiata	-	488551	
+2.4.1.13	sucrose synthase	380000	-	-	Saccharum officinarum	-	659795	
+2.4.1.13	sucrose synthase	380000	-	leaf, gel filtration	Triticum aestivum	-	488540	
+2.4.1.13	sucrose synthase	380000	-	SDS-PAGE	Glycine max	-	488555	
+2.4.1.13	sucrose synthase	405000	-	gel filtration	Vigna radiata var. radiata	-	488551	
+2.4.1.13	sucrose synthase	410000	-	gel filtration	Pisum sativum	-	488543	
+2.4.1.13	sucrose synthase	412000	-	gel filtration	Glycine max	-	488555	
+2.4.1.13	sucrose synthase	420000	-	gel filtration	Ipomoea nil	-	488541	
+2.4.1.13	sucrose synthase	420000	-	gel filtration	Musa acuminata	-	488542	
+2.4.1.13	sucrose synthase	440000	-	-	Oryza sativa	-	488578	
+2.4.1.13	sucrose synthase	440000	-	gel filtration, all 4 isozymes	Oryza sativa	-	488577	
+2.4.1.13	sucrose synthase	540000	-	gel filtration	Cucumis sativus	-	488558	
+2.4.1.13	sucrose synthase	540000	-	gel filtration	Ipomoea batatas	-	488553	
