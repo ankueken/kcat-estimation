@@ -1,0 +1,32 @@
+Enzyme activity data [nmol/gFW/min] from Pyl et al. for Col-0 under five different conditions.;;;;;;;;
+Enzyme ;EC;12Â°C/12Â;16Â°C/16Â;24Â°C/12Â;24Â°C/16Â;24Â°C/24Â;;
+"nitrate
+reductase";1.7.1.1;805;457;272;205;259;;
+"alanine
+aminotrans-ferase";2.6.1.2;4010;3673;1979;2384;2988;;
+"NAD-glutamate
+DH";1.4.1.2;741;614;453;618;785;;
+"glutamine
+synthetase";6.3.1.2;1148;1323;1026;1110;1400;;
+"RubisCO
+(maximal)";4.1.1.39;7817;7136;5916;6382;5751;;
+"trans-
+ketolase";2.2.1.1;7898;7915;6909;7135;7164;;
+"NADP-
+GAPDH";1.2.1.13;15270;16461;12411;13231;12799;;
+"pyruvate
+kinase";2.7.1.40;1625;1162;986;748;904;;
+"phospho-fructo-
+kinase (ATP)";2.7.1.1;415;385;262;295;321;;
+"NAD-
+GAPDH";1.2.1.12;24698;21380;19396;18788;17587;;
+"phospho-enolpyruvate
+carboxylase";4.1.1.49;980;742;536;499;516;;
+"NAD-
+malate DH";1.1.1.37;184653;156454;144729;136787;149877;;
+fumarase;4.2.1.2;3450;4000;4083;3658;3380;;
+"sucrose
+phosphate synthase";2.4.1.14;756;473;218;460;522;;
+"phospho-gluco
+isomerase (cytosolic)";5.3.1.9;1371;1261;833;907;1043;;
+AGPase;2.7.7.27;1254;1016;1106;1098;787;;

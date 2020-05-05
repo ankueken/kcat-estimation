@@ -1,0 +1,732 @@
+4.1.1.39	ribulose-bisphosphate carboxylase	0.00185	-	CO2	Vmax carboxylation: 3.78 micromol/min/mg	Zoysia japonica	-	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.00185	-	CO2	Vmax carboxylation: 3.78 micromol/min/mg	Zoysia japonica	B0B758	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0021	-	CO2	Vmax carboxylation: 3.41 micromol/min/mg	Cynodon dactylon	-	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0021	-	CO2	Vmax carboxylation: 3.41 micromol/min/mg	Cynodon dactylon	B0B766	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.004	-	CO2	20°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0051	-	CO2	pH 7.8, 25°C, mutant Val-335, in vivo	Nicotiana tabacum	-	28	653504	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.00534	-	CO2	pH 7.8, 35°C	Coffea arabica	-	28	653431	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0064	-	CO2	20°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0066	-	CO2	20°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0067	-	CO2	20°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0068	-	CO2	20°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0068	-	CO2	20°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0069	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.007	-	CO2	25°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0075	-	CO2	20°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0078	-	CO2	20°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0078	-	CO2	experimental conditions not available	Hibiscus cannabinus	-	28	651470	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0083	-	CO2	20°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0086	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0086	-	CO2	pH 7.8, 25°C, wild-type and mutant Val-335, in vivo	Nicotiana tabacum	-	28	653504	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0087	-	CO2	20°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0088	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0088	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza sativa Japonica Group	A0A1C3HPR7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.009	-	CO2	nonoxygenic conditions, pH 8.0, 25°C	Hordeum vulgare	-	28	748980	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0096	-	CO2	20°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0096	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0097	-	CO2	pH 8.2, 30°C	Flaveria cronquistii	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0098	-	CO2	20°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0098	-	CO2	20°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0099	-	CO2	20°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0099	-	CO2	20°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.01	-	CO2	20°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0101	-	CO2	20°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0101	-	CO2	20°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0101	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0102	-	CO2	20°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0102	-	CO2	20°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0102	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0103	-	CO2	20°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0105	-	CO2	20°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0106	-	CO2	20°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0106	-	CO2	20°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0106	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0107	-	CO2	20°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0107	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0107	-	CO2	pH 7.8, 25°C, wild-type, in vitro	Nicotiana tabacum	-	28	653504	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0109	-	CO2	20°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0109	-	CO2	Vmax carboxylation: 2.54 micromol/min/mg	Paspalum dilatatum	-	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0109	-	CO2	Vmax carboxylation: 2.54 micromol/min/mg	Paspalum dilatatum	B0B744	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.011	-	CO2	20°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0111	-	CO2	20°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0111	-	CO2	nonoxygenic conditions, pH 8.0, 25°C	Lactuca sativa	-	28	748980	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0113	-	CO2	20°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0114	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0114	-	CO2	pH 8.2, 30°C	Flaveria pringlei	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0115	-	CO2	20°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0115	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0115	-	CO2	25°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0116	-	CO2	20°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0117	-	CO2	20°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0118	-	CO2	20°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0118	-	CO2	20°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0118	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0118	-	CO2	25°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0119	-	CO2	pH 8.2, 30°C	Flaveria floridana	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0122	-	CO2	20°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0122	-	CO2	20°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0122	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0123	-	CO2	20°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0124	-	CO2	20°C, pH not specified in the publication	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0124	-	CO2	20°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0124	-	CO2	25°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0125	-	CO2	pH 8.2, 30°C	Flaveria angustifolia	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0127	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0128	-	CO2	25°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0129	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.013	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0131	-	CO2	20°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0131	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0132	-	CO2	20°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0132	-	CO2	25°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0133	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0134	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0135	-	CO2	-	Abelmoschus esculentus	-	28	651470	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0135	-	CO2	20°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0135	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0135	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0137	-	CO2	25°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0138	-	CO2	20°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0138	-	CO2	30°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.014	-	CO2	20°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.014	-	CO2	25°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0141	-	CO2	25°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0142	-	CO2	25°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0142	-	CO2	25°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0143	-	CO2	20°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0144	-	CO2	20°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0144	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0145	-	CO2	20°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0145	-	CO2	25°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0146	-	CO2	25°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0148	-	CO2	20°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0149	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0149	-	CO2	25°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0149	-	CO2	25°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0149	-	CO2	presence of 21% oxygen, pH 8.0, 25°C	Hordeum vulgare	-	28	748980	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.015	-	CO2	20°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.015	-	CO2	20°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.015	-	CO2	25°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.015	-	CO2	30°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0151	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0151	-	CO2	25°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0152	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0152	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0152	-	CO2	25°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0152	-	CO2	25°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0153	-	CO2	20°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0154	-	CO2	20°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0154	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0154	-	CO2	25°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0154	-	CO2	30°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	20°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	20°C, pH not specified in the publication, presence of 21% O2; 30°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	25°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	25°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0156	-	CO2	25°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0158	-	CO2	20°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0158	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0158	-	CO2	25°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0159	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0159	-	CO2	25°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0159	-	CO2	30°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.016	-	CO2	-	Hydrogenophaga pseudoflava	-	28	4510	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0162	-	CO2	20°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0162	-	CO2	25°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0163	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0164	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0164	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0164	-	CO2	30°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0164	-	CO2	30°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0165	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0165	-	CO2	30°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0166	-	CO2	30°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0167	-	CO2	20°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0167	-	CO2	30°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0168	-	CO2	20°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0168	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0168	-	CO2	30°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0169	-	CO2	20°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0169	-	CO2	25°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.017	-	CO2	20°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.017	-	CO2	25°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.017	-	CO2	25°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0171	-	CO2	20°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0171	-	CO2	30°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0172	-	CO2	20°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0172	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0172	-	CO2	25°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0172	-	CO2	30°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0173	-	CO2	25°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0173	-	CO2	30°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0173	-	CO2	30°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0174	-	CO2	25°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0174	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0174	-	CO2	30°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0174	-	CO2	30°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0176	-	CO2	20°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0176	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0178	-	CO2	30°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0179	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0181	-	CO2	25°C, pH not specified in the publication, presence of 21% O2; 30°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0182	-	CO2	-	Mallomonas papillosa	-	28	694584	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0182	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0182	-	CO2	presence of 21% oxygen, pH 8.0, 25°C	Lactuca sativa	-	28	748980	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0183	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0183	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	25°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	30°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	30°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	30°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	30°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0184	-	CO2	pH 8.2, 30°C	Flaveria trinervia	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0187	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0187	-	CO2	30°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0188	-	CO2	20°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0188	-	CO2	25°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0189	-	CO2	25°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.019	-	CO2	20°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.019	-	CO2	20°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.019	-	CO2	25°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.019	-	CO2	Vmax carboxylation: 3.11 micromol/min/mg	Paspalum dilatatum	-	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.019	-	CO2	Vmax carboxylation: 3.11 micromol/min/mg	Paspalum dilatatum	B0B744	28	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0192	-	CO2	20°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0192	-	CO2	25°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0192	-	CO2	25°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0193	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0194	-	CO2	25°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0195	-	CO2	20°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0195	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0195	-	CO2	25°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0195	-	CO2	pH 8.2, 30°C	Flaveria bidentis	-	28	748856	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0196	-	CO2	20°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0196	-	CO2	30°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0196	-	CO2	30°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0196	-	CO2	30°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0197	-	CO2	25°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0198	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0199	-	CO2	20°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0199	-	CO2	20°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0199	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0201	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0201	-	CO2	25°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0201	-	CO2	25°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0201	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0201	-	CO2	30°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0202	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0202	-	CO2	25°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0202	-	CO2	30°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0202	-	CO2	30°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0202	-	CO2	30°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0203	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0203	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0203	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Tephrosia purpurea	A0A1C3HPU3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0204	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0204	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0205	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0205	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0206	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0206	-	CO2	30°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0207	-	CO2	25°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0208	-	CO2	25°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0208	-	CO2	30°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0209	-	CO2	25°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0209	-	CO2	25°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.021	-	CO2	25°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0211	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0212	-	CO2	25°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0212	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0212	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0213	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0213	-	CO2	30°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0214	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0215	-	CO2	25°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0216	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0216	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0216	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0216	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0217	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Tephrosia rhodesica	A0A1C3HPT8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0217	-	CO2	25°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0217	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0217	-	CO2	recombinant enzyme expressed in Oryza sativa transgenic line SS10, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28°C	Sorghum bicolor	-	28	716621	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0219	-	CO2	30°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.022	-	CO2	25°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.022	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.022	-	CO2	30°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.022	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Desmodium cinereum	A0A1C3HPP3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0221	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0222	-	CO2	25°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0222	-	CO2	30°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0223	-	CO2	25°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0223	-	CO2	30°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0223	-	CO2	30°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0223	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0224	-	CO2	recombinant enzyme expressed in Oryza sativa transgenic line SS16, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28°C	Sorghum bicolor	-	28	716621	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0225	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0226	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0227	-	CO2	25°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0228	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0228	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0228	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza eichingeri	A0A1C3HPQ6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0228	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0229	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0229	-	CO2	30°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0229	-	CO2	30°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0231	-	CO2	25°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0232	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0234	-	CO2	30°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0235	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0235	-	CO2	30°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0235	-	CO2	30°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0238	-	CO2	25°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0238	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0238	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0238	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Tephrosia purpurea	A0A1C3HPU3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0239	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.024	-	CO2	recombinant enzyme expressed in Oryza sativa transgenic line SS5, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28°C	Sorghum bicolor	-	28	716621	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0241	-	CO2	20°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0241	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0242	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Desmodium psilocarpum	A0A1C3HPP4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0242	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0243	-	CO2	20°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0244	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0245	-	CO2	20°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0247	-	CO2	30°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0248	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0249	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0249	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0249	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.025	-	CO2	25°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0251	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0251	-	CO2	25°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0251	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Tephrosia candida	A0A1C3HPU0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0252	-	CO2	25°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0252	-	CO2	25°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0252	-	CO2	25°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0252	-	CO2	30°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0252	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza glumipatula	A0A1C3HPQ8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0253	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Glycine canescens	A0A1C3HPP9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0254	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0254	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0254	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza sativa Indica Group	A0A1C3HPR8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0256	-	CO2	25°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0257	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0257	-	CO2	30°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0257	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza longistaminata	A0A1C3HPS5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0258	-	CO2	25°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0259	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0259	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0259	-	CO2	30°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0259	-	CO2	30°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0259	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza sativa f. spontanea	A0A1C3HPR9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0261	-	CO2	30°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0262	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0262	-	CO2	30°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0262	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza meridionalis	A0A1C3HPS1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0263	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0264	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0264	-	CO2	25°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0264	-	CO2	30°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0265	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0265	-	CO2	30°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0266	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0266	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0266	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza glaberrima	A0A1C3HPR3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0267	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0268	-	CO2	Rubisco purified from Chlamydomonas reinhardtii containing Nicotiana tabacum small subunit RbcS-M, pH 8.0, temperature not specified in the publication	Nicotiana tabacum	DV157962	28	748987	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0269	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0269	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oxybasis rubra	A0A1C3HPN3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.027	-	CO2	30°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0271	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0271	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Euphorbia helioscopia	A0A1C3HPN6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0272	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0272	-	CO2	30°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0275	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0276	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0277	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Flueggea suffruticosa	A0A1C3HPP8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0277	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Musa velutina	A0A1C3HPQ7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0279	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0279	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0281	-	CO2	25°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0281	-	CO2	25°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0282	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0284	-	CO2	-	Synura petersenii	-	28	694584	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0284	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Phaseolus coccineus	A0A1C3HPT4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0286	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Glycine max	A0A1C3HPQ3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0287	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0287	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Mercurialis annua	A0A1C3HPR2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0287	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza sativa Japonica Group	A0A1C3HPR7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0288	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.029	-	CO2	25°C, pH not specified in the publication	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0291	-	CO2	25°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0291	-	CO2	30°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0292	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0294	-	CO2	20°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0294	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0294	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Calamagrostis nutkaensis	A0A1C3HPN0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0295	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0295	-	CO2	30°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0296	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0297	-	CO2	30°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0297	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0297	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Phaseolus carteri	A0A1C3HPS2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0299	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Deschampsia danthonioides	A0A1C3HPP5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0299	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Lepidium campestre	A0A1C3HPQ1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.03	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Poa palustris	A0A1C3HPT1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0301	-	CO2	20°C, pH not specified in the publication	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0304	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0305	-	CO2	30°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0306	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0307	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0308	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0311	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Sphenostylis stenocarpa	A0A1C3HPT2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0312	-	CO2	25°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0313	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0315	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Hordeum murinum	A0A1C3HPQ4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0315	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Puccinellia maritima	A0A1C3HPT0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0319	-	CO2	25°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.032	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Elymus farctus	A0A1C3HPN9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.032	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Manihot esculenta	A0A1C3HPQ9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0321	-	CO2	30°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0321	-	CO2	30°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0321	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Bromus anomalus	A0A1C3HPM1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0321	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Oryza punctata	A0A1C3HPS0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0322	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Triticum aestivum	A0A1C3HPU2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0325	-	CO2	30°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0326	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Calamagrostis arundinacea	A0A1C3HPL9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0327	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0327	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0329	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0331	-	CO2	25°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0332	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0332	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Erythrina flabelliformis	A0A1C3HPP1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0334	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0335	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Citrullus lanatus	A0A1C3HPN1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0335	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Hordeum brachyantherum	A0A1C3HPQ0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0336	-	CO2	30°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0337	-	CO2	30°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0337	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0339	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0339	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0339	-	CO2	30°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.034	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0343	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Lablab purpureus	A0A1C3HPP6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0344	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Puccinellia nuttalliana	A0A1C3HPS6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0344	-	CO2	30°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0344	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Agrostis scabra	A0A1C3HPM5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0345	-	CO2	30°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0346	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0346	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Macrotyloma uniflorum	A0A1C3HPR0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0349	-	CO2	25°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0349	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Phaseolus lunatus	A0A1C3HPT3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0353	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0356	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Calamagrostis canescens	A0A1C3HPN2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0359	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0362	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0363	-	CO2	25°C, pH not specified in the publication	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0367	-	CO2	30°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0368	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0369	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.037	-	CO2	-	Acinetobacter sp.	-	28	4510	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.037	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0374	-	CO2	20°C, pH not specified in the publication, presence of 21% O2	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0375	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0377	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Euphorbia microsphaera	A0A1C3HPP0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0377	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Pueraria montana	A0A1C3HPT5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0378	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Beta vulgaris	A0A1C3HPL8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.038	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Calamagrostis foliosa	A0A1C3HPN4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0383	-	CO2	30°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0384	-	CO2	Rubisco purified from Chlamydomonas reinhardtii containing Nicotiana tabacum small subunit RbcS-T, pH 8.0, temperature not specified in the publication	Nicotiana tabacum	DV157962	28	748987	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0388	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.039	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Citrullus ecirrhosus	A0A1C3HPM8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.039	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0394	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Artemisia myriantha	A0A1C3HPM2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0399	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.04	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Arctagrostis latifolia	A0A1C3HPM4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0401	-	CO2	30°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0405	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Chenopodiastrum murale	A0A1C3HPN5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0413	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Puccinellia lemmonii	A0A1C3HPS7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0414	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0415	-	CO2	wild type enzyme, in 100 mM Bicine-NaOH, 1 mM EDTA, 5 mM MgCl2, 2 mM NaH2PO4, 0.4% (w/v) bovine serum albumin, 5 mM dithiothreitol, 4 mM amino-n-caproic acid, and 0.8 mM benzamidine, pH 8.0, at 28°C	Sorghum bicolor	-	28	716621	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0416	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Panicum amarum	A0A1C3HPS4	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0418	-	CO2	-	Synura uvella	-	28	694584	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.042	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Panicum phragmitoides	A0A1C3HPS3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0424	-	CO2	30°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0426	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0438	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Nicotiana tabacum	A0A1C3HPR1	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0439	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0444	-	CO2	30°C, pH not specified in the publication	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0446	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Phaseolus vulgaris	A0A1C3HPS8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0455	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Lolium rigidum	A0A1C3HPR5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.046	-	CO2	apparent value	Sulfobacillus thermosulfidooxidans	-	28	681796	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0463	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Foeniculum vulgare	A0A1C3HPQ2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0466	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0474	-	CO2	30°C, pH not specified in the publication	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0482	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Festuca pratensis	A0A1C3HPQ5	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0483	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Agriophyllum squarrosum	A0A1C3HPL7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0486	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Blitum petiolare	A0A1C3HPM9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0489	-	CO2	pH 7.5, temperature not specified in the publication	Skeletonema costatum	-	28	747912	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0489	-	CO2	pH 7.5, temperature not specified in the publication	Skeletonema costatum	A0A097IV41	28	747912	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0498	-	CO2	30°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.05	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Agrostis stolonifera	A0A1C3HPL6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0501	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Desmodium intortum	A0A1C3HPN7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0517	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0521	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Macrotyloma uniflorum	A0A1C3HPR0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0522	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Chrysanthellum indicum	A0A1C3HPM6	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0531	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Puccinellia distans	A0A1C3HPS9	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0535	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Amphicarpaea bracteata	A0A1C3HPM0	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.054	-	CO2	apparent value	Acidithiobacillus ferrooxidans	-	28	681796	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0543	-	CO2	-	Thermosynechococcus elongatus	-	28	694576	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0549	-	CO2	25°C, pH not specified in the publication, presence of 21% O2	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0557	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Lolium multiflorum	A0A1C3HPP7	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0582	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Panicum dichotomiflorum	-	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0621	-	CO2	30°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0633	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Festuca gigantea	A0A1C3HPN8	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0675	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Eragrostis tef	A0A1C3HPP2	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0676	-	O2	25°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.0809	-	CO2	30°C, pH not specified in the publication, presence of 21% O2	Artemisia vulgaris	A0A1C3HPM3	28	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.126	-	CO2	-	Thiomicrospira thyasirae	-	28	4493	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.13	-	CO2	-	Symphytum sp.	-	28	4470	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.13	-	CO2	pentamer	Methanococcoides burtonii	-	28	704590	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.143	-	CO2	mutant A375V	Synechococcus	-	28	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.168	-	O2	20°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.186	-	CO2	wild-type	Synechococcus	-	28	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.264	-	O2	20°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.269	-	O2	25°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.284	-	O2	30°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.29	-	O2	20°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.294	-	CO2	mutant D103V/A375V	Synechococcus	-	28	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.297	-	O2	30°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.3	-	O2	25°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.311	-	O2	20°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.311	-	O2	25°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.317	-	O2	30°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.328	-	O2	30°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.33	-	O2	25°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.333	-	O2	25°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.336	-	O2	20°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.336	-	O2	25°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.337	-	O2	30°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.339	-	O2	25°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.34	-	O2	20°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.341	-	O2	Vmax oxygenation: 0.79 micromol/min/mg	Paspalum dilatatum	-	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.341	-	O2	Vmax oxygenation: 0.79 micromol/min/mg	Paspalum dilatatum	B0B744	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.342	-	O2	25°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.344	-	O2	30°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.346	-	O2	25°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.349	-	O2	30°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.354	-	O2	25°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.358	-	O2	30°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.358	-	O2	30°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.366	-	O2	30°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.371	-	O2	20°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.371	-	O2	25°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.374	-	O2	30°C, pH not specified in the publication	Agriophyllum squarrosum	A0A1C3HPL7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.378	-	O2	30°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.38	-	O2	20°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.382	-	O2	25°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.385	-	O2	20°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.388	-	CO2	mutant D103V	Synechococcus	-	28	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.388	-	O2	20°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.39	-	O2	30°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.394	-	O2	25°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.396	-	O2	20°C, pH not specified in the publication	Lepidium campestre	A0A1C3HPQ1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.401	-	O2	25°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.402	-	O2	30°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.402	-	O2	Vmax oxygenation: 0.73 micromol/min/mg	Cynodon dactylon	-	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.402	-	O2	Vmax oxygenation: 0.73 micromol/min/mg	Cynodon dactylon	B0B766	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.403	-	O2	25°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.403	-	O2	30°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.403	-	O2	Vmax oxygenation: 0.98 micromol/min/mg	Zoysia japonica	-	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.403	-	O2	Vmax oxygenation: 0.98 micromol/min/mg	Zoysia japonica	B0B758	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.405	-	O2	30°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.406	-	O2	20°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.414	-	O2	30°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.415	-	O2	Vmax oxygenation: 0.71 micromol/min/mg	Paspalum dilatatum	-	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.415	-	O2	Vmax oxygenation: 0.71 micromol/min/mg	Paspalum dilatatum	B0B744	9	704890	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.417	-	O2	20°C, pH not specified in the publication	Chenopodiastrum murale	A0A1C3HPN5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.417	-	O2	25°C, pH not specified in the publication	Mercurialis annua	A0A1C3HPR2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.422	-	O2	25°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.426	-	O2	30°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.427	-	O2	30°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.428	-	O2	20°C, pH not specified in the publication	Calamagrostis foliosa	A0A1C3HPN4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.429	-	O2	20°C, pH not specified in the publication	Oryza punctata	A0A1C3HPS0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.436	-	O2	30°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.437	-	O2	30°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.438	-	O2	30°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.441	-	O2	30°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.443	-	O2	20°C, pH not specified in the publication	Oryza sativa Indica Group	A0A1C3HPR8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.447	-	O2	20°C, pH not specified in the publication	Oxybasis rubra	A0A1C3HPN3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.447	-	O2	30°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.451	-	O2	30°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.452	-	O2	25°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.452	-	O2	25°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.453	-	O2	25°C, pH not specified in the publication	Euphorbia helioscopia	A0A1C3HPN6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.462	-	O2	30°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.463	-	O2	25°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.469	-	O2	25°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.47	1	O2	20°C, pH not specified in the publication	Desmodium cinereum	A0A1C3HPP3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.474	-	O2	30°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.475	-	O2	30°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.479	-	O2	25°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.48	-	O2	30°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.481	-	O2	25°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.482	-	O2	30°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.484	-	O2	25°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.487	-	O2	20°C, pH not specified in the publication	Oryza sativa Japonica Group	A0A1C3HPR7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.488	-	O2	25°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.49	2	O2	20°C, pH not specified in the publication	Tephrosia purpurea	A0A1C3HPU3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.491	-	O2	25°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.494	-	O2	25°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.497	-	O2	25°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.502	-	O2	30°C, pH not specified in the publication	Phaseolus vulgaris	A0A1C3HPS8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.504	-	O2	30°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.506	-	O2	30°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.51	-	O2	25°C, pH not specified in the publication	Citrullus lanatus	A0A1C3HPN1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.511	-	O2	25°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.512	-	O2	25°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.518	-	O2	20°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.519	-	O2	25°C, pH not specified in the publication	Macrotyloma uniflorum	A0A1C3HPR0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.519	-	O2	30°C, pH not specified in the publication	Hordeum brachyantherum	A0A1C3HPQ0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.52	-	O2	25°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.529	-	O2	20°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.53	-	O2	30°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.531	-	O2	30°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.532	-	O2	30°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.534	-	O2	20°C, pH not specified in the publication	Desmodium psilocarpum	A0A1C3HPP4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.537	-	O2	25°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.539	-	O2	20°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.539	-	O2	30°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.539	-	O2	30°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.544	-	O2	25°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.545	-	O2	30°C, pH not specified in the publication	Desmodium intortum	A0A1C3HPN7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.546	-	O2	25°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.547	-	O2	25°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.549	-	O2	30°C, pH not specified in the publication	Elymus farctus	A0A1C3HPN9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.549	-	O2	30°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.549	-	O2	30°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.551	-	O2	20°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.552	-	O2	20°C, pH not specified in the publication	Oryza meridionalis	A0A1C3HPS1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.553	-	O2	30°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.556	-	O2	25°C, pH not specified in the publication	Lablab purpureus	A0A1C3HPP6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.556	-	O2	30°C, pH not specified in the publication	Phaseolus lunatus	A0A1C3HPT3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.564	-	O2	25°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.565	-	O2	25°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.566	-	O2	25°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.569	-	O2	20°C, pH not specified in the publication	Phaseolus carteri	A0A1C3HPS2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.573	-	O2	20°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.573	-	O2	20°C, pH not specified in the publication	Foeniculum vulgare	A0A1C3HPQ2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.574	-	O2	25°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.575	-	O2	30°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.58	-	O2	25°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.582	-	O2	30°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.586	-	O2	25°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.587	-	O2	20°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.587	-	O2	25°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.589	-	O2	25°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.589	-	O2	30°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.589	-	O2	30°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.592	-	O2	20°C, pH not specified in the publication	Phaseolus coccineus	A0A1C3HPT4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.594	-	O2	25°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.595	-	O2	25°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.598	-	O2	20°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.598	-	O2	25°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.601	-	O2	25°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.608	-	O2	25°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.608	-	O2	25°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.612	-	O2	25°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.614	-	O2	25°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.62	-	O2	20°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.622	-	O2	30°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.626	-	O2	25°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.64	-	O2	25°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.643	-	O2	20°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.645	-	O2	20°C, pH not specified in the publication	Manihot esculenta	A0A1C3HPQ9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.649	-	O2	30°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.65	-	O2	30°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.653	-	O2	25°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.655	-	O2	30°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.658	-	O2	25°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.659	-	O2	20°C, pH not specified in the publication	Beta vulgaris	A0A1C3HPL8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.66	-	O2	25°C, pH not specified in the publication	Glycine max	A0A1C3HPQ3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.664	-	O2	20°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.665	-	O2	25°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.665	-	O2	30°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.667	-	O2	30°C, pH not specified in the publication	Puccinellia distans	A0A1C3HPS9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.672	-	O2	20°C, pH not specified in the publication	Poa palustris	A0A1C3HPT1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.676	-	O2	20°C, pH not specified in the publication	Calamagrostis stricta subsp. inexpansa	A0A1C3HPM7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.679	-	O2	25°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.686	-	O2	25°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.687	-	O2	25°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.69	-	O2	20°C, pH not specified in the publication	Sphenostylis stenocarpa	A0A1C3HPT2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.693	-	O2	25°C, pH not specified in the publication	Amphicarpaea bracteata	A0A1C3HPM0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.708	-	O2	20°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.717	-	O2	25°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.722	-	O2	30°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.729	-	O2	20°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.732	-	O2	20°C, pH not specified in the publication	Festuca pratensis	A0A1C3HPQ5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.735	-	O2	30°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.74	-	O2	25°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.742	-	O2	30°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.748	-	O2	20°C, pH not specified in the publication	Bromus anomalus	A0A1C3HPM1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.75	-	O2	20°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.753	-	O2	30°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.757	-	O2	25°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.766	-	O2	20°C, pH not specified in the publication	Blitum petiolare	A0A1C3HPM9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.767	-	O2	20°C, pH not specified in the publication	Calamagrostis nutkaensis	A0A1C3HPN0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.767	-	O2	20°C, pH not specified in the publication	Citrullus ecirrhosus	A0A1C3HPM8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.767	-	O2	30°C, pH not specified in the publication	Glycine canescens	A0A1C3HPP9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.768	-	O2	30°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.769	-	O2	20°C, pH not specified in the publication	Oryza longistaminata	A0A1C3HPS5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.789	-	O2	20°C, pH not specified in the publication	Tephrosia candida	A0A1C3HPU0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.789	-	O2	30°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.79	-	O2	30°C, pH not specified in the publication	Artemisia vulgaris	A0A1C3HPM3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.797	-	O2	20°C, pH not specified in the publication	Oryza barthii x Oryza glaberrima	A0A1C3HPR4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.797	-	O2	30°C, pH not specified in the publication	Flueggea suffruticosa	A0A1C3HPP8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.798	-	O2	30°C, pH not specified in the publication	Hordeum murinum	A0A1C3HPQ4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.8	-	O2	25°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.8	-	O2	30°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.802	-	O2	25°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.813	-	O2	30°C, pH not specified in the publication	Eragrostis tef	A0A1C3HPP2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.834	-	O2	20°C, pH not specified in the publication	Arctagrostis latifolia	A0A1C3HPM4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.844	-	O2	25°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.849	-	O2	20°C, pH not specified in the publication	Lolium rigidum	A0A1C3HPR5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.85	-	O2	wild-type	Synechococcus	-	9	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.866	-	O2	mutant D103V	Synechococcus	-	9	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.867	-	O2	20°C, pH not specified in the publication	Oryza glumipatula	A0A1C3HPQ8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.9	-	O2	-	Thiomicrospira thyasirae	-	9	4493	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.902	-	O2	30°C, pH not specified in the publication	Euphorbia microsphaera	A0A1C3HPP0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.905	-	O2	25°C, pH not specified in the publication	Triticum monococcum subsp. aegilopoides	A0A1C3HPT9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.91	-	O2	20°C, pH not specified in the publication	Triticum aestivum	A0A1C3HPU2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.941	-	O2	20°C, pH not specified in the publication	Musa velutina	A0A1C3HPQ7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.945	-	O2	20°C, pH not specified in the publication	Puccinellia nuttalliana	A0A1C3HPS6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.963	-	O2	20°C, pH not specified in the publication	Chrysanthellum indicum	A0A1C3HPM6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.964	-	O2	20°C, pH not specified in the publication	Lolium multiflorum	A0A1C3HPP7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.967	-	O2	30°C, pH not specified in the publication	Erythrina flabelliformis	A0A1C3HPP1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.98	-	O2	20°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	0.995	-	O2	30°C, pH not specified in the publication	Calamagrostis arundinacea	A0A1C3HPL9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.001	-	O2	30°C, pH not specified in the publication	Panicum dichotomiflorum	-	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.027	-	O2	20°C, pH not specified in the publication	Puccinellia maritima	A0A1C3HPT0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.039	-	O2	20°C, pH not specified in the publication	Nicotiana tabacum	A0A1C3HPR1	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.067	-	O2	20°C, pH not specified in the publication	Festuca gigantea	A0A1C3HPN8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.072	-	O2	20°C, pH not specified in the publication	Oryza glaberrima	A0A1C3HPR3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.085	-	O2	20°C, pH not specified in the publication	Calamagrostis canescens	A0A1C3HPN2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.088	-	O2	mutant A375V	Synechococcus	-	9	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.09	-	O2	20°C, pH not specified in the publication	Oryza eichingeri	A0A1C3HPQ6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.112	-	O2	20°C, pH not specified in the publication	Deschampsia danthonioides	A0A1C3HPP5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.117	-	O2	25°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.126	-	O2	30°C, pH not specified in the publication	Artemisia myriantha	A0A1C3HPM2	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.131	-	O2	30°C, pH not specified in the publication	Panicum amarum	A0A1C3HPS4	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.153	-	O2	mutant D103V/A375V	Synechococcus	-	9	702349	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.189	-	O2	30°C, pH not specified in the publication	Amphicarpaea bracteata	A0A1C3HPM0	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.191	-	O2	20°C, pH not specified in the publication	Puccinellia lemmonii	A0A1C3HPS7	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.275	-	O2	20°C, pH not specified in the publication	Panicum dichotomiflorum	-	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.312	-	O2	20°C, pH not specified in the publication	Agrostis scabra	A0A1C3HPM5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.347	-	O2	20°C, pH not specified in the publication	Agrostis stolonifera	A0A1C3HPL6	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.39	-	O2	20°C, pH not specified in the publication	Pueraria montana	A0A1C3HPT5	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.535	-	O2	25°C, pH not specified in the publication	Panicum dichotomiflorum	-	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.76	-	O2	20°C, pH not specified in the publication	Oryza sativa f. spontanea	A0A1C3HPR9	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	1.87	-	O2	20°C, pH not specified in the publication	Panicum phragmitoides	A0A1C3HPS3	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	2.03	-	O2	30°C, pH not specified in the publication	Tephrosia rhodesica	A0A1C3HPT8	9	748985	
+4.1.1.39	ribulose-bisphosphate carboxylase	2.5	-	O2	pentamer	Methanococcoides burtonii	-	9	704590	

@@ -1,70 +1,6 @@
 clear
-%% Load model and set physiological constraints
-%% 
-% * AraCORE model 
-% * photoautotrophic growth
-% * unit: umol/gDW/d
+load_model
 
-model = readCbModel('Data/AraCORE_Arnold/ArabidopsisCoreModel.xml');
-model.rxnGeneMat = zeros(length(model.rxns),length(model.genes));
-for i=1:length(model.genes)
-    for j=1:length(model.rxns)
-        if ~isempty(strfind(model.rules{j},strcat('x(',num2str(i),')')))
-            model.rxnGeneMat(j,i)=1;
-        end
-    end
-end
-
-%% bounds for photoautotrophic growth
-bounds = readtable('Data/AraCORE_Arnold/AraCORE_photoautotrophic_bounds.csv');
-model.lb = bounds{:,2};model.ub = bounds{:,3};
-model.rev = zeros(size(model.rxns));
-model.rev(model.lb<0) = 1;
-
-model_irr = split_rxns(model);
-model_irr.c(:) = 0;
-
-model_irr.csense=repmat('E',size(model_irr.b));
-lb_orig = model_irr.lb;
-ub_orig = model_irr.ub;
-
-%%
-DIRECTION=ones(size(model_irr.rxns));
-for i=1:length(model_irr.rxns)
-    REV=strcmp(model_irr.rxns{i}(end-3:end),'_rev');
-    if REV==1
-        DIRECTION(i)=-1;
-    end
-end
-
-[EC,~,IC] = unique(model_irr.rxnECNumbers);
-
-Z=zeros(0,size(model_irr.S,2));
-for i=1:length(EC)
-    Z(end+1,IC==i) = DIRECTION(IC==i);
-    T=unique(cell2table(model_irr.subSystems(IC==i)));
-    Pathways{i,1} = T{:,1};
-end
-
-for i=1:length(EC)
-    enzyme_gene_matrix(i,:)=max(model_irr.rxnGeneMat(IC==i,:),[],1);
-end
-
-%% for those with available abundance which EC have multiple rxns assigned
-multiple_rxns=sum(Z')'>1;
-
-for i=1:length(EC)
-    id=find(Z(i,1:379)~=0); % exclude transport rxns, biomass
-    
-    comp_temp=[];
-    for j=1:length(id)
-        comp_temp{j}=model_irr.rxns{id(j)}(end);
-    end
-    Comp.names{i} = strjoin(unique(comp_temp),',');
-    Comp.number(i) = length(unique(comp_temp));
-end
-%% 
-% 
 kcat=readtable('Data/kcat_final_no_mutant.csv','Delimiter','\t'); % kcat BRENDA
 for i=1:length(EC)
     if isempty(find(strcmp(kcat.EC,EC(i))))
@@ -110,7 +46,7 @@ kcat_np=kcat_BRENDA;
 kcat_np(kcat_BRENDA_taxa<=18)=nan;
 
 load('Result1.mat','vmax_combined_all')
-load('Result3_opt_ratios.mat','v','abundance_per_EC_mg_gDW_Pyl','abundance_per_EC_mg_gFW_Piques','abundance_per_EC_mg_gFW_Seaton','Z','Comp','MW_*','var1')
+load('Result2.mat','best_row_ss_light','best_col_co_light','v_umol_gDW_day','abundance_per_EC_mg_gDW_Pyl','abundance_per_EC_mg_gFW_Piques','abundance_per_EC_mg_gFW_Seaton','Z','Comp','MW_*','kmax_vivo_light')
 
 abundance_combined_all=[abundance_per_EC_mg_gDW_Pyl,abundance_per_EC_mg_gFW_Piques,abundance_per_EC_mg_gFW_Seaton];
 abundance_combined_all=max(abundance_combined_all,[],2,'omitnan');
@@ -119,8 +55,10 @@ abundance_combined_all(abundance_combined_all==0)=nan;
 vmax_combined_all=max(vmax_combined_all,[],2,'omitnan');
 vmax_combined_all(vmax_combined_all==0)=nan;
 
-Flux=max(Z*v,[],2,'omitnan');
+Flux=v_umol_gDW_day{best_row_ss_light,best_col_co_light}/86400;
+Flux=max(Flux,[],2,'omitnan');
 Flux(Flux==0)=nan;
+
 %% 
 % 
 %%%%%%% RESULTS %%%%%%%%%%

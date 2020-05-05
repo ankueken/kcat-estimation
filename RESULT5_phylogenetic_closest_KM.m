@@ -1,7 +1,7 @@
 clear
 taxa=readtable('Data/taxaWB.csv');
 
-files=dir('Data/KM/*.csv');
+files=dir('Data/KM/KM_Pyr_2_6_1_2.csv');
 
 N=cell(16,1);
 for f=1:length(files)

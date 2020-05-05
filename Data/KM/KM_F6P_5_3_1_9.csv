@@ -1,0 +1,68 @@
+5.3.1.9	glucose-6-phosphate isomerase	0.04	-	D-fructose 6-phosphate	50°C, pH 6.3	Methanocaldococcus jannaschii	-	87	649517	
+5.3.1.9	glucose-6-phosphate isomerase	0.0596	-	fructose 6-phosphate	mutant enzyme Thr224 to Met	Homo sapiens	-	453	2860	
+5.3.1.9	glucose-6-phosphate isomerase	0.06	-	D-fructose 6-phosphate	pH 7.4, 80°C	Pyrobaculum aerophilum	-	87	661679	
+5.3.1.9	glucose-6-phosphate isomerase	0.0635	-	fructose 6-phosphate	native enzyme	Homo sapiens	-	453	2860	
+5.3.1.9	glucose-6-phosphate isomerase	0.0657	-	fructose 6-phosphate	mutant enzyme Thr5 to Ile	Homo sapiens	-	453	2860	
+5.3.1.9	glucose-6-phosphate isomerase	0.0734	-	fructose 6-phosphate	mutant enzyme Asp539 to Asn	Homo sapiens	-	453	2860	
+5.3.1.9	glucose-6-phosphate isomerase	0.0769	-	fructose 6-phosphate	mutant enzyme Gln343 to Arg	Homo sapiens	-	453	2860	
+5.3.1.9	glucose-6-phosphate isomerase	0.1	-	fructose 6-phosphate	-	Dictyostelium discoideum	-	453	2843	
+5.3.1.9	glucose-6-phosphate isomerase	0.1	-	fructose 6-phosphate	-	Schistosoma mansoni	-	453	2624	
+5.3.1.9	glucose-6-phosphate isomerase	0.11	0.23	fructose 6-phosphate	values of 0.11 mM, 0.15 mM and 0.23 mM are determined by different autors	Saccharomyces cerevisiae	-	453	2624	
+5.3.1.9	glucose-6-phosphate isomerase	0.12	-	fructose 6-phosphate	fructose 6-phosphate, at pH 8.6	Triticum aestivum	-	453	2853	
+5.3.1.9	glucose-6-phosphate isomerase	0.12	-	fructose 6-phosphate	fructose 6-phosphate, enzyme form PGI II	Triticum aestivum	-	453	2854	
+5.3.1.9	glucose-6-phosphate isomerase	0.14	-	fructose 6-phosphate	isoenzyme PGI I from germinating seeds	Cassia coluteoides	-	453	2813	
+5.3.1.9	glucose-6-phosphate isomerase	0.1425	-	fructose 6-phosphate	-	Leishmania mexicana mexicana	-	453	2863	
+5.3.1.9	glucose-6-phosphate isomerase	0.17	-	fructose 6-phosphate	enzyme form PGI I	Triticum aestivum	-	453	2854	
+5.3.1.9	glucose-6-phosphate isomerase	0.18	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y95K	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.18	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y95K	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.19	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H136A	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.19	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H136A	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.2	-	D-fructose 6-phosphate	80°C, pH 7.4	Thermoplasma acidophilum	-	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.2	-	D-fructose 6-phosphate	80°C, pH 7.4	Thermoplasma acidophilum	Q9HIC2	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.2	-	fructose 6-phosphate	enzyme forms PGI I and PGI II	Escherichia coli	-	453	2841	
+5.3.1.9	glucose-6-phosphate isomerase	0.21	-	D-fructose 6-phosphate	50°C, pH 7.4	Aeropyrum pernix	-	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.21	-	D-fructose 6-phosphate	50°C, pH 7.4	Aeropyrum pernix	Q9YE01	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.22	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme T63A	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.22	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme T63A	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.23	-	fructose 6-phosphate	isoenzyme PGI II from developing seeds	Cassia coluteoides	-	453	2813	
+5.3.1.9	glucose-6-phosphate isomerase	0.25	-	D-fructose 6-phosphate	pH 7.4, 70°C, wild-type enzyme	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.25	-	D-fructose 6-phosphate	pH 7.4, 70°C, wild-type enzyme	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.3	-	D-fructose 6-phosphate	pH 7.4, 50°C	Pyrobaculum aerophilum	-	87	661679	
+5.3.1.9	glucose-6-phosphate isomerase	0.318	-	D-fructose 6-phosphate	pH 7.6, 22°C	Mycobacterium tuberculosis	-	87	660920	
+5.3.1.9	glucose-6-phosphate isomerase	0.35	-	fructose 6-phosphate	isoenzyme PGI II from germinating seeds	Cassia coluteoides	-	453	2813	
+5.3.1.9	glucose-6-phosphate isomerase	0.36	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y95F	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.36	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y95F	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.36	-	D-fructose 6-phosphate	pH 8.0	Carassius auratus	-	87	704132	
+5.3.1.9	glucose-6-phosphate isomerase	0.39	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H80D	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.39	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H80D	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.44	-	D-fructose 6-phosphate	80°C, pH 7.4	Aeropyrum pernix	-	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.44	-	D-fructose 6-phosphate	80°C, pH 7.4	Aeropyrum pernix	Q9YE01	87	662220	
+5.3.1.9	glucose-6-phosphate isomerase	0.46	-	fructose 6-phosphate	isoenzyme PGI I from developing seeds	Cassia coluteoides	-	453	2813	
+5.3.1.9	glucose-6-phosphate isomerase	0.5	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme G79A	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.5	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme G79A	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	0.59	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme E89V	Thermococcus litoralis	-	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	0.59	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme E89V	Thermococcus litoralis	P84140	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	0.7	-	D-fructose 6-phosphate	pH 7.6, 37°C	Methanosarcina mazei	-	87	662029	
+5.3.1.9	glucose-6-phosphate isomerase	0.8	-	D-fructose 6-phosphate	pH 7.4, 50°C	Sinorhizobium meliloti	-	87	662029	
+5.3.1.9	glucose-6-phosphate isomerase	1	-	D-fructose 6-phosphate	80°C, pH 7.0, native enzyme	Pyrococcus furiosus	-	87	651684	
+5.3.1.9	glucose-6-phosphate isomerase	1.2	-	D-fructose 6-phosphate	80°C, pH 7.0, recombinant enzyme	Pyrococcus furiosus	-	87	651684	
+5.3.1.9	glucose-6-phosphate isomerase	1.4	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H137A	Thermococcus litoralis	-	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	1.4	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H137A	Thermococcus litoralis	P84140	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	1.4	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y160F	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	1.4	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme Y160F	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	1.7	-	D-fructose 6-phosphate	50°C, pH 7.5, wild-type enzyme	Thermococcus litoralis	-	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	1.7	-	D-fructose 6-phosphate	50°C, pH 7.5, wild-type enzyme	Thermococcus litoralis	P84140	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	2	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme G79L; pH 7.4, 70°C, mutant enzyme H82A	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	2	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme G79L; pH 7.4, 70°C, mutant enzyme H82A	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	2.1	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H91A	Thermococcus litoralis	-	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	2.1	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H91A	Thermococcus litoralis	P84140	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	2.9	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme E93D	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	2.9	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme E93D	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	3	-	D-fructose 6-phosphate	pH 7.2, 37°C	Salmonella enterica	-	87	662029	
+5.3.1.9	glucose-6-phosphate isomerase	3.5	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H89A	Thermococcus litoralis	-	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	3.5	-	D-fructose 6-phosphate	50°C, pH 7.5, mutant enzyme H89A	Thermococcus litoralis	P84140	87	651319	
+5.3.1.9	glucose-6-phosphate isomerase	4	-	D-fructose 6-phosphate	80°C, pH not specified in the publication	Archaeoglobus fulgidus	-	87	721449	
+5.3.1.9	glucose-6-phosphate isomerase	20.3	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H80A	Archaeoglobus fulgidus	-	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	20.3	-	D-fructose 6-phosphate	pH 7.4, 70°C, mutant enzyme H80A	Archaeoglobus fulgidus	O28778	87	722225	
+5.3.1.9	glucose-6-phosphate isomerase	169	-	D-fructose 6-phosphate	wild-type, 37°C, pH 8.0	Homo sapiens	-	87	661262	
+5.3.1.9	glucose-6-phosphate isomerase	170	-	D-fructose 6-phosphate	mutant A346H, 37°C, pH 8.0	Homo sapiens	-	87	661262	
